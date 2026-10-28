@@ -21,7 +21,7 @@ import urllib.request
 import urllib.parse
 import http.cookiejar
 
-from data_version import in_scope, require_scope, version_tag
+from data_version import in_scope, require_scope, version_module_title, version_tag
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(line_buffering=True)
@@ -98,9 +98,12 @@ def login():
 def path_to_title(rel_path: str) -> str:
     """本地相对路径 → wiki 标题。
     Data/Versions/GTNH/.../Items/0.json → Data:Versions/GTNH/.../Items/0.json
+    Module/Database/Versions/GTNH/1.lua → Module:Database/Versions/GTNH/1
     """
     parts = rel_path.replace("\\", "/").split("/", 1)
     if len(parts) == 2:
+        if parts[0] == "Module":
+            parts[1] = parts[1].removesuffix(".lua")
         return parts[0] + ":" + parts[1]
     return "0:" + parts[0]
 
@@ -109,6 +112,8 @@ def title_to_path(title: str) -> str:
     """wiki 标题 → 本地相对路径。"""
     ns, sep, rest = title.partition(":")
     if sep:
+        if ns == "Module":
+            rest += ".lua"
         return ns + "/" + rest
     return "0/" + rest
 
@@ -178,7 +183,7 @@ def get_stats() -> dict:
 # ── Scan & Cross-reference ───────────────────────────────────
 
 def scan_local_files() -> dict[str, tuple[float, int]]:
-    """只扫描配置的模组/版本，返回 {rel_path: (mtime, size)}。"""
+    """扫描当前版本的数据页与配置模块，返回 {rel_path: (mtime, size)}。"""
     files = {}
     scan_root = os.path.join(WIKITEXT_DIR, title_to_path(WIKI_PREFIX).replace("/", os.sep))
     if not os.path.isdir(scan_root):
@@ -191,6 +196,12 @@ def scan_local_files() -> dict[str, tuple[float, int]]:
             rel = os.path.relpath(abs_path, wikitext_abs).replace("\\", "/")
             stat = os.stat(abs_path)
             files[rel] = (stat.st_mtime, stat.st_size)
+
+    config_path = title_to_path(version_module_title(WIKI_PREFIX))
+    config_abs = os.path.join(wikitext_abs, config_path)
+    if os.path.isfile(config_abs):
+        stat = os.stat(config_abs)
+        files[config_path] = (stat.st_mtime, stat.st_size)
     return files
 
 

@@ -21,7 +21,9 @@ import threading
 import urllib.request
 import urllib.parse
 import http.cookiejar
-from image_version import icon_names, image_paths, require_source
+from image_version import image_paths, require_source
+from image_plan import prepare_plan
+from image_state import update_state
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(line_buffering=True)
@@ -51,7 +53,7 @@ def _load_dotenv():
 _load_dotenv()
 
 _PROJECT_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-DUMPS_DIR, INVENTORY_DB, ICONS_DIR, _ = image_paths(os.path.dirname(os.path.abspath(__file__)))
+DUMPS_DIR, INVENTORY_DB, ICONS_DIR, NEW_CSV = image_paths(os.path.dirname(os.path.abspath(__file__)))
 
 BASE = os.environ.get("BASE_URL", "https://gtnh.huijiwiki.com/api.php")
 AUTHKEY = os.environ.get("AUTHKEY", "")
@@ -63,11 +65,12 @@ _stop = threading.Event()
 
 # ── Task DB ────────────────────────────────────────────────────
 
-def get_pending_icons() -> list[str]:
+def get_pending_icons(plan=None) -> list[str]:
     """读取当前来源中 icon_state=待更新 且本地存在的图标（去重）。"""
-    if not os.path.isfile(INVENTORY_DB):
-        return []
-    current_icons = icon_names(ICONS_DIR)
+    if plan is None:
+        plan = prepare_plan(DUMPS_DIR, NEW_CSV)
+    current_icons = set(plan['uploadIcons'])
+    update_state(INVENTORY_DB, current_icons, plan['redirects'])
     with closing(sqlite3.connect(INVENTORY_DB)) as conn:
         rows = conn.execute(
             "SELECT DISTINCT icon_name FROM images "
@@ -212,12 +215,8 @@ def worker(icon_list: list, total: int, counters: dict, lock: threading.Lock,
                 raise RuntimeError(f"上传未成功: {result.get('result', '?')}")
             mark_icon_done(icon_name)  # wiki 已接受 = 已上传
         except Exception as e:
-            err = str(e)
-            if any(kw in err.lower() for kw in ("fileexists", "duplicate", "已存在")):
-                status, msg = "SKIP", ""
-                mark_icon_done(icon_name)
-            else:
-                status, msg = "FAIL", err
+            # duplicate 可能指向另一文件名，不能据此认定目标图片已经可用。
+            status, msg = "FAIL", str(e)
 
         with lock:
             counters[status] = counters.get(status, 0) + 1
@@ -239,7 +238,8 @@ def main():
         if a == "-t" and i + 1 < len(args):
             threads = int(args[i + 1])
 
-    tasks = get_pending_icons()
+    plan = prepare_plan(DUMPS_DIR, NEW_CSV)
+    tasks = get_pending_icons(plan)
     if not tasks:
         print("No pending icons. Run image_inventory.py first.")
         return
@@ -290,7 +290,7 @@ def main():
         for t in workers:
             t.join(timeout=2)
 
-    remaining = len(get_pending_icons())
+    remaining = len(get_pending_icons(plan))
     print(f"Done! OK: {counters['OK']}, SKIP: {counters['SKIP']}, FAIL: {counters['FAIL']}")
     if remaining:
         print(f"{remaining} icons still pending (re-run to retry failures)")

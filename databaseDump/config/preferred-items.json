@@ -1,0 +1,6037 @@
+{
+  "schemaVersion": 2,
+  "choices": {
+    ".name.png": {
+      "key": "gregtech:gt.blockmachines:2759"
+    },
+    "2阶助推器.png": {
+      "key": "dreamcraft:Tier2Booster"
+    },
+    "4安HV动力仓.png": {
+      "key": "gregtech:gt.blockmachines:15239"
+    },
+    "Any Schematic.png": {
+      "key": "GalacticraftCore:item.schematic_4B6EKpmkpWoFJfR"
+    },
+    "BArTiMaEuSNeK矿石.png": {
+      "key": "bartworks:bw.blockores.01:43"
+    },
+    "Debug数据访问仓.png": {
+      "key": "gregtech:gt.blockmachines:15499"
+    },
+    "Debug未定元解析器.png": {
+      "key": "gregtech:gt.blockmachines:15510"
+    },
+    "Debug能源仓.png": {
+      "key": "gregtech:gt.blockmachines:11304"
+    },
+    "HSLA钢手里剑.png": {
+      "key": "TConstruct:Shuriken_VLLCFhKeS4R5JyM"
+    },
+    "HSLA钢锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1751"
+    },
+    "Impskin 2.0.png": {
+      "key": "Natura:natura.armor.imphelmet_IrbR5PRdVR7KCF5"
+    },
+    "MAR-Ce-M200特种钢手里剑.png": {
+      "key": "TConstruct:Shuriken_wjWw3g6mdL6aLQ3"
+    },
+    "MAR-Ce-M200特种钢锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1723"
+    },
+    "ME二合一接口.png": {
+      "key": "ae2fc:fluid_interface"
+    },
+    "ME光束成型器.png": {
+      "key": "sciencenotleisure:beam_former"
+    },
+    "ME存储代理(进阶).png": {
+      "key": "programmablehatches:proghatches.proxy"
+    },
+    "ME存储代理.png": {
+      "key": "programmablehatches:proghatches.proxy:2"
+    },
+    "ME接口.png": {
+      "key": "appliedenergistics2:tile.BlockInterface"
+    },
+    "ME流体存储代理.png": {
+      "key": "programmablehatches:proghatches.proxy:1"
+    },
+    "Mars Attacks.png": {
+      "key": "GalacticraftMars:item.deshSword_LiNTMMMm7XebmTm"
+    },
+    "NASA工作台图纸.png": {
+      "key": "GalacticraftCore:item.schematic"
+    },
+    "NULL块.png": {
+      "key": "gregtech:gt.blockgem3:6"
+    },
+    "PCB工厂.png": {
+      "key": "gregtech:gt.blockmachines:356"
+    },
+    "TNT发电机.png": {
+      "key": "ExtraUtilities:generator:8"
+    },
+    "Unknown.png": {
+      "key": "Forestry:sapling"
+    },
+    "Unnamed.png": {
+      "key": "BuildCraft|Transport:pipeFacade_ZxY4uTyt07r8C9T"
+    },
+    "三元金属手里剑.png": {
+      "key": "TConstruct:Shuriken_Ejtqa1DgHLwirIK"
+    },
+    "三钛手里剑.png": {
+      "key": "TConstruct:Shuriken_BXPWO2U8OS0yZTX"
+    },
+    "下界之星发电机.png": {
+      "key": "ExtraUtilities:generator:11"
+    },
+    "下界之星手里剑.png": {
+      "key": "TConstruct:Shuriken_IG4yfI5iDlLwGiq"
+    },
+    "下界圆石台阶.png": {
+      "key": "Railcraft:slab:37"
+    },
+    "下界方块台阶.png": {
+      "key": "Railcraft:slab:29"
+    },
+    "下界石英手里剑.png": {
+      "key": "TConstruct:Shuriken_421CazKGJ7x4Xyj"
+    },
+    "下界石英镐.png": {
+      "key": "TConstruct:pickaxe_yoxL2CqAkpgX0CA"
+    },
+    "不稳定感应手里剑.png": {
+      "key": "TConstruct:ShurikenPart:314"
+    },
+    "不锈钢手里剑.png": {
+      "key": "TConstruct:Shuriken_cHTfy9OCqg6u5fG"
+    },
+    "世界崩解之镐.png": {
+      "key": "Avaritia:Infinity_Pickaxe"
+    },
+    "丛林木书架.png": {
+      "key": "BiblioCraft:Bibliotheca:3"
+    },
+    "丛林木椅背.png": {
+      "key": "BiblioCraft:item.seatBack:3"
+    },
+    "丛林木画框.png": {
+      "key": "BiblioCraft:BiblioFlatPainting:3"
+    },
+    "丛林木门.png": {
+      "key": "ExtraTrees:door:3"
+    },
+    "东方绿斑粉蝶.png": {
+      "key": "Forestry:butterflyGE_4wG8VpXKVRz8r4T"
+    },
+    "中世纪门碰撞箱帮助器.png": {
+      "key": "malisisdoors:medieval_door_collisionHelper_MEDIEVAL"
+    },
+    "中子合金手里剑.png": {
+      "key": "TConstruct:Shuriken_8YlwZVW1lNucBQ9"
+    },
+    "中子态素收集器.png": {
+      "key": "Avaritia:Neutron_Collector"
+    },
+    "中子手里剑.png": {
+      "key": "TConstruct:Shuriken_uB6o57cEs1zKTTW"
+    },
+    "中子管道方块.png": {
+      "key": "sciencenotleisure:meta_casing:4"
+    },
+    "中继器.png": {
+      "key": "OpenComputers:relay"
+    },
+    "久辉铜矿石.png": {
+      "key": "bartworks:bw.blockores.01:16"
+    },
+    "乌柏巨蚕蛾.png": {
+      "key": "Forestry:butterflyGE_GzHedpdYLjfX5O7"
+    },
+    "乌檀木座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:6"
+    },
+    "乌檀木画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:6"
+    },
+    "乌檀树台阶.png": {
+      "key": "Forestry:slabs:9"
+    },
+    "乳胶胶囊.png": {
+      "key": "BinnieCore:containerCapsule:130"
+    },
+    "二氧化硫冰.png": {
+      "key": "gregtech:gt.blockores7:1651"
+    },
+    "二氧化碳冰.png": {
+      "key": "gregtech:gt.blockores7:1497"
+    },
+    "二硅化钼手里剑.png": {
+      "key": "TConstruct:Shuriken_EDAewStmXJT5fyd"
+    },
+    "二硅化钼锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1750"
+    },
+    "云.png": {
+      "key": "Natura:Cloud"
+    },
+    "云杉木书架.png": {
+      "key": "BiblioCraft:Bibliotheca:1"
+    },
+    "云杉木门.png": {
+      "key": "ExtraTrees:door:1"
+    },
+    "云杉椅背.png": {
+      "key": "BiblioCraft:item.seatBack:1"
+    },
+    "云杉画框.png": {
+      "key": "BiblioCraft:BiblioFlatPainting:1"
+    },
+    "亚稳态鿫手里剑.png": {
+      "key": "TConstruct:Shuriken_cdcyeClNAV011Xv"
+    },
+    "亚稳态鿫锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1734"
+    },
+    "交接轨道.png": {
+      "key": "Railcraft:track_O8ruL9UsirckV5d"
+    },
+    "仙人掌手里剑.png": {
+      "key": "TConstruct:ShurikenPart:4"
+    },
+    "仙人掌果.png": {
+      "key": "Natura:saguaro.fruit"
+    },
+    "仙馔密酒.png": {
+      "key": "BiomesOPlenty:food:10"
+    },
+    "伊恩钢手里剑.png": {
+      "key": "TConstruct:ShurikenPart:201"
+    },
+    "伤害之箭.png": {
+      "key": "etfuturum:tipped_arrow:8268"
+    },
+    "伤害药水.png": {
+      "key": "minecraft:potion:8268"
+    },
+    "伤害转移护符.png": {
+      "key": "HardcoreEnderExpansion:charm:31"
+    },
+    "余烬熔炉.png": {
+      "key": "TwilightForest:tile.CinderFurnaceIdle"
+    },
+    "信素手里剑.png": {
+      "key": "TConstruct:Shuriken_SnEO6NKHmMpvjA5"
+    },
+    "信素锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1725"
+    },
+    "修饰草地台阶.png": {
+      "key": "Natura:GrassSlab"
+    },
+    "傀儡运转核心.png": {
+      "key": "Thaumcraft:ItemGolemCore"
+    },
+    "催生灯.png": {
+      "key": "Thaumcraft:blockMetalDevice:8"
+    },
+    "僵尸肉干.png": {
+      "key": "TConstruct:jerky:5"
+    },
+    "元始杖芯.png": {
+      "key": "Thaumcraft:WandRod:100"
+    },
+    "充电电池.png": {
+      "key": "IC2:itemBatREDischarged"
+    },
+    "充能合金手里剑.png": {
+      "key": "TConstruct:Shuriken_mhswNYQhSUsnMeo"
+    },
+    "充能神秘杖端.png": {
+      "key": "Thaumcraft:WandCap:2"
+    },
+    "充能虚空石柱.png": {
+      "key": "chisel:voidstonePillar2"
+    },
+    "充能虚空金属杖端.png": {
+      "key": "Thaumcraft:WandCap:7"
+    },
+    "充能银手里剑.png": {
+      "key": "TConstruct:Shuriken_deS6G6Z9E7IGcWy"
+    },
+    "充能银杖端.png": {
+      "key": "Thaumcraft:WandCap:4"
+    },
+    "光球.png": {
+      "key": "ThaumicHorizons:light"
+    },
+    "光素手里剑.png": {
+      "key": "TConstruct:Shuriken_SJFI8uXspY28LAF"
+    },
+    "光素锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1730"
+    },
+    "再生之箭.png": {
+      "key": "etfuturum:tipped_arrow:8193"
+    },
+    "再生药水.png": {
+      "key": "minecraft:potion:8193"
+    },
+    "写字板.png": {
+      "key": "BiblioCraft:BiblioClipboard"
+    },
+    "冬青小灰蝶.png": {
+      "key": "Forestry:butterflyGE_oSYE6f3FbaKdBYB"
+    },
+    "冰台阶.png": {
+      "key": "Railcraft:slab:4"
+    },
+    "冰柱.png": {
+      "key": "chisel:ice_pillar"
+    },
+    "冰楼梯.png": {
+      "key": "Railcraft:stair:4"
+    },
+    "冰门.png": {
+      "key": "witchery:icedoor"
+    },
+    "冶炼炉排液口.png": {
+      "key": "TConstruct:Smeltery:1"
+    },
+    "冶炼炉控制器.png": {
+      "key": "TConstruct:Smeltery"
+    },
+    "冷杉台阶.png": {
+      "key": "ExtraTrees:slab"
+    },
+    "凋零之箭.png": {
+      "key": "etfuturum:tipped_arrow:8235"
+    },
+    "凝灰岩台阶.png": {
+      "key": "etfuturum:tuff_slab"
+    },
+    "凝灰岩砖台阶.png": {
+      "key": "etfuturum:tuff_slab:2"
+    },
+    "凿子.png": {
+      "key": "chisel:chisel"
+    },
+    "分析仪.png": {
+      "key": "Forestry:core"
+    },
+    "分类木台阶.png": {
+      "key": "TwilightForest:tile.TFWoodSlab:7"
+    },
+    "分类树引擎.png": {
+      "key": "TwilightForest:tile.TFMagicLeaves:3"
+    },
+    "切片电路.png": {
+      "key": "bartworks:gt.bwMetaGeneratedItem0:1004"
+    },
+    "剧毒之箭.png": {
+      "key": "etfuturum:tipped_arrow:8196"
+    },
+    "剧毒药水.png": {
+      "key": "minecraft:potion:8196"
+    },
+    "力场.png": {
+      "key": "ThaumicTinkerer:forcefield"
+    },
+    "力量之箭.png": {
+      "key": "etfuturum:tipped_arrow:8201"
+    },
+    "力量药水.png": {
+      "key": "minecraft:potion:8201"
+    },
+    "加勒白眼蝶.png": {
+      "key": "Forestry:butterflyGE_qSLv7uGqB1gNEaO"
+    },
+    "加长喷溅型剧毒药水.png": {
+      "key": "fluid.potion.poison.strong.splash"
+    },
+    "匕首.png": {
+      "key": "ProjRed|Exploration:projectred.exploration.athame"
+    },
+    "北美凤尾蝶.png": {
+      "key": "Forestry:butterflyGE_UgR7yWatk1YjPCv"
+    },
+    "南瓜芝士蛋糕.png": {
+      "key": "harvestcraft:pampumpkincheeseCake"
+    },
+    "卢米坡德台阶.png": {
+      "key": "GalacticraftAmunRa:tile.woodDoubleslab"
+    },
+    "压印电路.png": {
+      "key": "bartworks:gt.bwMetaGeneratedItem0:4"
+    },
+    "压缩蒸汽手里剑.png": {
+      "key": "TConstruct:Shuriken_2i0NyfAKBD3DKSv"
+    },
+    "压缩蒸汽锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1752"
+    },
+    "原子分离催化剂手里剑.png": {
+      "key": "TConstruct:Shuriken_XJURrvIm9fRJDRk"
+    },
+    "原子分离催化剂锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1715"
+    },
+    "厨用发电机.png": {
+      "key": "ExtraUtilities:generator:5"
+    },
+    "去皮松树原木.png": {
+      "key": "etfuturum:bop_log_stripped4"
+    },
+    "去皮樱花木.png": {
+      "key": "etfuturum:bop_wood_stripped:1"
+    },
+    "去皮深色橡木.png": {
+      "key": "etfuturum:wood2_stripped:1"
+    },
+    "去皮深色橡木原木.png": {
+      "key": "etfuturum:log2_stripped:1"
+    },
+    "去皮神圣橡木原木.png": {
+      "key": "etfuturum:bop_log_stripped"
+    },
+    "去皮红树原木.png": {
+      "key": "etfuturum:bop_log_stripped2:2"
+    },
+    "双重耐久护符.png": {
+      "key": "HardcoreEnderExpansion:charm:60"
+    },
+    "反胃之箭.png": {
+      "key": "etfuturum:tipped_arrow:8231"
+    },
+    "反胃药水.png": {
+      "key": "minecraft:potion:8231"
+    },
+    "发电机.png": {
+      "key": "DraconicEvolution:generator:3"
+    },
+    "变化木台阶.png": {
+      "key": "TwilightForest:tile.TFWoodSlab:5"
+    },
+    "变质平原圆石台阶.png": {
+      "key": "Botania:biomeStoneA9Slab"
+    },
+    "变质平原石头台阶.png": {
+      "key": "Botania:biomeStoneA1Slab"
+    },
+    "变质平原石砖台阶.png": {
+      "key": "Botania:biomeStoneB1Slab"
+    },
+    "变质森林圆石台阶.png": {
+      "key": "Botania:biomeStoneA8Slab"
+    },
+    "变质森林石头台阶.png": {
+      "key": "Botania:biomeStoneA0Slab"
+    },
+    "变质森林石砖台阶.png": {
+      "key": "Botania:biomeStoneB0Slab"
+    },
+    "变质沙漠圆石台阶.png": {
+      "key": "Botania:biomeStoneA13Slab"
+    },
+    "变质沙漠石头台阶.png": {
+      "key": "Botania:biomeStoneA5Slab"
+    },
+    "变质沙漠石砖台阶.png": {
+      "key": "Botania:biomeStoneB5Slab"
+    },
+    "变质沼泽圆石台阶.png": {
+      "key": "Botania:biomeStoneA12Slab"
+    },
+    "变质沼泽石头台阶.png": {
+      "key": "Botania:biomeStoneA4Slab"
+    },
+    "变质沼泽石砖台阶.png": {
+      "key": "Botania:biomeStoneB4Slab"
+    },
+    "变质菌丝圆石台阶.png": {
+      "key": "Botania:biomeStoneA11Slab"
+    },
+    "变质菌丝石头台阶.png": {
+      "key": "Botania:biomeStoneA3Slab"
+    },
+    "变质菌丝石砖台阶.png": {
+      "key": "Botania:biomeStoneB3Slab"
+    },
+    "变质雪原圆石台阶.png": {
+      "key": "Botania:biomeStoneA14Slab"
+    },
+    "变质雪原石砖台阶.png": {
+      "key": "Botania:biomeStoneB6Slab"
+    },
+    "变质高原圆石台阶.png": {
+      "key": "Botania:biomeStoneA15Slab"
+    },
+    "变质高原石头台阶.png": {
+      "key": "Botania:biomeStoneA6SlabFull"
+    },
+    "变质高原石砖台阶.png": {
+      "key": "Botania:biomeStoneB7Slab"
+    },
+    "变质高山圆石台阶.png": {
+      "key": "Botania:biomeStoneA10Slab"
+    },
+    "变质高山石头台阶.png": {
+      "key": "Botania:biomeStoneA2Slab"
+    },
+    "变质高山石砖台阶.png": {
+      "key": "Botania:biomeStoneB2Slab"
+    },
+    "史莱姆凿头.png": {
+      "key": "TConstruct:chiselHead:8"
+    },
+    "史莱姆刀刃.png": {
+      "key": "TConstruct:knifeBlade:8"
+    },
+    "史莱姆剑刃.png": {
+      "key": "TConstruct:swordBlade:8"
+    },
+    "史莱姆十字柄.png": {
+      "key": "TConstruct:crossbar:8"
+    },
+    "史莱姆坚韧手柄.png": {
+      "key": "TConstruct:toughRod:8"
+    },
+    "史莱姆坚韧绑定结.png": {
+      "key": "TConstruct:toughBinding:8"
+    },
+    "史莱姆大板.png": {
+      "key": "TConstruct:heavyPlate:8"
+    },
+    "史莱姆宽剑刃.png": {
+      "key": "TConstruct:largeSwordBlade:8"
+    },
+    "史莱姆宽护手.png": {
+      "key": "TConstruct:wideGuard:8"
+    },
+    "史莱姆宽斧刃.png": {
+      "key": "TConstruct:broadAxeHead:8"
+    },
+    "史莱姆开掘铲头.png": {
+      "key": "TConstruct:excavatorHead:8"
+    },
+    "史莱姆弓臂.png": {
+      "key": "TConstruct:BowLimbPart:8"
+    },
+    "史莱姆弩箭.png": {
+      "key": "TConstruct:BoltPart:8_Fyz2DVyIvVbvgp7"
+    },
+    "史莱姆弩臂.png": {
+      "key": "TConstruct:CrossbowLimbPart:8"
+    },
+    "史莱姆弩身.png": {
+      "key": "TConstruct:CrossbowBodyPart:8"
+    },
+    "史莱姆手柄.png": {
+      "key": "TConstruct:toolRod:8"
+    },
+    "史莱姆手里剑.png": {
+      "key": "TConstruct:ShurikenPart:8"
+    },
+    "史莱姆护手.png": {
+      "key": "TConstruct:handGuard:8"
+    },
+    "史莱姆斧刃.png": {
+      "key": "TConstruct:hatchetHead:8"
+    },
+    "史莱姆牌板.png": {
+      "key": "TConstruct:signHead:8"
+    },
+    "史莱姆盘.png": {
+      "key": "TConstruct:frypanHead:8"
+    },
+    "史莱姆碎片.png": {
+      "key": "TConstruct:toolShard:8"
+    },
+    "史莱姆箭头.png": {
+      "key": "TConstruct:arrowhead:8"
+    },
+    "史莱姆绑定结.png": {
+      "key": "TConstruct:binding:8"
+    },
+    "史莱姆铲头.png": {
+      "key": "TConstruct:shovelHead:8"
+    },
+    "史莱姆锤头.png": {
+      "key": "TConstruct:hammerHead:8"
+    },
+    "史莱姆镐头.png": {
+      "key": "TConstruct:pickaxeHead:8"
+    },
+    "史莱姆镰刀刀刃.png": {
+      "key": "TConstruct:scytheBlade:8"
+    },
+    "史诗电池背包.png": {
+      "key": "gravisuiteneo:epicLappack:1"
+    },
+    "合成玉矿石.png": {
+      "key": "bartworks:bw.blockores.01:10023"
+    },
+    "合成站.png": {
+      "key": "TConstruct:CraftingStation"
+    },
+    "合成请求隧道.png": {
+      "key": "programmablehatches:proghatches.part.tunnel"
+    },
+    "合金冶炼炉.png": {
+      "key": "gregtech:gt.blockmachines:810"
+    },
+    "吸血鬼诅咒.png": {
+      "key": "HardcoreEnderExpansion:curse:8"
+    },
+    "咖喱粉.png": {
+      "key": "harvestcraft:currypowderItem"
+    },
+    "品红色带釉陶瓦.png": {
+      "key": "etfuturum:magenta_glazed_terracotta"
+    },
+    "品红色幕布.png": {
+      "key": "malisisdoors:curtain_magenta"
+    },
+    "品红色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_SgXHrPvyxm2Es7H"
+    },
+    "品红色混凝土.png": {
+      "key": "etfuturum:concrete:2"
+    },
+    "品红色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:2"
+    },
+    "品红色灯.png": {
+      "key": "sciencenotleisure:meta_block:25"
+    },
+    "品红色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:13"
+    },
+    "品红色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab1:2"
+    },
+    "品红遮光玻璃.png": {
+      "key": "witchery:shadedglass:2"
+    },
+    "哈氏合金手里剑.png": {
+      "key": "TConstruct:Shuriken_6eI5SynDqzablPk"
+    },
+    "唱片碎片.png": {
+      "key": "Avaritia:Resource:7"
+    },
+    "喙凤蝶.png": {
+      "key": "Forestry:butterflyGE_UUDQwso3btUq4Sa"
+    },
+    "喷涂台阶.png": {
+      "key": "EnderIO:blockPaintedSlab"
+    },
+    "喷溅型 伤害药水.png": {
+      "key": "minecraft:potion:16460"
+    },
+    "喷溅型 再生药水.png": {
+      "key": "minecraft:potion:16385"
+    },
+    "喷溅型 剧毒药水.png": {
+      "key": "minecraft:potion:16388"
+    },
+    "喷溅型 力量药水.png": {
+      "key": "minecraft:potion:16393"
+    },
+    "喷溅型 反胃药水.png": {
+      "key": "minecraft:potion:16423"
+    },
+    "喷溅型 夜视药水.png": {
+      "key": "minecraft:potion:16422"
+    },
+    "喷溅型 抗火药水.png": {
+      "key": "minecraft:potion:16419"
+    },
+    "喷溅型 水肺药水.png": {
+      "key": "minecraft:potion:16429"
+    },
+    "喷溅型 治疗药水.png": {
+      "key": "minecraft:potion:16453"
+    },
+    "喷溅型 虚弱药水.png": {
+      "key": "minecraft:potion:16424"
+    },
+    "喷溅型 衰变药水.png": {
+      "key": "minecraft:potion:16427"
+    },
+    "喷溅型 跳跃药水.png": {
+      "key": "minecraft:potion:16443"
+    },
+    "喷溅型 迅捷药水.png": {
+      "key": "minecraft:potion:16386"
+    },
+    "喷溅型 迟缓药水.png": {
+      "key": "minecraft:potion:16426"
+    },
+    "喷溅型 隐身药水.png": {
+      "key": "minecraft:potion:16430"
+    },
+    "喷漆罐（Black）.png": {
+      "key": "gregtech:gt.metaitem.01:32430"
+    },
+    "喷漆罐（Blue）.png": {
+      "key": "gregtech:gt.metaitem.01:32438"
+    },
+    "喷漆罐（Brown）.png": {
+      "key": "gregtech:gt.metaitem.01:32436"
+    },
+    "喷漆罐（Cyan）.png": {
+      "key": "gregtech:gt.metaitem.01:32442"
+    },
+    "喷漆罐（Gray）.png": {
+      "key": "gregtech:gt.metaitem.01:32446"
+    },
+    "喷漆罐（Green）.png": {
+      "key": "gregtech:gt.metaitem.01:32434"
+    },
+    "喷漆罐（Light Blue）.png": {
+      "key": "gregtech:gt.metaitem.01:32454"
+    },
+    "喷漆罐（Light Gray）.png": {
+      "key": "gregtech:gt.metaitem.01:32444"
+    },
+    "喷漆罐（Lime）.png": {
+      "key": "gregtech:gt.metaitem.01:32450"
+    },
+    "喷漆罐（Magenta）.png": {
+      "key": "gregtech:gt.metaitem.01:32456"
+    },
+    "喷漆罐（Orange）.png": {
+      "key": "gregtech:gt.metaitem.01:32458"
+    },
+    "喷漆罐（Pink）.png": {
+      "key": "gregtech:gt.metaitem.01:32448"
+    },
+    "喷漆罐（Purple）.png": {
+      "key": "gregtech:gt.metaitem.01:32440"
+    },
+    "喷漆罐（Red）.png": {
+      "key": "gregtech:gt.metaitem.01:32432"
+    },
+    "喷漆罐（White）.png": {
+      "key": "gregtech:gt.metaitem.01:32460"
+    },
+    "喷漆罐（Yellow）.png": {
+      "key": "gregtech:gt.metaitem.01:32452"
+    },
+    "四氟化钍.png": {
+      "key": "fluid.molten.thoriumtetrafluoride"
+    },
+    "四氟化钍单元.png": {
+      "key": "miscutils:itemCellThoriumTetrafluoride"
+    },
+    "圆石台阶.png": {
+      "key": "minecraft:stone_slab:3"
+    },
+    "圣餐杯.png": {
+      "key": "witchery:chalice"
+    },
+    "地之魔晶台阶.png": {
+      "key": "thaumicbases:crystalSlab:3"
+    },
+    "地之魔晶手里剑.png": {
+      "key": "TConstruct:Shuriken_U5TjTg9u48Qt1zw"
+    },
+    "地狱圆石台阶.png": {
+      "key": "Railcraft:slab:31"
+    },
+    "地狱岩手里剑.png": {
+      "key": "TConstruct:ShurikenPart:7"
+    },
+    "地狱树原木.png": {
+      "key": "fether:nether_log"
+    },
+    "地狱树叶.png": {
+      "key": "fether:nether_leaves"
+    },
+    "地狱树苗.png": {
+      "key": "fether:nether_sapling"
+    },
+    "地狱皮原木.png": {
+      "key": "BiomesOPlenty:logs4:1"
+    },
+    "地狱皮木台阶.png": {
+      "key": "BiomesOPlenty:woodenSingleSlab2:3"
+    },
+    "地狱皮木座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:4"
+    },
+    "地狱皮木板.png": {
+      "key": "BiomesOPlenty:planks:12"
+    },
+    "地狱皮木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:4"
+    },
+    "坎伯韦尔美人蝶.png": {
+      "key": "Forestry:butterflyGE_COrRqibMuJodo7L"
+    },
+    "坦桑石手里剑.png": {
+      "key": "TConstruct:Shuriken_J4RXTSZePphfJpd"
+    },
+    "基岩凿子.png": {
+      "key": "TConstruct:chisel_fY4zkqLXkhlGLM3"
+    },
+    "基岩手里剑.png": {
+      "key": "TConstruct:ShurikenPart:315"
+    },
+    "基础内燃发电机.png": {
+      "key": "gregtech:gt.blockmachines:1110"
+    },
+    "基础燃气轮机.png": {
+      "key": "gregtech:gt.blockmachines:1115"
+    },
+    "基础特斯拉收发器.png": {
+      "key": "gregtech:gt.blockmachines:16000"
+    },
+    "基础蒸汽轮机.png": {
+      "key": "gregtech:gt.blockmachines:1120"
+    },
+    "堇云石矿石.png": {
+      "key": "bartworks:bw.blockores.01:35"
+    },
+    "塑料电路基板.png": {
+      "key": "gregtech:gt.metaitem.03:32007"
+    },
+    "墓碑.png": {
+      "key": "BiomesOPlenty:grave"
+    },
+    "复相魔晶台阶.png": {
+      "key": "thaumicbases:crystalSlab:6"
+    },
+    "多格比合金手里剑.png": {
+      "key": "TConstruct:ShurikenPart:203"
+    },
+    "夜视之箭.png": {
+      "key": "etfuturum:tipped_arrow:8230"
+    },
+    "夜视药水.png": {
+      "key": "minecraft:potion:8230"
+    },
+    "大力合金手里剑.png": {
+      "key": "TConstruct:Shuriken_C9qf45FQUK9aKrv"
+    },
+    "大力合金锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1729"
+    },
+    "大型硅岩反应堆.png": {
+      "key": "gregtech:gt.blockmachines:15537"
+    },
+    "大型蒸汽压缩机.png": {
+      "key": "gregtech:gt.blockmachines:21100"
+    },
+    "大型蒸汽合金炉.png": {
+      "key": "gregtech:gt.blockmachines:19033"
+    },
+    "大型蒸汽搅拌机.png": {
+      "key": "gregtech:gt.blockmachines:21107"
+    },
+    "大型蒸汽离心机.png": {
+      "key": "gregtech:gt.blockmachines:21098"
+    },
+    "大型蒸汽锻造锤.png": {
+      "key": "gregtech:gt.blockmachines:19032"
+    },
+    "大型装罐机.png": {
+      "key": "gregtech:gt.blockmachines:19048"
+    },
+    "大型钛锅炉.png": {
+      "key": "gregtech:gt.blockmachines:15531"
+    },
+    "大型钢锅炉.png": {
+      "key": "gregtech:gt.blockmachines:15530"
+    },
+    "大型钨钢锅炉.png": {
+      "key": "gregtech:gt.blockmachines:15532"
+    },
+    "大型青铜锅炉.png": {
+      "key": "gregtech:gt.blockmachines:15529"
+    },
+    "大斑蝶.png": {
+      "key": "Forestry:butterflyGE_FOaAkPsKd19f8wX"
+    },
+    "大理石台阶.png": {
+      "key": "chisel:marble_slab"
+    },
+    "大理石柱.png": {
+      "key": "chisel:marble_pillar"
+    },
+    "大理石楼梯.png": {
+      "key": "chisel:marble_stairs.0"
+    },
+    "大蒜.png": {
+      "key": "witchery:garlicplant"
+    },
+    "大蒜种子.png": {
+      "key": "harvestcraft:garlicseedItem"
+    },
+    "大蓝闪蝶·梅内莱厄斯.png": {
+      "key": "Forestry:butterflyGE_6C8cDACswIA3ONK"
+    },
+    "大马士革钢手里剑.png": {
+      "key": "TConstruct:Shuriken_7CkyCWZHQKWz1mX"
+    },
+    "大麦.png": {
+      "key": "Natura:barleyFood"
+    },
+    "大麦种子.png": {
+      "key": "Natura:barley.seed"
+    },
+    "天域使魔.png": {
+      "key": "gadomancy:ItemEtherealFamiliar_y166lVwfYRLSlXG"
+    },
+    "天域木板.png": {
+      "key": "BiomesOPlenty:planks:4"
+    },
+    "天域树座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:5"
+    },
+    "天域树画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:5"
+    },
+    "太空组装模块 Mk-I.png": {
+      "key": "gregtech:gt.blockmachines:14004"
+    },
+    "失明诅咒.png": {
+      "key": "HardcoreEnderExpansion:curse:5"
+    },
+    "奥利哈钢手里剑.png": {
+      "key": "TConstruct:Shuriken_fnvqyO9kWLmepxi"
+    },
+    "奥术基座.png": {
+      "key": "Thaumcraft:blockStoneDevice:1"
+    },
+    "奥术石块.png": {
+      "key": "Thaumcraft:blockCosmeticSolid:6"
+    },
+    "奥法蛋糕.png": {
+      "key": "ForbiddenMagic:ArcaneCake"
+    },
+    "奥能之扉.png": {
+      "key": "Thaumcraft:blockArcaneDoor"
+    },
+    "女王之金手里剑.png": {
+      "key": "TConstruct:ShurikenPart:202"
+    },
+    "姬红蛱蝶.png": {
+      "key": "Forestry:butterflyGE_dG5bVWqLRY1bICS"
+    },
+    "孔雀蝶.png": {
+      "key": "Forestry:butterflyGE_tPImwMTMxaCPUtl"
+    },
+    "宇宙中子态素手里剑.png": {
+      "key": "TConstruct:ShurikenPart:500"
+    },
+    "守卫者台阶.png": {
+      "key": "ThaumicTinkerer:wardSlab"
+    },
+    "安山岩.png": {
+      "key": "Botania:stone"
+    },
+    "安山岩台阶.png": {
+      "key": "Botania:stone0Slab"
+    },
+    "安山岩砖台阶.png": {
+      "key": "Botania:stone8Slab"
+    },
+    "宏伟之木木板.png": {
+      "key": "Thaumcraft:blockWoodenDevice:6"
+    },
+    "宏伟之木杖柄.png": {
+      "key": "Thaumcraft:WandRod"
+    },
+    "宏伟之木杖芯.png": {
+      "key": "Thaumcraft:WandRod:50"
+    },
+    "实验室门.png": {
+      "key": "malisisdoors:laboratory_door"
+    },
+    "密网.png": {
+      "key": "witchery:web"
+    },
+    "富集硅岩合金手里剑.png": {
+      "key": "TConstruct:Shuriken_w1UzaX8SIJuTUim"
+    },
+    "富集硅岩合金锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1733"
+    },
+    "富集硅岩手里剑.png": {
+      "key": "TConstruct:Shuriken_dALOlNddWg5Siol"
+    },
+    "寒霜杖柄.png": {
+      "key": "Thaumcraft:WandRod:3"
+    },
+    "寒霜杖芯.png": {
+      "key": "Thaumcraft:WandRod:53"
+    },
+    "寰宇支配之剑.png": {
+      "key": "Avaritia:Infinity_Sword"
+    },
+    "导电铁手里剑.png": {
+      "key": "TConstruct:Shuriken_lggxFJYMzqYTgwz"
+    },
+    "导管框架.png": {
+      "key": "EnderIO:blockConduitFacade"
+    },
+    "封装塑料电路基板.png": {
+      "key": "bartworks:gt.bwMetaGeneratedItem0:32749"
+    },
+    "小型杉木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers2:3"
+    },
+    "小型杉木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers4:3"
+    },
+    "小型松木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers2:11"
+    },
+    "小型松木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers4:11"
+    },
+    "小型枫木抽屉（1x2）.png": {
+      "key": "StorageDrawersForestry:halfDrawers2B:6"
+    },
+    "小型枫木抽屉（2x2）.png": {
+      "key": "StorageDrawersForestry:halfDrawers4B:6"
+    },
+    "小型柳木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers2:9"
+    },
+    "小型柳木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers4:9"
+    },
+    "小型桃花心木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers2:14"
+    },
+    "小型桃花心木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers4:14"
+    },
+    "小型棕榈木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers2:7"
+    },
+    "小型棕榈木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers4:7"
+    },
+    "小型樱花木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers2:1"
+    },
+    "小型樱花木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers4:1"
+    },
+    "小型紫檀木抽屉（1x2）.png": {
+      "key": "StorageDrawersForestry:halfDrawers2B:10"
+    },
+    "小型紫檀木抽屉（2x2）.png": {
+      "key": "StorageDrawersForestry:halfDrawers4B:10"
+    },
+    "小型红木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers2:8"
+    },
+    "小型红木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers4:8"
+    },
+    "小型金合欢木抽屉（1x2）.png": {
+      "key": "StorageDrawers:halfDrawers2:4"
+    },
+    "小型金合欢木抽屉（2x2）.png": {
+      "key": "StorageDrawers:halfDrawers4:4"
+    },
+    "小型黑暗木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers2:2"
+    },
+    "小型黑暗木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:halfDrawers4:2"
+    },
+    "小堆氧化硼粉.png": {
+      "key": "bartworks:gt.bwMetaGenerateddustSmall:11356"
+    },
+    "小堆硝酸钠粉.png": {
+      "key": "miscutils:itemDustSmallSodiumNitrate"
+    },
+    "小堆硝酸铵粉.png": {
+      "key": "miscutils:itemDustSmallAmmoniumNitrate"
+    },
+    "小堆硫酸钾粉.png": {
+      "key": "bartworks:gt.bwMetaGenerateddustSmall:25025"
+    },
+    "小堆碘粉.png": {
+      "key": "miscutils:itemDustSmallIodine"
+    },
+    "小堆锝粉.png": {
+      "key": "miscutils:itemDustSmallTechnetium"
+    },
+    "小撮氧化硼粉.png": {
+      "key": "bartworks:gt.bwMetaGenerateddustTiny:11356"
+    },
+    "小撮硫酸钾粉.png": {
+      "key": "bartworks:gt.bwMetaGenerateddustTiny:25025"
+    },
+    "小撮碘粉.png": {
+      "key": "miscutils:itemDustTinyIodine"
+    },
+    "小撮锝粉.png": {
+      "key": "miscutils:itemDustTinyTechnetium"
+    },
+    "小红萝卜.png": {
+      "key": "harvestcraft:radishseedItem"
+    },
+    "小麻蛱蝶.png": {
+      "key": "Forestry:butterflyGE_freUEb5ZyHMI2cu"
+    },
+    "尖翅蓝闪·海伦娜.png": {
+      "key": "Forestry:butterflyGE_ZhSAnHwKEK2QJi7"
+    },
+    "山核桃.png": {
+      "key": "harvestcraft:pamPecan"
+    },
+    "山核桃台阶.png": {
+      "key": "ExtraTrees:slab:11"
+    },
+    "山核桃树苗.png": {
+      "key": "harvestcraft:pampecanSapling"
+    },
+    "山梨木台阶.png": {
+      "key": "witchery:witchwoodslab"
+    },
+    "山梨木门.png": {
+      "key": "witchery:rowanwooddoor"
+    },
+    "山楂木台阶.png": {
+      "key": "witchery:witchwoodslab:2"
+    },
+    "山楂树原木.png": {
+      "key": "ExtraTrees:log:10"
+    },
+    "山楂树木板.png": {
+      "key": "ExtraTrees:planks:17"
+    },
+    "山毛榉台阶.png": {
+      "key": "ExtraTrees:slab:5"
+    },
+    "山铜手里剑.png": {
+      "key": "TConstruct:Shuriken_lUyrA2Iqs3oU5Nu"
+    },
+    "岩浆.png": {
+      "key": "minecraft:flowing_lava"
+    },
+    "岩浆发电机.png": {
+      "key": "ExtraUtilities:generator:2"
+    },
+    "崖豆台阶.png": {
+      "key": "Forestry:slabs:5"
+    },
+    "崖豆木座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:22"
+    },
+    "崖豆木画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0b:6"
+    },
+    "工业浮选机.png": {
+      "key": "gregtech:gt.blockmachines:15560"
+    },
+    "工具武器.png": {
+      "key": "TConstruct:Shuriken"
+    },
+    "工具组装台.png": {
+      "key": "TConstruct:ToolStationBlock"
+    },
+    "工具装配台.png": {
+      "key": "TConstruct:ToolForgeBlock"
+    },
+    "工厂方块.png": {
+      "key": "chisel:factoryblock"
+    },
+    "工厂门.png": {
+      "key": "malisisdoors:factory_door"
+    },
+    "工艺方块.png": {
+      "key": "chisel:technical"
+    },
+    "巧克力块.png": {
+      "key": "ThaumicHorizons:chocolate"
+    },
+    "巧克力蛋糕.png": {
+      "key": "harvestcraft:pamchocolatesprinkleCake"
+    },
+    "巨型合金冶炼炉.png": {
+      "key": "gregtech:gt.blockmachines:21089"
+    },
+    "巨型真空干燥炉.png": {
+      "key": "gregtech:gt.blockmachines:19065"
+    },
+    "巫术打击护符.png": {
+      "key": "HardcoreEnderExpansion:charm:45"
+    },
+    "巴尔杉木台阶.png": {
+      "key": "Forestry:slabs:11"
+    },
+    "巴尔杉木座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:1"
+    },
+    "巴尔杉木画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:1"
+    },
+    "巴甫洛娃蛋糕.png": {
+      "key": "harvestcraft:pampavlovaCake"
+    },
+    "巴纳德C蒲公英.png": {
+      "key": "GalaxySpace:barnardaCdandelions"
+    },
+    "帆布.png": {
+      "key": "GalacticraftCore:item.canvas"
+    },
+    "帕眼蝶.png": {
+      "key": "Forestry:butterflyGE_mH6JzlvNFK8n8E0"
+    },
+    "平凡的 药水.png": {
+      "key": "minecraft:potion:8192"
+    },
+    "平滑玄武岩台阶.png": {
+      "key": "GalacticraftAmunRa:tile.rockDoubleslab:2"
+    },
+    "平滑石台阶.png": {
+      "key": "minecraft:stone_slab"
+    },
+    "平滑红沙石台阶.png": {
+      "key": "etfuturum:smooth_red_sandstone_slab"
+    },
+    "平静诅咒.png": {
+      "key": "HardcoreEnderExpansion:curse:2"
+    },
+    "平面灯.png": {
+      "key": "Ztones:lampf"
+    },
+    "幽冥剧毒结晶手里剑.png": {
+      "key": "TConstruct:Shuriken_3PY8G4Cy9i4vaXN"
+    },
+    "幽魂木台阶.png": {
+      "key": "Natura:plankSlab1Double:2"
+    },
+    "幽魂木座椅背.png": {
+      "key": "BiblioWoodsNatura:seatBack1:4"
+    },
+    "幽魂木画框.png": {
+      "key": "BiblioWoodsNatura:BiblioWoodPaintingT0:4"
+    },
+    "开心果.png": {
+      "key": "harvestcraft:pamPistachio"
+    },
+    "引力透镜.png": {
+      "key": "gregtech:gt.metaitem.03:32277",
+      "reason": "引力透镜图片采用整合包本体中的 GregTech 物品；TST 的同名物品使用其完整物品 key 对应的图片。"
+    },
+    "弗州蛱蝶.png": {
+      "key": "Forestry:butterflyGE_Pg9ZA1PVOzJVv0K"
+    },
+    "弯刀.png": {
+      "key": "adventurebackpack:machete"
+    },
+    "强化手柄.png": {
+      "key": "StevesCarts:ModuleComponents:12"
+    },
+    "强化手里剑.png": {
+      "key": "TConstruct:Shuriken_U6Eex1LeWse1Dvt"
+    },
+    "强化混合晶手里剑.png": {
+      "key": "TConstruct:Shuriken_549HYQ05C67cC2V"
+    },
+    "强化酿造台.png": {
+      "key": "HardcoreEnderExpansion:enhanced_brewing_stand_block"
+    },
+    "强化青铜机械方块.png": {
+      "key": "bartworks:bw.werkstoffblockscasingadvanced.01:32066"
+    },
+    "微光.png": {
+      "key": "Botania:lightRelay"
+    },
+    "微光木板台阶.png": {
+      "key": "Botania:shimmerwoodPlanks0Slab"
+    },
+    "微光石台阶.png": {
+      "key": "Botania:shimmerrock0Slab"
+    },
+    "急迫护符.png": {
+      "key": "HardcoreEnderExpansion:charm:51"
+    },
+    "恒星合金手里剑.png": {
+      "key": "TConstruct:Shuriken_xKuQYxJ58ijRit3"
+    },
+    "恒星合金镐.png": {
+      "key": "TConstruct:pickaxe_A2q42mglcmCUjzg"
+    },
+    "恢复护符.png": {
+      "key": "HardcoreEnderExpansion:charm:25"
+    },
+    "恶魔之心.png": {
+      "key": "witchery:demonheart"
+    },
+    "战斗牌子.png": {
+      "key": "TConstruct:BattleSignBlock"
+    },
+    "戴安娜豹纹蝶.png": {
+      "key": "Forestry:butterflyGE_O8DeEt8nnNupgSl"
+    },
+    "戴斯手里剑.png": {
+      "key": "TConstruct:Shuriken_47pcvfamw2774ck"
+    },
+    "戴斯铲.png": {
+      "key": "TConstruct:shovel_Hhh2OFyYn4N9S1a"
+    },
+    "戴斯镐.png": {
+      "key": "TConstruct:pickaxe_8PobeT8rKWMEAja"
+    },
+    "扁桃.png": {
+      "key": "harvestcraft:pamAlmond"
+    },
+    "扁桃树苗.png": {
+      "key": "harvestcraft:pamalmondSapling"
+    },
+    "托阿斯凤尾蝶.png": {
+      "key": "Forestry:butterflyGE_nNpch4Td7yLKNra"
+    },
+    "扫雷.png": {
+      "key": "lootgames:ms_activator"
+    },
+    "抗火之箭.png": {
+      "key": "etfuturum:tipped_arrow:8227"
+    },
+    "抗火药水.png": {
+      "key": "minecraft:potion:8227"
+    },
+    "拉明顿蛋糕.png": {
+      "key": "harvestcraft:pamlamingtonCake"
+    },
+    "指针.png": {
+      "key": "OpenBlocks:genericUnstackable"
+    },
+    "探险背包.png": {
+      "key": "adventurebackpack:blockBackpack"
+    },
+    "搅拌机.png": {
+      "key": "harvestcraft:churn"
+    },
+    "摔落保护护符.png": {
+      "key": "HardcoreEnderExpansion:charm:49"
+    },
+    "敏捷护符.png": {
+      "key": "HardcoreEnderExpansion:charm:3"
+    },
+    "数独.png": {
+      "key": "lootgames:sdk_activator"
+    },
+    "斑木蝶.png": {
+      "key": "Forestry:butterflyGE_Nrgkhft5gjWVELV"
+    },
+    "斑铜矿石.png": {
+      "key": "bartworks:bw.blockores.01:14"
+    },
+    "斑驳的铜灯.png": {
+      "key": "etfuturum:copper_bulb:1"
+    },
+    "斜方砷铁矿石.png": {
+      "key": "bartworks:bw.blockores.01:12"
+    },
+    "方块更新检测器.png": {
+      "key": "ExtraUtilities:budoff"
+    },
+    "方钍石矿石.png": {
+      "key": "bartworks:bw.blockores.01:18"
+    },
+    "旅行者台阶.png": {
+      "key": "ThaumicTinkerer:travelSlab"
+    },
+    "旋律合金手里剑.png": {
+      "key": "TConstruct:Shuriken_XS74WwfX0Eqz3qW"
+    },
+    "无尽催化剂手里剑.png": {
+      "key": "TConstruct:Shuriken_1I2KHlXGbKQ5Ln8"
+    },
+    "无尽手里剑.png": {
+      "key": "TConstruct:ShurikenPart:501"
+    },
+    "无效物品，请到github反馈.png": {
+      "key": "ae2wct:infinityBoosterIcon"
+    },
+    "无线接收器.png": {
+      "key": "appliedenergistics2:item.ItemMultiMaterial:41"
+    },
+    "无花果.png": {
+      "key": "harvestcraft:pamFig"
+    },
+    "无花果台阶.png": {
+      "key": "ExtraTrees:slab:4"
+    },
+    "无花果木板.png": {
+      "key": "ExtraTrees:planks:4"
+    },
+    "无花果树苗.png": {
+      "key": "harvestcraft:pamfigSapling"
+    },
+    "时光木台阶.png": {
+      "key": "TwilightForest:tile.TFWoodSlab:4"
+    },
+    "星球吞噬之铲.png": {
+      "key": "Avaritia:Infinity_Shovel"
+    },
+    "星门外环方块.png": {
+      "key": "sciencenotleisure:stick_NtTHLLJ9sZLvZuF"
+    },
+    "星门导标方块.png": {
+      "key": "sciencenotleisure:stick_B1wnlWPEdJwu9IH"
+    },
+    "星门底座方块.png": {
+      "key": "sciencenotleisure:stick_kR4aajL1vOnpMsn"
+    },
+    "普通花土.png": {
+      "key": "Botany:soil"
+    },
+    "晶化合金手里剑.png": {
+      "key": "TConstruct:Shuriken_JnBssSMfwioIDpO"
+    },
+    "暗影布匹杖端.png": {
+      "key": "dreamcraft:ShadowImbuedClothCap"
+    },
+    "暗影杖端.png": {
+      "key": "dreamcraft:ShadowmetalCap"
+    },
+    "暗影秘银手里剑.png": {
+      "key": "TConstruct:Shuriken_BNwJS8zCLGHMAkt"
+    },
+    "暗影金属手里剑.png": {
+      "key": "TConstruct:Shuriken_VPkJhobjbNf7LMu"
+    },
+    "暗影钢手里剑.png": {
+      "key": "TConstruct:Shuriken_3MQcmGhpyEfi77J"
+    },
+    "暗影铁手里剑.png": {
+      "key": "TConstruct:Shuriken_HPCvUPWqc7r9Mel"
+    },
+    "暗黑树画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:2"
+    },
+    "暮色橡木台阶.png": {
+      "key": "TwilightForest:tile.TFWoodSlab"
+    },
+    "暴击护符.png": {
+      "key": "HardcoreEnderExpansion:charm:54"
+    },
+    "月球地牢砖块台阶.png": {
+      "key": "GalacticraftCore:slabGCHalf:3"
+    },
+    "月球石头台阶.png": {
+      "key": "GalacticraftCore:slabGCHalf:2"
+    },
+    "木匕首.png": {
+      "key": "battlegear2:dagger.wood"
+    },
+    "木匠床.png": {
+      "key": "CarpentersBlocks:blockCarpentersBed"
+    },
+    "木匠门.png": {
+      "key": "CarpentersBlocks:blockCarpentersDoor"
+    },
+    "木卫一地表岩石.png": {
+      "key": "GalaxySpace:ioblocks"
+    },
+    "木卫四冰手里剑.png": {
+      "key": "TConstruct:Shuriken_4DcgJN7GkRuTlrC"
+    },
+    "木战斧.png": {
+      "key": "battlegear2:waraxe.wood"
+    },
+    "木手里剑.png": {
+      "key": "TConstruct:ShurikenPart"
+    },
+    "木框玻璃门.png": {
+      "key": "malisisdoors:wood_sliding_door"
+    },
+    "木桩.png": {
+      "key": "Railcraft:post"
+    },
+    "木棉台阶.png": {
+      "key": "Forestry:slabs:8"
+    },
+    "木棉座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:8"
+    },
+    "木棉画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:8"
+    },
+    "木瓜.png": {
+      "key": "harvestcraft:pamPapaya"
+    },
+    "木瓜木座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:15"
+    },
+    "木瓜木画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:15"
+    },
+    "木瓜树苗.png": {
+      "key": "harvestcraft:pampapayaSapling"
+    },
+    "木镰刀.png": {
+      "key": "TConstruct:scythe_4BH2gTSev6r87In"
+    },
+    "未命名方块,请报告给作者..png": {
+      "key": "HardcoreEnderExpansion:corrupted_energy_high"
+    },
+    "末地传送门.png": {
+      "key": "minecraft:end_portal"
+    },
+    "末地石砖.png": {
+      "key": "Botania:endStoneBrick"
+    },
+    "末地石砖台阶.png": {
+      "key": "Botania:endStoneBrick0Slab"
+    },
+    "末地石砖楼梯.png": {
+      "key": "Botania:endStoneBrick0Stairs"
+    },
+    "末影人的头.png": {
+      "key": "HardcoreEnderExpansion:enderman_head_block"
+    },
+    "末影发电机.png": {
+      "key": "ExtraUtilities:generator:3"
+    },
+    "末影石砖台阶.png": {
+      "key": "Botania:endStoneBrick2Slab"
+    },
+    "末影碎片.png": {
+      "key": "AWWayofTime:bloodMagicBaseItems:32"
+    },
+    "末影箭.png": {
+      "key": "battlegear2:mb.arrow:3"
+    },
+    "末影粗胚手里剑.png": {
+      "key": "TConstruct:Shuriken_V7aL4BVDkeqDurt"
+    },
+    "末影钢手里剑.png": {
+      "key": "TConstruct:Shuriken_yrPWKmAxEbr0rOq"
+    },
+    "末影钢镐.png": {
+      "key": "TConstruct:pickaxe_TEDHB8Ux1niBTCR"
+    },
+    "末影（te）手里剑.png": {
+      "key": "TConstruct:Shuriken_Zw4s3pRk0MXyuMo"
+    },
+    "机器人.png": {
+      "key": "OpenComputers:robotAfterimage"
+    },
+    "杀戮冲击护符.png": {
+      "key": "HardcoreEnderExpansion:charm:17"
+    },
+    "杂酚油木方块台阶.png": {
+      "key": "Railcraft:slab:38"
+    },
+    "杉木台阶.png": {
+      "key": "BiomesOPlenty:woodenSingleSlab1:3"
+    },
+    "杉木座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:3"
+    },
+    "杉木抽屉.png": {
+      "key": "StorageDrawersBop:fullDrawers1:3"
+    },
+    "杉木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers2:3"
+    },
+    "杉木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers4:3"
+    },
+    "杉木木板.png": {
+      "key": "BiomesOPlenty:planks:3"
+    },
+    "杉木桥接方块.png": {
+      "key": "StorageDrawersBop:trim:3"
+    },
+    "杉木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:3"
+    },
+    "李子.png": {
+      "key": "harvestcraft:pamPlum"
+    },
+    "李木座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:17"
+    },
+    "李木画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0b:1"
+    },
+    "李树树苗.png": {
+      "key": "harvestcraft:pamplumSapling"
+    },
+    "杏子.png": {
+      "key": "harvestcraft:pamApricot"
+    },
+    "杨树木座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:18"
+    },
+    "杨树木画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0b:2"
+    },
+    "杨桃.png": {
+      "key": "harvestcraft:pamStarfruit"
+    },
+    "杨桃树苗.png": {
+      "key": "harvestcraft:pamstarfruitSapling"
+    },
+    "松木书架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodBookcase:10"
+    },
+    "松木书桌.png": {
+      "key": "BiblioWoodsBoP:BiblioWooddesk:10"
+    },
+    "松木台阶.png": {
+      "key": "BiomesOPlenty:woodenSingleSlab2:2"
+    },
+    "松木地图框架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodMapFrame:10"
+    },
+    "松木展示盒.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodcase:10"
+    },
+    "松木工具架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodrack:10"
+    },
+    "松木座椅.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodSeat:10"
+    },
+    "松木座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:10"
+    },
+    "松木抽屉.png": {
+      "key": "StorageDrawersBop:fullDrawers1:11"
+    },
+    "松木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers2:11"
+    },
+    "松木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers4:11"
+    },
+    "松木时钟.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodClock:10"
+    },
+    "松木木板.png": {
+      "key": "BiomesOPlenty:planks:11"
+    },
+    "松木架子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodshelf:10"
+    },
+    "松木标签.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodlabel:10"
+    },
+    "松木桌子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodtable:10"
+    },
+    "松木桥接方块.png": {
+      "key": "StorageDrawersBop:trim:11"
+    },
+    "松木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:10"
+    },
+    "松木精致工作台.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancyWorkbench:10"
+    },
+    "松木精致木牌.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancySign:10"
+    },
+    "松木药水架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodpotshelf:10"
+    },
+    "松果.png": {
+      "key": "BiomesOPlenty:misc:13"
+    },
+    "松树原木.png": {
+      "key": "BiomesOPlenty:logs4"
+    },
+    "松树树叶.png": {
+      "key": "BiomesOPlenty:colorizedLeaves2:1"
+    },
+    "松树树苗.png": {
+      "key": "BiomesOPlenty:colorizedSaplings:5"
+    },
+    "松节油胶囊.png": {
+      "key": "BinnieCore:containerCapsule:131"
+    },
+    "极不稳定硅岩手里剑.png": {
+      "key": "TConstruct:Shuriken_kI6e5RnUb4AeVT0"
+    },
+    "极不稳定硅岩锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1716"
+    },
+    "极光半砖.png": {
+      "key": "TwilightForest:tile.AuroraSlab"
+    },
+    "极光柱.png": {
+      "key": "TwilightForest:tile.AuroraPillar"
+    },
+    "极限特斯拉收发器.png": {
+      "key": "gregtech:gt.blockmachines:16003"
+    },
+    "枝状大烛台.png": {
+      "key": "witchery:candelabra"
+    },
+    "枣椰.png": {
+      "key": "harvestcraft:pamDate"
+    },
+    "枣椰树苗.png": {
+      "key": "harvestcraft:pamdateSapling"
+    },
+    "枫木书架.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstBookcase:13"
+    },
+    "枫木书桌.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstdesk:13"
+    },
+    "枫木台阶.png": {
+      "key": "Natura:plankSlab1Double:6"
+    },
+    "枫木地图框架.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodMapFrame:13"
+    },
+    "枫木展示盒.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstcase0:13"
+    },
+    "枫木工具架.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstrack:13"
+    },
+    "枫木座椅.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodSeat:13"
+    },
+    "枫木座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:13"
+    },
+    "枫木抽屉.png": {
+      "key": "StorageDrawersForestry:fullDrawers1B:6"
+    },
+    "枫木抽屉（1x2）.png": {
+      "key": "StorageDrawersForestry:fullDrawers2B:6"
+    },
+    "枫木抽屉（2x2）.png": {
+      "key": "StorageDrawersForestry:fullDrawers4B:6"
+    },
+    "枫木时钟.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodClock:13"
+    },
+    "枫木架子.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstshelf:13"
+    },
+    "枫木标签.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstlabel:13"
+    },
+    "枫木桌子.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFsttable:13"
+    },
+    "枫木桥接方块.png": {
+      "key": "StorageDrawersForestry:trimB:6"
+    },
+    "枫木画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:13"
+    },
+    "枫木精致工作台.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFancyWorkbench:13"
+    },
+    "枫木精致木牌.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFancySign:13"
+    },
+    "枫木药水架.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstpotshelf:13"
+    },
+    "枫树原木.png": {
+      "key": "Natura:Rare Tree"
+    },
+    "枫树木板.png": {
+      "key": "Natura:planks:6"
+    },
+    "枫树树叶.png": {
+      "key": "Natura:Rare Leaves"
+    },
+    "枫树树苗.png": {
+      "key": "Natura:Rare Sapling"
+    },
+    "柏树台阶.png": {
+      "key": "ExtraTrees:slab:3"
+    },
+    "柑橘凤尾蝶.png": {
+      "key": "Forestry:butterflyGE_HqcGubw5mVZJXRf"
+    },
+    "柑橘木座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:5"
+    },
+    "柑橘木画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:5"
+    },
+    "染色玻璃.png": {
+      "key": "Botany:stained"
+    },
+    "染色玻璃板.png": {
+      "key": "chisel:stained_glass_pane_white"
+    },
+    "染色球 - 光通 Fluix默认色.png": {
+      "key": "appliedenergistics2:item.ItemPaintBall:40"
+    },
+    "柚木座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:20"
+    },
+    "柚木画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0b:4"
+    },
+    "柚树台阶.png": {
+      "key": "Forestry:slabs:1"
+    },
+    "柠檬.png": {
+      "key": "harvestcraft:pamLemon"
+    },
+    "柠檬树苗.png": {
+      "key": "harvestcraft:pamlemonSapling"
+    },
+    "柳木书架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodBookcase:12"
+    },
+    "柳木书桌.png": {
+      "key": "BiblioWoodsBoP:BiblioWooddesk:12"
+    },
+    "柳木压力板.png": {
+      "key": "Natura:pressureplate.willow"
+    },
+    "柳木台阶.png": {
+      "key": "Natura:plankSlab2Double:2"
+    },
+    "柳木地图框架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodMapFrame:12"
+    },
+    "柳木展示盒.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodcase:12"
+    },
+    "柳木工具架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodrack:12"
+    },
+    "柳木座椅.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodSeat:12"
+    },
+    "柳木座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:12"
+    },
+    "柳木抽屉.png": {
+      "key": "StorageDrawersBop:fullDrawers1:9"
+    },
+    "柳木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers2:9"
+    },
+    "柳木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers4:9"
+    },
+    "柳木按钮.png": {
+      "key": "Natura:button.willow"
+    },
+    "柳木时钟.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodClock:12"
+    },
+    "柳木木板.png": {
+      "key": "Natura:planks:10"
+    },
+    "柳木架子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodshelf:12"
+    },
+    "柳木栅栏.png": {
+      "key": "Natura:Natura.fence:10"
+    },
+    "柳木栅栏门.png": {
+      "key": "Natura:fenceGate.willow"
+    },
+    "柳木标签.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodlabel:12"
+    },
+    "柳木桌子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodtable:12"
+    },
+    "柳木桥接方块.png": {
+      "key": "StorageDrawersBop:trim:9"
+    },
+    "柳木楼梯.png": {
+      "key": "Natura:stair.willow"
+    },
+    "柳木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:12"
+    },
+    "柳木精致工作台.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancyWorkbench:12"
+    },
+    "柳木精致木牌.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancySign:12"
+    },
+    "柳木药水架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodpotshelf:12"
+    },
+    "柳树原木.png": {
+      "key": "Natura:willow"
+    },
+    "柳树台阶.png": {
+      "key": "Forestry:slabs:12"
+    },
+    "柳树树叶.png": {
+      "key": "Natura:floraleavesnocolor:3"
+    },
+    "柳树树苗.png": {
+      "key": "Natura:Rare Sapling:4"
+    },
+    "柿子.png": {
+      "key": "harvestcraft:pamPersimmon"
+    },
+    "柿子树苗.png": {
+      "key": "BiomesOPlenty:saplings:15"
+    },
+    "栈桥.png": {
+      "key": "catwalks:catwalk_lit_tape"
+    },
+    "树叶.png": {
+      "key": "chisel:leaves:6"
+    },
+    "树液胶囊.png": {
+      "key": "BinnieCore:containerCapsule:128"
+    },
+    "树脂胶囊.png": {
+      "key": "BinnieCore:containerCapsule:129"
+    },
+    "树莓.png": {
+      "key": "Natura:berry"
+    },
+    "树莓种子.png": {
+      "key": "harvestcraft:raspberryseedItem"
+    },
+    "栗子.png": {
+      "key": "harvestcraft:pamChestnut"
+    },
+    "栗树台阶.png": {
+      "key": "Forestry:slabs:4"
+    },
+    "栗树座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:4"
+    },
+    "栗树画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:4"
+    },
+    "核桃.png": {
+      "key": "harvestcraft:pamWalnut"
+    },
+    "核桃台阶.png": {
+      "key": "Forestry:slabs:13"
+    },
+    "核桃树书架.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstBookcase2:5"
+    },
+    "核桃树书桌.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstdesk2:5"
+    },
+    "核桃树地图框架.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodMapFrame2:5"
+    },
+    "核桃树展示盒.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstcase1:5"
+    },
+    "核桃树工具架.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstrack2:5"
+    },
+    "核桃树座椅.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodSeat2:5"
+    },
+    "核桃树座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:21"
+    },
+    "核桃树时钟.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodClock2:5"
+    },
+    "核桃树架子.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstshelf2:5"
+    },
+    "核桃树标签.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstlabel2:5"
+    },
+    "核桃树桌子.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFsttable2:5"
+    },
+    "核桃树画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0b:5"
+    },
+    "核桃树精致工作台.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFancyWorkbench2:5"
+    },
+    "核桃树精致木牌.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFancySign2:5"
+    },
+    "核桃树苗.png": {
+      "key": "harvestcraft:pamwalnutSapling"
+    },
+    "核桃树药水架.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodFstpotshelf2:5"
+    },
+    "格挡反击护符.png": {
+      "key": "HardcoreEnderExpansion:charm:22"
+    },
+    "格挡抗拒护符.png": {
+      "key": "HardcoreEnderExpansion:charm:71"
+    },
+    "格挡护符.png": {
+      "key": "HardcoreEnderExpansion:charm:19"
+    },
+    "格纹蛾.png": {
+      "key": "Forestry:butterflyGE_pHnt3nxht1w4slw"
+    },
+    "桃子.png": {
+      "key": "harvestcraft:pamPeach"
+    },
+    "桃花心木书架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodBookcase:13"
+    },
+    "桃花心木书桌.png": {
+      "key": "BiblioWoodsBoP:BiblioWooddesk:13"
+    },
+    "桃花心木原木.png": {
+      "key": "BiomesOPlenty:logs4:3"
+    },
+    "桃花心木台阶.png": {
+      "key": "Forestry:slabs:10"
+    },
+    "桃花心木地图框架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodMapFrame:13"
+    },
+    "桃花心木展示盒.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodcase:13"
+    },
+    "桃花心木工具架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodrack:13"
+    },
+    "桃花心木座椅.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodSeat:13"
+    },
+    "桃花心木座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:13"
+    },
+    "桃花心木抽屉.png": {
+      "key": "StorageDrawersBop:fullDrawers1:14"
+    },
+    "桃花心木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers2:14"
+    },
+    "桃花心木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers4:14"
+    },
+    "桃花心木时钟.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodClock:13"
+    },
+    "桃花心木木板.png": {
+      "key": "BiomesOPlenty:planks:14"
+    },
+    "桃花心木架子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodshelf:13"
+    },
+    "桃花心木栅栏.png": {
+      "key": "BiomesOPlenty:mahoganyFence"
+    },
+    "桃花心木栅栏门.png": {
+      "key": "BiomesOPlenty:mahoganyFenceGate"
+    },
+    "桃花心木标签.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodlabel:13"
+    },
+    "桃花心木桌子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodtable:13"
+    },
+    "桃花心木桥接方块.png": {
+      "key": "StorageDrawersBop:trim:14"
+    },
+    "桃花心木楼梯.png": {
+      "key": "BiomesOPlenty:mahoganyStairs"
+    },
+    "桃花心木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:13"
+    },
+    "桃花心木精致工作台.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancyWorkbench:13"
+    },
+    "桃花心木精致木牌.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancySign:13"
+    },
+    "桃花心木药水架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodpotshelf:13"
+    },
+    "框架.png": {
+      "key": "BuildCraft|Builders:frameBlock"
+    },
+    "桉木台阶.png": {
+      "key": "Natura:plankSlab1Double"
+    },
+    "桉木座椅背.png": {
+      "key": "BiblioWoodsNatura:seatBack1:2"
+    },
+    "桉木画框.png": {
+      "key": "BiblioWoodsNatura:BiblioWoodPaintingT0:2"
+    },
+    "桉树原木.png": {
+      "key": "Natura:tree"
+    },
+    "桉树木板.png": {
+      "key": "Natura:planks"
+    },
+    "桤木台阶.png": {
+      "key": "ExtraTrees:slab:6"
+    },
+    "梦之木台阶.png": {
+      "key": "Botania:dreamwood0Slab"
+    },
+    "梦之木楼梯.png": {
+      "key": "Botania:dreamwood0Stairs"
+    },
+    "梨.png": {
+      "key": "harvestcraft:pamPear"
+    },
+    "梨树树苗.png": {
+      "key": "harvestcraft:pampearSapling"
+    },
+    "棉花.png": {
+      "key": "Natura:barleyFood:3"
+    },
+    "棉花种子.png": {
+      "key": "Natura:barley.seed:1"
+    },
+    "棕榈原木.png": {
+      "key": "BiomesOPlenty:logs2:3"
+    },
+    "棕榈木书架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodBookcase:9"
+    },
+    "棕榈木书桌.png": {
+      "key": "BiblioWoodsBoP:BiblioWooddesk:9"
+    },
+    "棕榈木台阶.png": {
+      "key": "BiomesOPlenty:woodenSingleSlab1:7"
+    },
+    "棕榈木地图框架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodMapFrame:9"
+    },
+    "棕榈木展示盒.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodcase:9"
+    },
+    "棕榈木工具架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodrack:9"
+    },
+    "棕榈木座椅.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodSeat:9"
+    },
+    "棕榈木座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:9"
+    },
+    "棕榈木抽屉.png": {
+      "key": "StorageDrawersBop:fullDrawers1:7"
+    },
+    "棕榈木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers2:7"
+    },
+    "棕榈木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers4:7"
+    },
+    "棕榈木时钟.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodClock:9"
+    },
+    "棕榈木板.png": {
+      "key": "BiomesOPlenty:planks:7"
+    },
+    "棕榈木架子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodshelf:9"
+    },
+    "棕榈木标签.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodlabel:9"
+    },
+    "棕榈木桌子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodtable:9"
+    },
+    "棕榈木桥接方块.png": {
+      "key": "StorageDrawersBop:trim:7"
+    },
+    "棕榈木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:9"
+    },
+    "棕榈木精致工作台.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancyWorkbench:9"
+    },
+    "棕榈木精致木牌.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancySign:9"
+    },
+    "棕榈木药水架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodpotshelf:9"
+    },
+    "棕色带釉陶瓦.png": {
+      "key": "etfuturum:brown_glazed_terracotta"
+    },
+    "棕色幕布.png": {
+      "key": "malisisdoors:curtain_brown"
+    },
+    "棕色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_ZYvjImdLHv6yPSR"
+    },
+    "棕色混凝土.png": {
+      "key": "etfuturum:concrete:12"
+    },
+    "棕色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:12"
+    },
+    "棕色灯.png": {
+      "key": "sciencenotleisure:meta_block:24"
+    },
+    "棕色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:3"
+    },
+    "棕色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab2:4"
+    },
+    "棕色遮光玻璃.png": {
+      "key": "witchery:shadedglass:12"
+    },
+    "棕蛱蝶.png": {
+      "key": "Forestry:butterflyGE_laNjZ4fJPSoU0xW"
+    },
+    "棺材.png": {
+      "key": "witchery:coffinblock"
+    },
+    "椰奶.png": {
+      "key": "harvestcraft:coconutcreamItem"
+    },
+    "椰子.png": {
+      "key": "harvestcraft:pamCoconut"
+    },
+    "椰子树苗.png": {
+      "key": "harvestcraft:pamcoconutSapling"
+    },
+    "榆树台阶.png": {
+      "key": "ExtraTrees:slab:13"
+    },
+    "榛树台阶.png": {
+      "key": "ExtraTrees:slab:7"
+    },
+    "榨汁机.png": {
+      "key": "Forestry:factory:5"
+    },
+    "榴莲.png": {
+      "key": "harvestcraft:pamDurian"
+    },
+    "樟树座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:7"
+    },
+    "樟树画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:7"
+    },
+    "模具加工台.png": {
+      "key": "TConstruct:ToolStationBlock:10"
+    },
+    "模具箱.png": {
+      "key": "TConstruct:ToolStationBlock:5"
+    },
+    "樱桃.png": {
+      "key": "harvestcraft:pamCherry"
+    },
+    "樱桃台阶.png": {
+      "key": "Forestry:slabs:15"
+    },
+    "樱桃木书架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodBookcase:1"
+    },
+    "樱桃木书桌.png": {
+      "key": "BiblioWoodsBoP:BiblioWooddesk:1"
+    },
+    "樱桃木地图框架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodMapFrame:1"
+    },
+    "樱桃木展示盒.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodcase:1"
+    },
+    "樱桃木工具架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodrack:1"
+    },
+    "樱桃木座椅.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodSeat:1"
+    },
+    "樱桃木座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:1"
+    },
+    "樱桃木时钟.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodClock:1"
+    },
+    "樱桃木木板覆盖板.png": {
+      "key": "gregtech:gt.metaitem.02:32491"
+    },
+    "樱桃木架子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodshelf:1"
+    },
+    "樱桃木标签.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodlabel:1"
+    },
+    "樱桃木桌子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodtable:1"
+    },
+    "樱桃木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:1"
+    },
+    "樱桃木精致工作台.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancyWorkbench:1"
+    },
+    "樱桃木精致木牌.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancySign:1"
+    },
+    "樱桃木药水架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodpotshelf:1"
+    },
+    "樱花原木.png": {
+      "key": "Natura:tree:1"
+    },
+    "樱花木.png": {
+      "key": "etfuturum:bop_wood:1"
+    },
+    "樱花木压力板.png": {
+      "key": "Natura:pressureplate.sakura"
+    },
+    "樱花木台阶.png": {
+      "key": "Natura:plankSlab1Double:1"
+    },
+    "樱花木告示牌.png": {
+      "key": "etfuturum:cherry_sign"
+    },
+    "樱花木座椅背.png": {
+      "key": "BiblioWoodsNatura:seatBack1:10"
+    },
+    "樱花木抽屉.png": {
+      "key": "StorageDrawersBop:fullDrawers1:1"
+    },
+    "樱花木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers2:1"
+    },
+    "樱花木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers4:1"
+    },
+    "樱花木按钮.png": {
+      "key": "Natura:button.sakura"
+    },
+    "樱花木板.png": {
+      "key": "Natura:planks:1"
+    },
+    "樱花木栅栏.png": {
+      "key": "Natura:Natura.fence:1"
+    },
+    "樱花木栅栏门.png": {
+      "key": "Natura:fenceGate.sakura"
+    },
+    "樱花木桥接方块.png": {
+      "key": "StorageDrawersBop:trim:1"
+    },
+    "樱花木楼梯.png": {
+      "key": "Natura:stair.sakura"
+    },
+    "樱花木活板门.png": {
+      "key": "Natura:trapdoor.sakura"
+    },
+    "樱花木画框.png": {
+      "key": "BiblioWoodsNatura:BiblioWoodPaintingT0:10"
+    },
+    "樱花木船.png": {
+      "key": "etfuturum:cherry_boat"
+    },
+    "樱花木运输船.png": {
+      "key": "etfuturum:cherry_chest_boat"
+    },
+    "樱花木门.png": {
+      "key": "Natura:door.sakura"
+    },
+    "樱花树叶.png": {
+      "key": "Natura:floraleavesnocolor"
+    },
+    "樱花树苗.png": {
+      "key": "Natura:florasapling:3"
+    },
+    "橄榄.png": {
+      "key": "harvestcraft:pamOlive"
+    },
+    "橄榄石手里剑.png": {
+      "key": "TConstruct:Shuriken_U11rhfUBSKDYuOo"
+    },
+    "橘色遮光玻璃.png": {
+      "key": "witchery:shadedglass:1"
+    },
+    "橙子.png": {
+      "key": "harvestcraft:pamOrange"
+    },
+    "橙色十字路口地面标识.png": {
+      "key": "modernmarkings:tile.floor_marking_orange_t_crossing"
+    },
+    "橙色带釉陶瓦.png": {
+      "key": "etfuturum:orange_glazed_terracotta"
+    },
+    "橙色幕布.png": {
+      "key": "malisisdoors:curtain_orange"
+    },
+    "橙色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_GK9Mbn7y4ZSJMJo"
+    },
+    "橙色混凝土.png": {
+      "key": "etfuturum:concrete:1"
+    },
+    "橙色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:1"
+    },
+    "橙色灯.png": {
+      "key": "sciencenotleisure:meta_block:9"
+    },
+    "橙色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:14"
+    },
+    "橙色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab1:1"
+    },
+    "橙钒铅铜矿石.png": {
+      "key": "bartworks:bw.blockores.01:27"
+    },
+    "橡木书架.png": {
+      "key": "BiblioCraft:Bibliotheca"
+    },
+    "橡木椅背.png": {
+      "key": "BiblioCraft:item.seatBack"
+    },
+    "橡木画框.png": {
+      "key": "BiblioCraft:BiblioFlatPainting"
+    },
+    "死亡诅咒.png": {
+      "key": "HardcoreEnderExpansion:curse:6"
+    },
+    "殷钢手里剑.png": {
+      "key": "TConstruct:Shuriken_8dPq5VFBZ73jI7i"
+    },
+    "毒液桶.png": {
+      "key": "BiomesOPlenty:bopBucket_Zvc682gUWQ5QYhM"
+    },
+    "毒液胶囊.png": {
+      "key": "BinnieCore:containerCapsule:65"
+    },
+    "氖单元.png": {
+      "key": "miscutils:itemCellNeon"
+    },
+    "氙单元.png": {
+      "key": "miscutils:itemCellXenon"
+    },
+    "氟石矿石.png": {
+      "key": "bartworks:bw.blockores.01:91"
+    },
+    "氟铁电气石矿石.png": {
+      "key": "bartworks:bw.blockores.01:5"
+    },
+    "氢冰.png": {
+      "key": "gregtech:gt.blockores7:1001"
+    },
+    "氧冰.png": {
+      "key": "gregtech:gt.blockores7:1013"
+    },
+    "氧化富集硅岩混合物矿石.png": {
+      "key": "bartworks:bw.blockores.01:10067"
+    },
+    "氧化的铜灯.png": {
+      "key": "etfuturum:copper_bulb:3"
+    },
+    "氧化硅岩混合物矿石.png": {
+      "key": "bartworks:bw.blockores.01:10054"
+    },
+    "氧化硼粉.png": {
+      "key": "bartworks:gt.bwMetaGenerateddust:11356"
+    },
+    "氧化超能硅岩混合物矿石.png": {
+      "key": "bartworks:bw.blockores.01:10072"
+    },
+    "氧化钇粉.png": {
+      "key": "kekztech:kekztech_crafting_item:11"
+    },
+    "氧化锆粉.png": {
+      "key": "kekztech:kekztech_crafting_item:12"
+    },
+    "氨冰.png": {
+      "key": "gregtech:gt.blockores7:1659"
+    },
+    "氪单元.png": {
+      "key": "miscutils:itemCellKrypton"
+    },
+    "氮冰.png": {
+      "key": "gregtech:gt.blockores7:1012"
+    },
+    "水.png": {
+      "key": "minecraft:flowing_water"
+    },
+    "水之魔晶台阶.png": {
+      "key": "thaumicbases:crystalSlab:2"
+    },
+    "水之魔晶手里剑.png": {
+      "key": "TConstruct:Shuriken_b0pIiElIDslUq9n"
+    },
+    "水心.png": {
+      "key": "witchery:spiritflowing"
+    },
+    "水果沙拉.png": {
+      "key": "BiomesOPlenty:food:4"
+    },
+    "水洋蓟种子.png": {
+      "key": "witchery:seedsartichoke"
+    },
+    "水肺之箭.png": {
+      "key": "etfuturum:tipped_arrow:8237"
+    },
+    "水肺药水.png": {
+      "key": "minecraft:potion:8237"
+    },
+    "永恒建筑之杖.png": {
+      "key": "betterbuilderswands:wandUnbreakable:4"
+    },
+    "污血圆石台阶.png": {
+      "key": "Railcraft:slab:35"
+    },
+    "污血砖台阶.png": {
+      "key": "Railcraft:slab:12"
+    },
+    "沃土.png": {
+      "key": "RandomThings:fertilizedDirt"
+    },
+    "沙土台阶.png": {
+      "key": "Botania:dirtPath0Slab"
+    },
+    "沙岩圆石台阶.png": {
+      "key": "Railcraft:slab:30"
+    },
+    "沙岩砖台阶.png": {
+      "key": "Railcraft:slab"
+    },
+    "沙漠刺槐台阶.png": {
+      "key": "Forestry:slabs:2"
+    },
+    "沙石墙.png": {
+      "key": "Railcraft:wall.alpha:11"
+    },
+    "沥青铀矿.png": {
+      "key": "gregtech:gt.blockores2:873"
+    },
+    "油脂方块.png": {
+      "key": "Thaumcraft:blockCosmeticSolid:5"
+    },
+    "治愈之缸.png": {
+      "key": "ThaumicHorizons:vat"
+    },
+    "治疗之箭.png": {
+      "key": "etfuturum:tipped_arrow:8261"
+    },
+    "治疗药水.png": {
+      "key": "minecraft:potion:8261"
+    },
+    "沼泽豹纹蝶.png": {
+      "key": "Forestry:butterflyGE_BM6kiXOULtK003P"
+    },
+    "泡铋矿石.png": {
+      "key": "bartworks:bw.blockores.01:1"
+    },
+    "泥砖台阶.png": {
+      "key": "BiomesOPlenty:stoneSingleSlab"
+    },
+    "注血木手里剑.png": {
+      "key": "TConstruct:ShurikenPart:250"
+    },
+    "注血木铲.png": {
+      "key": "TConstruct:shovel_uJLWqkwoKRPTqIg"
+    },
+    "注血木镐.png": {
+      "key": "TConstruct:pickaxe_68pOkE15m0VDbOv"
+    },
+    "注血铁手里剑.png": {
+      "key": "TConstruct:ShurikenPart:251"
+    },
+    "注血铁杖端注血木杖柄手杖.png": {
+      "key": "Thaumcraft:WandCasting:168_IAZHrkrDZFA981q"
+    },
+    "注血铁杖端注血木杖柄法杖.png": {
+      "key": "Thaumcraft:WandCasting:84_X0kdGFFbzGVTvsb"
+    },
+    "注血铁铲.png": {
+      "key": "TConstruct:shovel_C6BR3OqkDGXopLf"
+    },
+    "注血铁镐.png": {
+      "key": "TConstruct:pickaxe_KHAwKNnyPnbcdZN"
+    },
+    "注魔灵魂要素.png": {
+      "key": "ThaumicTinkerer:mobAspect:42"
+    },
+    "注魔金手里剑.png": {
+      "key": "TConstruct:Shuriken_3QkCAU1EDaOKUZb"
+    },
+    "泰伯利亚矿石.png": {
+      "key": "bartworks:bw.blockores.01:89"
+    },
+    "泰拉钢手里剑.png": {
+      "key": "TConstruct:Shuriken_ol74jhbrKWNdNKQ"
+    },
+    "泰拉钢杖端.png": {
+      "key": "dreamcraft:WandCapTerraSteel"
+    },
+    "泰拉钢杖端木质法杖.png": {
+      "key": "Thaumcraft:WandCasting:1_0AXmGV3gM2Lbs0j"
+    },
+    "洋葱种子.png": {
+      "key": "harvestcraft:onionseedItem"
+    },
+    "洞穴藤蔓.png": {
+      "key": "etfuturum:cave_vine_plant"
+    },
+    "活力护符.png": {
+      "key": "HardcoreEnderExpansion:charm:6"
+    },
+    "活木台阶.png": {
+      "key": "Botania:livingwood0Slab"
+    },
+    "活木板台阶.png": {
+      "key": "Botania:livingwood1Slab"
+    },
+    "活根.png": {
+      "key": "Botania:root"
+    },
+    "活石台阶.png": {
+      "key": "Botania:livingrock0Slab"
+    },
+    "活石砖台阶.png": {
+      "key": "Botania:livingrock1Slab"
+    },
+    "流明手里剑.png": {
+      "key": "TConstruct:Shuriken_VurGPmnSEpSjG0i"
+    },
+    "流明锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1726"
+    },
+    "浅蓝色打字机.png": {
+      "key": "BiblioCraft:BiblioTypewriter:1"
+    },
+    "浇注口.png": {
+      "key": "TConstruct:SearedBlock:1"
+    },
+    "浇铸台.png": {
+      "key": "TConstruct:SearedBlock"
+    },
+    "测试方块.png": {
+      "key": "sciencenotleisure:meta_block"
+    },
+    "测试物品.png": {
+      "key": "sciencenotleisure:test_item"
+    },
+    "浮冰柱.png": {
+      "key": "chisel:packedice_pillar"
+    },
+    "浮冰楼梯.png": {
+      "key": "chisel:packedice_stairs.0"
+    },
+    "海晶石台阶.png": {
+      "key": "Botania:prismarine0Slab"
+    },
+    "海晶石砖台阶.png": {
+      "key": "Botania:prismarine1Slab"
+    },
+    "海绵.png": {
+      "key": "VillageNames:sponge"
+    },
+    "海绿石矿砂.png": {
+      "key": "gregtech:gt.blockores2:949"
+    },
+    "浸出渣矿石.png": {
+      "key": "bartworks:bw.blockores.01:60"
+    },
+    "浸渍木棍.png": {
+      "key": "Forestry:oakStick"
+    },
+    "涂蜡的斑驳铜灯.png": {
+      "key": "etfuturum:copper_bulb:9"
+    },
+    "涂蜡的氧化铜灯.png": {
+      "key": "etfuturum:copper_bulb:11"
+    },
+    "涂蜡的铜灯.png": {
+      "key": "etfuturum:copper_bulb:8"
+    },
+    "涂蜡的锈蚀铜灯.png": {
+      "key": "etfuturum:copper_bulb:10"
+    },
+    "消失的钻石框架.png": {
+      "key": "malisisdoors:vanishing_block:3"
+    },
+    "液态魔力.png": {
+      "key": "fluid.liquid mana"
+    },
+    "液态魔力单元.png": {
+      "key": "bartworks:gt.bwMetaGeneratedcell:20006"
+    },
+    "液氮胶囊.png": {
+      "key": "BinnieCore:containerCapsule:66"
+    },
+    "淡灰色带釉陶瓦.png": {
+      "key": "etfuturum:light_gray_glazed_terracotta"
+    },
+    "淡灰色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_oKOPWX1QnXMehgp"
+    },
+    "淡灰色混凝土.png": {
+      "key": "etfuturum:concrete:8"
+    },
+    "淡灰色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:8"
+    },
+    "淡灰色灯.png": {
+      "key": "sciencenotleisure:meta_block:31"
+    },
+    "淡灰色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:7"
+    },
+    "淡灰色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab2"
+    },
+    "淡蓝色带釉陶瓦.png": {
+      "key": "etfuturum:light_blue_glazed_terracotta"
+    },
+    "淡蓝色幕布.png": {
+      "key": "malisisdoors:curtain_light_blue"
+    },
+    "淡蓝色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_ietbDbSK5WiJrQ9"
+    },
+    "淡蓝色混凝土.png": {
+      "key": "etfuturum:concrete:3"
+    },
+    "淡蓝色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:3"
+    },
+    "淡蓝色灯.png": {
+      "key": "sciencenotleisure:meta_block:19"
+    },
+    "淡蓝色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:12"
+    },
+    "淡蓝色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab1:3"
+    },
+    "淡蓝遮光玻璃.png": {
+      "key": "witchery:shadedglass:3"
+    },
+    "淡黄斑木蝶.png": {
+      "key": "Forestry:butterflyGE_gsryQNukxnZn8JS"
+    },
+    "深板岩圆石台阶.png": {
+      "key": "etfuturum:deepslate_slab"
+    },
+    "深板岩瓦台阶.png": {
+      "key": "etfuturum:deepslate_brick_slab:1"
+    },
+    "深板岩砖台阶.png": {
+      "key": "etfuturum:deepslate_brick_slab"
+    },
+    "深渊圆石台阶.png": {
+      "key": "Railcraft:slab:36"
+    },
+    "深渊砖台阶.png": {
+      "key": "Railcraft:slab:13"
+    },
+    "深空秘银手里剑.png": {
+      "key": "TConstruct:Shuriken_LAnCX83D2aDEHHH"
+    },
+    "深色橡木.png": {
+      "key": "etfuturum:bark2:1"
+    },
+    "深色橡木书架.png": {
+      "key": "BiblioCraft:Bibliotheca:5"
+    },
+    "深色橡木椅背.png": {
+      "key": "BiblioCraft:item.seatBack:5"
+    },
+    "深色橡木画框.png": {
+      "key": "BiblioCraft:BiblioFlatPainting:5"
+    },
+    "深色橡木门.png": {
+      "key": "malisisdoors:door_dark_oak"
+    },
+    "深色海晶石台阶.png": {
+      "key": "Botania:prismarine2Slab"
+    },
+    "深铅手里剑.png": {
+      "key": "TConstruct:Shuriken_5xLY7pTlAZnCVPn"
+    },
+    "混乱诅咒.png": {
+      "key": "HardcoreEnderExpansion:curse:1"
+    },
+    "混凝土台阶.png": {
+      "key": "Railcraft:slab:2"
+    },
+    "混凝土楼梯.png": {
+      "key": "Railcraft:stair:2"
+    },
+    "混合晶手里剑.png": {
+      "key": "TConstruct:Shuriken_8YK0vCkgA9rfeMC"
+    },
+    "混沌碎片.png": {
+      "key": "DraconicEvolution:chaosShardAtmos"
+    },
+    "混沌魔晶台阶.png": {
+      "key": "thaumicbases:crystalSlab:5"
+    },
+    "混沌魔晶手里剑.png": {
+      "key": "TConstruct:Shuriken_bZTcx2nzv5cqwJm"
+    },
+    "温特姆杖端.png": {
+      "key": "dreamcraft:WandCapVinteum"
+    },
+    "游戏灯.png": {
+      "key": "lootgames:gol_activator"
+    },
+    "湮灭诅咒.png": {
+      "key": "HardcoreEnderExpansion:curse:10"
+    },
+    "湿海绵.png": {
+      "key": "etfuturum:sponge:1"
+    },
+    "源质罐子.png": {
+      "key": "Thaumcraft:blockJar"
+    },
+    "源质钢亲吻杖端梦之木手杖.png": {
+      "key": "Thaumcraft:WandCasting:225_JBYvqEGsBQe0NDK"
+    },
+    "源质钢亲吻杖端梦之木法杖.png": {
+      "key": "Thaumcraft:WandCasting:108_7sw51On0aGyiEof"
+    },
+    "源质钢手里剑.png": {
+      "key": "TConstruct:Shuriken_PZrcyjnQwbf0kKH"
+    },
+    "源质钢杖端.png": {
+      "key": "dreamcraft:WandCapElementium"
+    },
+    "源质钢粒.png": {
+      "key": "Botania:manaResource:19"
+    },
+    "源质钢铲.png": {
+      "key": "TConstruct:shovel_V9iSP5XnFuoxzmp"
+    },
+    "源质钢镐.png": {
+      "key": "TConstruct:pickaxe_a8r5OPg9rzTyfIM"
+    },
+    "溶剂喷罐.png": {
+      "key": "gregtech:gt.metaitem.01:32465"
+    },
+    "滑石.png": {
+      "key": "gregtech:gt.blockores2:902"
+    },
+    "滑翔翼.png": {
+      "key": "OpenBlocks:hangglider"
+    },
+    "滞留型 伤害药水.png": {
+      "key": "etfuturum:lingering_potion:8268"
+    },
+    "滞留型 再生药水.png": {
+      "key": "etfuturum:lingering_potion:8193"
+    },
+    "滞留型 剧毒药水.png": {
+      "key": "etfuturum:lingering_potion:8196"
+    },
+    "滞留型 力量药水.png": {
+      "key": "etfuturum:lingering_potion:8201"
+    },
+    "滞留型 反胃药水.png": {
+      "key": "etfuturum:lingering_potion:8231"
+    },
+    "滞留型 夜视药水.png": {
+      "key": "etfuturum:lingering_potion:8230"
+    },
+    "滞留型 抗火药水.png": {
+      "key": "etfuturum:lingering_potion:8227"
+    },
+    "滞留型 水肺药水.png": {
+      "key": "etfuturum:lingering_potion:8237"
+    },
+    "滞留型 治疗药水.png": {
+      "key": "etfuturum:lingering_potion:8261"
+    },
+    "滞留型 虚弱药水.png": {
+      "key": "etfuturum:lingering_potion:8232"
+    },
+    "滞留型 衰变药水.png": {
+      "key": "etfuturum:lingering_potion:8235"
+    },
+    "滞留型 跳跃药水.png": {
+      "key": "etfuturum:lingering_potion:75"
+    },
+    "滞留型 迅捷药水.png": {
+      "key": "etfuturum:lingering_potion:8194"
+    },
+    "滞留型 迟缓药水.png": {
+      "key": "etfuturum:lingering_potion:8234"
+    },
+    "滞留型 隐身药水.png": {
+      "key": "etfuturum:lingering_potion:8238"
+    },
+    "漂白土.png": {
+      "key": "gregtech:gt.blockores2:928"
+    },
+    "潘非珍眼蝶.png": {
+      "key": "Forestry:butterflyGE_eGVahCLwMRGreFT"
+    },
+    "火之魔晶台阶.png": {
+      "key": "thaumicbases:crystalSlab:1"
+    },
+    "火之魔晶手里剑.png": {
+      "key": "TConstruct:Shuriken_NF81NgZgyjUz6yg"
+    },
+    "火星圆石台阶.png": {
+      "key": "GalacticraftCore:slabGCHalf:4"
+    },
+    "火星地牢砖台阶.png": {
+      "key": "GalacticraftCore:slabGCHalf:5"
+    },
+    "火箭发射平台.png": {
+      "key": "GalacticraftCore:tile.landingPad"
+    },
+    "火龙果.png": {
+      "key": "harvestcraft:pamDragonfruit"
+    },
+    "灯笼.png": {
+      "key": "chisel:lantern"
+    },
+    "灰核桃树台阶.png": {
+      "key": "ExtraTrees:slab:10"
+    },
+    "灰色带釉陶瓦.png": {
+      "key": "etfuturum:gray_glazed_terracotta"
+    },
+    "灰色幕布.png": {
+      "key": "malisisdoors:curtain_gray"
+    },
+    "灰色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_j8eSV37y5dMP17G"
+    },
+    "灰色混凝土.png": {
+      "key": "etfuturum:concrete:7"
+    },
+    "灰色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:7"
+    },
+    "灰色灯.png": {
+      "key": "sciencenotleisure:meta_block:29"
+    },
+    "灰色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:8"
+    },
+    "灰色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab1:7"
+    },
+    "灰色遮光玻璃.png": {
+      "key": "witchery:shadedglass:7"
+    },
+    "灵宝手里剑.png": {
+      "key": "TConstruct:Shuriken_nmDsJuBuhpwIZYT"
+    },
+    "灵宝杖端.png": {
+      "key": "dreamcraft:IchoriumCap"
+    },
+    "灵宝铲.png": {
+      "key": "TConstruct:shovel_rggYFRGMPM1bmsL"
+    },
+    "灵宝镐.png": {
+      "key": "TConstruct:pickaxe_dlMt6djF9VbzIJW"
+    },
+    "灵气节点.png": {
+      "key": "Thaumcraft:blockAiry"
+    },
+    "灵气花瓣.png": {
+      "key": "thaumicbases:aureliaPetal"
+    },
+    "灵液.png": {
+      "key": "BiomesOPlenty:misc:12"
+    },
+    "灵韵合金手里剑.png": {
+      "key": "TConstruct:Shuriken_3QBraV3wWCBVjZD"
+    },
+    "灵魂玻璃.png": {
+      "key": "Natura:NetherGlass"
+    },
+    "灵魂砖台阶.png": {
+      "key": "Botania:customBrick1Slab"
+    },
+    "灵魂碎片.png": {
+      "key": "ExtraUtilities:mini-soul"
+    },
+    "灼火之草.png": {
+      "key": "HardcoreEnderExpansion:crossed_decoration:10"
+    },
+    "炼狱砖.png": {
+      "key": "Railcraft:brick.infernal"
+    },
+    "炼狱砖台阶.png": {
+      "key": "Railcraft:slab:1"
+    },
+    "炼狱砖楼梯.png": {
+      "key": "Railcraft:stair:1"
+    },
+    "炼金纹饰杖端血腥手杖.png": {
+      "key": "Thaumcraft:WandCasting:168_499Y2zHo5HHCvlZ"
+    },
+    "炼金纹饰杖端血腥法杖.png": {
+      "key": "Thaumcraft:WandCasting:84_3tYdmWqFfDo0rux"
+    },
+    "炽热的钢手里剑.png": {
+      "key": "TConstruct:Shuriken_d7yfZvGJZRlMPeQ"
+    },
+    "炽焰之啄颅剑.png": {
+      "key": "Avaritia:Skull_Sword"
+    },
+    "烈焰杖柄.png": {
+      "key": "Thaumcraft:WandRod:6"
+    },
+    "烈焰杖芯.png": {
+      "key": "Thaumcraft:WandRod:56"
+    },
+    "烈焰石英台阶.png": {
+      "key": "Botania:quartzSlabBlazeHalf"
+    },
+    "烟熏石英台阶.png": {
+      "key": "Botania:quartzSlabDarkHalf"
+    },
+    "烟黑石英台阶.png": {
+      "key": "ThaumicTinkerer:darkQuartzSlab"
+    },
+    "烤箱.png": {
+      "key": "harvestcraft:oven"
+    },
+    "焕律璨金手里剑.png": {
+      "key": "TConstruct:Shuriken_TBjkcPGUx5bcLMy"
+    },
+    "焦煤.png": {
+      "key": "Railcraft:fuel.coke"
+    },
+    "焦黑储罐.png": {
+      "key": "TConstruct:LavaTank"
+    },
+    "焦黑圆石.png": {
+      "key": "TConstruct:Smeltery:5"
+    },
+    "焦黑圆石台阶.png": {
+      "key": "TConstruct:SearedSlab:2"
+    },
+    "焦黑玻璃.png": {
+      "key": "TConstruct:LavaTank:1"
+    },
+    "焦黑盖板石.png": {
+      "key": "TConstruct:Smeltery:6"
+    },
+    "焦黑盖板石台阶.png": {
+      "key": "TConstruct:SearedSlab:3"
+    },
+    "焦黑石头.png": {
+      "key": "TConstruct:Smeltery:4"
+    },
+    "焦黑石头台阶.png": {
+      "key": "TConstruct:SearedSlab:1"
+    },
+    "焦黑砖.png": {
+      "key": "TConstruct:materials:2"
+    },
+    "焦黑砖块.png": {
+      "key": "TConstruct:Smeltery:2"
+    },
+    "焦黑砖块台阶.png": {
+      "key": "TConstruct:SearedSlab"
+    },
+    "焦黑视窗.png": {
+      "key": "TConstruct:LavaTank:2"
+    },
+    "焦黑铺路石.png": {
+      "key": "TConstruct:Smeltery:8"
+    },
+    "焦黑铺路石台阶.png": {
+      "key": "TConstruct:SearedSlab:4"
+    },
+    "煎锅.png": {
+      "key": "TConstruct:HeldItemBlock"
+    },
+    "煮解池.png": {
+      "key": "gregtech:gt.blockmachines:10500"
+    },
+    "熏香石英台阶.png": {
+      "key": "Botania:quartzSlabLavenderHalf"
+    },
+    "熔炉.png": {
+      "key": "minecraft:furnace"
+    },
+    "熔炉发电机.png": {
+      "key": "ExtraUtilities:generator:1"
+    },
+    "熔融木台阶.png": {
+      "key": "Natura:plankSlab2Double:4"
+    },
+    "熔融木座椅背.png": {
+      "key": "BiblioWoodsNatura:seatBack1:3"
+    },
+    "熔融木画框.png": {
+      "key": "BiblioWoodsNatura:BiblioWoodPaintingT0:3"
+    },
+    "熟兔肉.png": {
+      "key": "etfuturum:rabbit_cooked"
+    },
+    "燃油桶.png": {
+      "key": "BuildCraft|Energy:bucketFuel"
+    },
+    "燧石手里剑.png": {
+      "key": "TConstruct:ShurikenPart:3"
+    },
+    "牛.png": {
+      "key": "ThaumicHorizons:dummy"
+    },
+    "牛肉干.png": {
+      "key": "TConstruct:jerky"
+    },
+    "物质团.png": {
+      "key": "Avaritia:Matter_Cluster"
+    },
+    "特斯拉权杖.png": {
+      "key": "tectech:item.tm.teslaStaff"
+    },
+    "狸白蛱蝶.png": {
+      "key": "Forestry:butterflyGE_dSiXHD7SthliISS"
+    },
+    "狼毒草.png": {
+      "key": "witchery:wolfsbane"
+    },
+    "狼毒草种子.png": {
+      "key": "witchery:seedswolfsbane"
+    },
+    "狼皮.png": {
+      "key": "BloodArsenal:wolf_hide"
+    },
+    "猴面包树台阶.png": {
+      "key": "Forestry:slabs:6"
+    },
+    "猴面包树座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:2"
+    },
+    "猴面包树画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:2"
+    },
+    "玄武岩台阶.png": {
+      "key": "GalacticraftAmunRa:tile.rockDoubleslab"
+    },
+    "玄武岩楼梯.png": {
+      "key": "GalacticraftAmunRa:tile.basalt.stairs"
+    },
+    "玄武岩矿砂.png": {
+      "key": "gregtech:gt.blockores2:935"
+    },
+    "玄武岩砖台阶.png": {
+      "key": "GalacticraftAmunRa:tile.rockDoubleslab:1"
+    },
+    "玄武岩砖楼梯.png": {
+      "key": "GalacticraftAmunRa:tile.basaltbrick.stairs"
+    },
+    "玄钢手里剑.png": {
+      "key": "TConstruct:Shuriken_5OrLsa3bBzzesKU"
+    },
+    "玄钢磨球.png": {
+      "key": "EnderIO:itemMaterial:7"
+    },
+    "玄钢镐.png": {
+      "key": "TConstruct:pickaxe_OGovq13hQpxeAC5"
+    },
+    "玄铁手里剑.png": {
+      "key": "TConstruct:Shuriken_l0x23Beo1rEd35M"
+    },
+    "玛玉灵手里剑.png": {
+      "key": "TConstruct:ShurikenPart:12"
+    },
+    "玫瑰.png": {
+      "key": "etfuturum:rose"
+    },
+    "玫瑰金手里剑.png": {
+      "key": "TConstruct:Shuriken_GYc6JDfTtZYqqnT"
+    },
+    "珍珠豹纹蝶.png": {
+      "key": "Forestry:butterflyGE_bAUMaIRpqo3dyb4"
+    },
+    "琉璃灰蝶.png": {
+      "key": "Forestry:butterflyGE_aE3TNI02Ixkmtac"
+    },
+    "琥珀手里剑.png": {
+      "key": "TConstruct:Shuriken_U2KkEtKkWZGq5WH"
+    },
+    "琥珀金手里剑.png": {
+      "key": "TConstruct:Shuriken_fLFILdJDmU9l6mu"
+    },
+    "瓦块台阶.png": {
+      "key": "Botania:customBrick3Slab"
+    },
+    "甘蔗台阶.png": {
+      "key": "Botania:reedBlock0Slab"
+    },
+    "甘蔗杖柄.png": {
+      "key": "Thaumcraft:WandRod:5"
+    },
+    "甘蔗杖芯.png": {
+      "key": "Thaumcraft:WandRod:55"
+    },
+    "甜菜.png": {
+      "key": "harvestcraft:beetItem"
+    },
+    "甜菜汤.png": {
+      "key": "etfuturum:beetroot_soup"
+    },
+    "甜菜种子.png": {
+      "key": "etfuturum:beetroot_seeds"
+    },
+    "生兔肉.png": {
+      "key": "etfuturum:rabbit_raw"
+    },
+    "生动合金手里剑.png": {
+      "key": "TConstruct:Shuriken_A9Oa4iGfBVGkk5z"
+    },
+    "生命汲取护符.png": {
+      "key": "HardcoreEnderExpansion:charm:28"
+    },
+    "生存者发电机.png": {
+      "key": "ExtraUtilities:generator"
+    },
+    "生态圈执行协议 人工温室.png": {
+      "key": "TwistSpaceTechnology:EcoSphereExecutionProtocol:4"
+    },
+    "生态圈执行协议 定向克隆.png": {
+      "key": "TwistSpaceTechnology:EcoSphereExecutionProtocol:6"
+    },
+    "生态圈执行协议 水域模拟.png": {
+      "key": "TwistSpaceTechnology:EcoSphereExecutionProtocol:2"
+    },
+    "生成 九头蛇.png": {
+      "key": "TwilightForest:tile.TFBossSpawner:2"
+    },
+    "生成 冰雪女王.png": {
+      "key": "TwilightForest:tile.TFBossSpawner:5"
+    },
+    "生成 妖精.png": {
+      "key": "minecraft:spawn_egg:307"
+    },
+    "生成 娜迦.png": {
+      "key": "TwilightForest:tile.TFBossSpawner"
+    },
+    "生成 巫妖.png": {
+      "key": "TwilightForest:tile.TFBossSpawner:1"
+    },
+    "生成 幻影骑士.png": {
+      "key": "TwilightForest:tile.TFBossSpawner:4"
+    },
+    "生成 暮色恶魂.png": {
+      "key": "TwilightForest:tile.TFBossSpawner:3"
+    },
+    "生成 村民.png": {
+      "key": "minecraft:spawn_egg:120"
+    },
+    "生成 米诺陶.png": {
+      "key": "TwilightForest:tile.TFBossSpawner:6"
+    },
+    "生成 雪人首领.png": {
+      "key": "TwilightForest:tile.TFBossSpawner:7"
+    },
+    "生物质.png": {
+      "key": "fluid.ic2biomass"
+    },
+    "生铁凿头.png": {
+      "key": "TConstruct:chiselHead:18"
+    },
+    "生铁刀刃.png": {
+      "key": "TConstruct:knifeBlade:18"
+    },
+    "生铁剑刃.png": {
+      "key": "TConstruct:swordBlade:18"
+    },
+    "生铁十字柄.png": {
+      "key": "TConstruct:crossbar:18"
+    },
+    "生铁坚韧手柄.png": {
+      "key": "TConstruct:toughRod:18"
+    },
+    "生铁坚韧绑定结.png": {
+      "key": "TConstruct:toughBinding:18"
+    },
+    "生铁大型护手.png": {
+      "key": "TGregworks:tGregToolPartFullGuard:1605"
+    },
+    "生铁大板.png": {
+      "key": "TConstruct:heavyPlate:18"
+    },
+    "生铁宽剑刃.png": {
+      "key": "TConstruct:largeSwordBlade:18"
+    },
+    "生铁宽护手.png": {
+      "key": "TConstruct:wideGuard:18"
+    },
+    "生铁宽斧刃.png": {
+      "key": "TConstruct:broadAxeHead:18"
+    },
+    "生铁开掘铲头.png": {
+      "key": "TConstruct:excavatorHead:18"
+    },
+    "生铁弓臂.png": {
+      "key": "TConstruct:BowLimbPart:18"
+    },
+    "生铁弩箭.png": {
+      "key": "TConstruct:BoltPart:18_Fyz2DVyIvVbvgp7"
+    },
+    "生铁弩臂.png": {
+      "key": "TConstruct:CrossbowLimbPart:18"
+    },
+    "生铁弩身.png": {
+      "key": "TConstruct:CrossbowBodyPart:18"
+    },
+    "生铁手柄.png": {
+      "key": "TConstruct:toolRod:18"
+    },
+    "生铁手里剑.png": {
+      "key": "TConstruct:ShurikenPart:18"
+    },
+    "生铁护手.png": {
+      "key": "TConstruct:handGuard:18"
+    },
+    "生铁斧刃.png": {
+      "key": "TConstruct:hatchetHead:18"
+    },
+    "生铁牌板.png": {
+      "key": "TConstruct:signHead:18"
+    },
+    "生铁盘.png": {
+      "key": "TConstruct:frypanHead:18"
+    },
+    "生铁箭头.png": {
+      "key": "TConstruct:arrowhead:18"
+    },
+    "生铁绑定结.png": {
+      "key": "TConstruct:binding:18"
+    },
+    "生铁铲头.png": {
+      "key": "TConstruct:shovelHead:18"
+    },
+    "生铁镐头.png": {
+      "key": "TConstruct:pickaxeHead:18"
+    },
+    "生铁镰刀刀刃.png": {
+      "key": "TConstruct:scytheBlade:18"
+    },
+    "生鲈鱼.png": {
+      "key": "harvestcraft:bassrawItem"
+    },
+    "生鹿肉.png": {
+      "key": "TwilightForest:item.venisonRaw"
+    },
+    "甲烷冰.png": {
+      "key": "gregtech:gt.blockores7:1715"
+    },
+    "电子句芒锄.png": {
+      "key": "EMT:ElectricHoeGrowth:1"
+    },
+    "电子笔与墨.png": {
+      "key": "EMT:ElectricScribingTools:1"
+    },
+    "电池.png": {
+      "key": "GalacticraftCore:item.battery"
+    },
+    "电路编程器.png": {
+      "key": "miscutils:blockCircuitProgrammer"
+    },
+    "画布.png": {
+      "key": "OpenBlocks:canvas"
+    },
+    "番茄种子.png": {
+      "key": "harvestcraft:tomatoseedItem"
+    },
+    "疯狂特斯拉收发器.png": {
+      "key": "gregtech:gt.blockmachines:16004"
+    },
+    "白桦木书架.png": {
+      "key": "BiblioCraft:Bibliotheca:2"
+    },
+    "白桦木椅背.png": {
+      "key": "BiblioCraft:item.seatBack:2"
+    },
+    "白桦木画框.png": {
+      "key": "BiblioCraft:BiblioFlatPainting:2"
+    },
+    "白桦木门.png": {
+      "key": "ExtraTrees:door:2"
+    },
+    "白皮树座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:11"
+    },
+    "白皮树画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:11"
+    },
+    "白石棉手里剑.png": {
+      "key": "TConstruct:Shuriken_kRj06nXlOwyjqlY"
+    },
+    "白色十字路口地面标识.png": {
+      "key": "modernmarkings:tile.floor_marking_white_lane_cross"
+    },
+    "白色带釉陶瓦.png": {
+      "key": "etfuturum:white_glazed_terracotta"
+    },
+    "白色幕布.png": {
+      "key": "malisisdoors:curtain_white"
+    },
+    "白色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_C1OOXEq3JZUNkjk"
+    },
+    "白色混凝土.png": {
+      "key": "etfuturum:concrete"
+    },
+    "白色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder"
+    },
+    "白色灯.png": {
+      "key": "sciencenotleisure:meta_block:33"
+    },
+    "白色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:15"
+    },
+    "白色葡萄牙台阶.png": {
+      "key": "Botania:pavement0Slab"
+    },
+    "白色遮光玻璃.png": {
+      "key": "witchery:shadedglass"
+    },
+    "白蛺蝶.png": {
+      "key": "Forestry:butterflyGE_RMJA8t7XrIrjGRB"
+    },
+    "白面子树台阶.png": {
+      "key": "ExtraTrees:slab:12"
+    },
+    "白面子树木板.png": {
+      "key": "ExtraTrees:planks:12"
+    },
+    "白骨圆石台阶.png": {
+      "key": "Railcraft:slab:34"
+    },
+    "白骨杖柄.png": {
+      "key": "Thaumcraft:WandRod:7"
+    },
+    "白骨杖芯.png": {
+      "key": "Thaumcraft:WandRod:57"
+    },
+    "白骨砖台阶.png": {
+      "key": "Railcraft:slab:11"
+    },
+    "盐水.png": {
+      "key": "fluid.saltwater"
+    },
+    "监狱门.png": {
+      "key": "malisisdoors:jail_door"
+    },
+    "盖亚之魂手里剑.png": {
+      "key": "TConstruct:Shuriken_BkiqfM5xn7DGgTY"
+    },
+    "盖亚守护者的头.png": {
+      "key": "Botania:gaiaHeadBlock"
+    },
+    "真空冷冻机.png": {
+      "key": "gregtech:gt.blockmachines:1002"
+    },
+    "真空干燥炉.png": {
+      "key": "gregtech:gt.blockmachines:995"
+    },
+    "眼球花.png": {
+      "key": "BiomesOPlenty:flowers:13"
+    },
+    "着色器.png": {
+      "key": "appliedenergistics2:item.ToolColorizer"
+    },
+    "睡袋.png": {
+      "key": "adventurebackpack:blockSleepingBag"
+    },
+    "矢车菊.png": {
+      "key": "etfuturum:cornflower"
+    },
+    "短距离传送台.png": {
+      "key": "GalacticraftMars:tile.telepadShort"
+    },
+    "石化橡木台阶.png": {
+      "key": "minecraft:double_stone_slab:2"
+    },
+    "石头台阶.png": {
+      "key": "etfuturum:stone_slab"
+    },
+    "石柄火把.png": {
+      "key": "TConstruct:decoration.stonetorch"
+    },
+    "石榴.png": {
+      "key": "harvestcraft:pamPomegranate"
+    },
+    "石榴石矿砂.png": {
+      "key": "gregtech:gt.blockores2:938"
+    },
+    "石油桶.png": {
+      "key": "BuildCraft|Energy:bucketOil"
+    },
+    "石油胶囊.png": {
+      "key": "Forestry:waxCapsuleOil"
+    },
+    "石灰岩.png": {
+      "key": "BiomesOPlenty:rocks"
+    },
+    "石灰岩台阶.png": {
+      "key": "chisel:limestone_slab"
+    },
+    "石灰岩楼梯.png": {
+      "key": "chisel:limestone_stairs.0"
+    },
+    "石砖台阶.png": {
+      "key": "minecraft:stone_slab:5"
+    },
+    "石砖墙.png": {
+      "key": "Railcraft:wall.alpha:5"
+    },
+    "石磨.png": {
+      "key": "harvestcraft:quern"
+    },
+    "石英剑.png": {
+      "key": "Natura:natura.sword.netherquartz"
+    },
+    "石英杖柄.png": {
+      "key": "Thaumcraft:WandRod:4"
+    },
+    "石英杖芯.png": {
+      "key": "Thaumcraft:WandRod:54"
+    },
+    "石英玻璃.png": {
+      "key": "appliedenergistics2:tile.BlockQuartzGlass"
+    },
+    "石英矿砂.png": {
+      "key": "gregtech:gt.blockores2:939"
+    },
+    "石英镐.png": {
+      "key": "Natura:natura.pickaxe.netherquartz"
+    },
+    "矿工木台阶.png": {
+      "key": "TwilightForest:tile.TFWoodSlab:6"
+    },
+    "矿脉挖掘镐.png": {
+      "key": "sciencenotleisure:stick_IS7qXVK7aY5yy94"
+    },
+    "砖高炉.png": {
+      "key": "gregtech:gt.blockmachines:140"
+    },
+    "破损的唱片.png": {
+      "key": "Botania:recordGaia1"
+    },
+    "砷汞钯矿石.png": {
+      "key": "bartworks:bw.blockores.01:93"
+    },
+    "砷黄铁矿石.png": {
+      "key": "bartworks:bw.blockores.01:10"
+    },
+    "硅.png": {
+      "key": "EnderIO:itemMaterial"
+    },
+    "硅岩合金手里剑.png": {
+      "key": "TConstruct:Shuriken_qKdapLZ3TWJyoVk"
+    },
+    "硅岩手里剑.png": {
+      "key": "TConstruct:Shuriken_av7JbLuItP4VYRR"
+    },
+    "硅矿石.png": {
+      "key": "GalacticraftCore:tile.gcBlockCore:8"
+    },
+    "硝酸钠粉.png": {
+      "key": "miscutils:itemDustSodiumNitrate"
+    },
+    "硝酸铵粉.png": {
+      "key": "miscutils:itemDustAmmoniumNitrate"
+    },
+    "硫磺蛾.png": {
+      "key": "Forestry:butterflyGE_NCkSSYX5qL6OomB"
+    },
+    "硫酸钾粉.png": {
+      "key": "bartworks:gt.bwMetaGenerateddust:25025"
+    },
+    "硫铋铜矿石.png": {
+      "key": "bartworks:bw.blockores.01:15"
+    },
+    "硫铟铜矿石.png": {
+      "key": "bartworks:bw.blockores.01:13"
+    },
+    "硬铝手里剑.png": {
+      "key": "TConstruct:Shuriken_z03mAm6MCkNJ4KG"
+    },
+    "碘单元.png": {
+      "key": "miscutils:itemCellIodine"
+    },
+    "碘粉.png": {
+      "key": "miscutils:itemDustIodine"
+    },
+    "碲汞钯矿石.png": {
+      "key": "bartworks:bw.blockores.01:94"
+    },
+    "碳化钨手里剑.png": {
+      "key": "TConstruct:Shuriken_5wWNygH0LUUYYMn"
+    },
+    "碳化钽铪手里剑.png": {
+      "key": "TConstruct:Shuriken_Ypr1KY4IBHGn3Ho"
+    },
+    "碳化钽铪锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1501"
+    },
+    "碳手里剑.png": {
+      "key": "TConstruct:Shuriken_8BpATeiS63RQMqK"
+    },
+    "磁共振石手里剑.png": {
+      "key": "TConstruct:Shuriken_S50ZFmIX8sPF1c3"
+    },
+    "磁共振石锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1703"
+    },
+    "磁化钕手里剑.png": {
+      "key": "TConstruct:Shuriken_EzZR1ozY5BnaxkP"
+    },
+    "磁化钢手里剑.png": {
+      "key": "TConstruct:Shuriken_vUmVbuL6GoV27WD"
+    },
+    "磁化铁手里剑.png": {
+      "key": "TConstruct:Shuriken_wHDEUeOTkrBetCp"
+    },
+    "磁钢手里剑.png": {
+      "key": "TConstruct:Shuriken_4V7cvGPqLaETtvB"
+    },
+    "磨制凝灰岩台阶.png": {
+      "key": "etfuturum:tuff_slab:1"
+    },
+    "磨制深板岩台阶.png": {
+      "key": "etfuturum:deepslate_slab:1"
+    },
+    "磨制黑石台阶.png": {
+      "key": "etfuturum:blackstone_slab:1"
+    },
+    "磨制黑石砖台阶.png": {
+      "key": "etfuturum:blackstone_slab:2"
+    },
+    "神圣橡木原木.png": {
+      "key": "BiomesOPlenty:logs1"
+    },
+    "神圣橡木台阶.png": {
+      "key": "BiomesOPlenty:woodenSingleSlab1"
+    },
+    "神圣橡木木板.png": {
+      "key": "BiomesOPlenty:planks"
+    },
+    "神圣橡木椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1"
+    },
+    "神圣橡木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0"
+    },
+    "神秘使背包.png": {
+      "key": "MagicBees:backpack.thaumaturgeT1"
+    },
+    "神秘强化羽翼.png": {
+      "key": "EMT:EMTItems:14"
+    },
+    "神秘手里剑.png": {
+      "key": "TConstruct:ShurikenPart:31"
+    },
+    "神秘方块.png": {
+      "key": "Thaumcraft:blockCosmeticSolid:4"
+    },
+    "神秘杖端炼狱法杖.png": {
+      "key": "Thaumcraft:WandCasting:72_KIsPlkm74mPYeAU"
+    },
+    "神秘杖端腐化法杖.png": {
+      "key": "Thaumcraft:WandCasting:72_gdexBu0qWFZuy4e"
+    },
+    "神秘杖端银树法杖.png": {
+      "key": "Thaumcraft:WandCasting:54_4gc34ywKA3Sekk8"
+    },
+    "神秘水晶手里剑.png": {
+      "key": "TConstruct:Shuriken_1ZCJMSSRJIAOMt9"
+    },
+    "神秘水晶碎片.png": {
+      "key": "TGregworks:tGregToolPartChunk:1676_t9isOleOXt1YH6t"
+    },
+    "神秘蓝金手里剑.png": {
+      "key": "TConstruct:Shuriken_eHBVWOi1GlpNWaE"
+    },
+    "神秘蜂窝.png": {
+      "key": "MagicBees:comb:2"
+    },
+    "神秘铲.png": {
+      "key": "Thaumcraft:ItemShovelThaumium"
+    },
+    "神秘镐.png": {
+      "key": "Thaumcraft:ItemPickThaumium"
+    },
+    "福鲁伊克斯台阶.png": {
+      "key": "appliedenergistics2:tile.FluixSlabBlock"
+    },
+    "秋光草地台阶.png": {
+      "key": "Natura:GrassSlab:2"
+    },
+    "种子油胶囊.png": {
+      "key": "Forestry:waxCapsuleSeedOil"
+    },
+    "秘晶杖端.png": {
+      "key": "dreamcraft:WandCapThauminite"
+    },
+    "秩序魔晶台阶.png": {
+      "key": "thaumicbases:crystalSlab:4"
+    },
+    "秩序魔晶手里剑.png": {
+      "key": "TConstruct:Shuriken_JPnH9yvAbxByvGp"
+    },
+    "稀有金属合金手里剑.png": {
+      "key": "TConstruct:Shuriken_35ImDDLIdSjwcBU"
+    },
+    "稀有金属合金锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1732"
+    },
+    "稀有金属渣矿石.png": {
+      "key": "bartworks:bw.blockores.01:69"
+    },
+    "稠密灵魂要素.png": {
+      "key": "ThaumicTinkerer:mobAspect:21"
+    },
+    "空单元.png": {
+      "key": "IC2:itemCellEmpty",
+      "reason": "空单元图片采用 IC2 的流体容器；ProjectRed 的同名物品是逻辑门。"
+    },
+    "空灵木台阶.png": {
+      "key": "BiomesOPlenty:woodenSingleSlab1:4"
+    },
+    "空白升级.png": {
+      "key": "StevesCarts:ModuleComponents:59"
+    },
+    "空白铸模.png": {
+      "key": "TConstruct:blankPattern:1"
+    },
+    "空罐.png": {
+      "key": "GalacticraftCore:item.oilCanisterPartial:1001"
+    },
+    "立方氧化锆手里剑.png": {
+      "key": "TConstruct:Shuriken_wWqjbNEhdQpjyIP"
+    },
+    "立方氧化锆锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1692"
+    },
+    "竖纹赛特斯石英台阶.png": {
+      "key": "appliedenergistics2:tile.QuartzPillarSlabBlock"
+    },
+    "端红蝶.png": {
+      "key": "Forestry:butterflyGE_2qwWXDD3JySozVP"
+    },
+    "竹叶.png": {
+      "key": "BiomesOPlenty:leaves1:1"
+    },
+    "竹笋.png": {
+      "key": "BiomesOPlenty:saplings:2"
+    },
+    "竹笋种子.png": {
+      "key": "harvestcraft:bambooshootseedItem"
+    },
+    "竹筏.png": {
+      "key": "etfuturum:bamboo_raft"
+    },
+    "符文虚空石.png": {
+      "key": "chisel:voidstoneRunic:1"
+    },
+    "笼式扶梯.png": {
+      "key": "catwalks:cagedLadder_north_lit_nobottom_tape"
+    },
+    "管道.png": {
+      "key": "BuildCraft|Transport:pipeBlock"
+    },
+    "粉之发电机.png": {
+      "key": "ExtraUtilities:generator:9"
+    },
+    "粉红色带釉陶瓦.png": {
+      "key": "etfuturum:pink_glazed_terracotta"
+    },
+    "粉红色混凝土.png": {
+      "key": "etfuturum:concrete:6"
+    },
+    "粉红色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:6"
+    },
+    "粉色城堡门.png": {
+      "key": "TwilightForest:tile.CastleDoor:2"
+    },
+    "粉色幕布.png": {
+      "key": "malisisdoors:curtain_pink"
+    },
+    "粉色灯.png": {
+      "key": "sciencenotleisure:meta_block:6"
+    },
+    "粉色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:9"
+    },
+    "粉色遮光玻璃.png": {
+      "key": "witchery:shadedglass:6"
+    },
+    "粗制铑金属矿石.png": {
+      "key": "bartworks:bw.blockores.01:79"
+    },
+    "粗质褐岩台阶.png": {
+      "key": "TConstruct:SpeedSlab"
+    },
+    "精灵石英台阶.png": {
+      "key": "Botania:quartzSlabElfHalf"
+    },
+    "精致灯具.png": {
+      "key": "BiblioCraft:BiblioLamp"
+    },
+    "精致灯笼.png": {
+      "key": "BiblioCraft:BiblioLantern"
+    },
+    "精致焦黑砖块.png": {
+      "key": "TConstruct:Smeltery:9"
+    },
+    "精致焦黑砖块台阶.png": {
+      "key": "TConstruct:SearedSlab:5"
+    },
+    "精致羊毛衫.png": {
+      "key": "TwistSpaceTechnology:Cardigan:27_L4AlTQCGQheFxKB"
+    },
+    "精致褐岩砖块台阶.png": {
+      "key": "TConstruct:SpeedSlab:5"
+    },
+    "精金合金手里剑.png": {
+      "key": "TConstruct:Shuriken_esN8T01Y0MPW8VW"
+    },
+    "精金合金锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1721"
+    },
+    "精金手里剑.png": {
+      "key": "TConstruct:Shuriken_VF3M4zl82yrstpZ"
+    },
+    "紫心檀木座椅背.png": {
+      "key": "BiblioWoodsNatura:seatBack1:7"
+    },
+    "紫心檀木画框.png": {
+      "key": "BiblioWoodsNatura:BiblioWoodPaintingT0:7"
+    },
+    "紫檀木台阶.png": {
+      "key": "Natura:plankSlab2Double"
+    },
+    "紫檀木抽屉.png": {
+      "key": "StorageDrawersForestry:fullDrawers1B:10"
+    },
+    "紫檀木抽屉（1x2）.png": {
+      "key": "StorageDrawersForestry:fullDrawers2B:10"
+    },
+    "紫檀木抽屉（2x2）.png": {
+      "key": "StorageDrawersForestry:fullDrawers4B:10"
+    },
+    "紫檀木桥接方块.png": {
+      "key": "StorageDrawersForestry:trimB:10"
+    },
+    "紫水晶手里剑.png": {
+      "key": "TConstruct:Shuriken_oYWkTiKwStubco0"
+    },
+    "紫水晶碎片.png": {
+      "key": "etfuturum:amethyst_shard"
+    },
+    "紫水晶铲.png": {
+      "key": "TConstruct:shovel_LqtPNpOhKlvpQkk"
+    },
+    "紫水晶镐.png": {
+      "key": "TConstruct:pickaxe_tQlBTZrZpoG6tJb"
+    },
+    "紫水晶镰刀.png": {
+      "key": "TConstruct:scythe_U8MPYt5w2BLv1Jx"
+    },
+    "紫珀块.png": {
+      "key": "chisel:purpur"
+    },
+    "紫色城堡门.png": {
+      "key": "TwilightForest:tile.CastleDoor:3"
+    },
+    "紫色帝王蝶.png": {
+      "key": "Forestry:butterflyGE_RjvNAYW5gjgNjI7"
+    },
+    "紫色带釉陶瓦.png": {
+      "key": "etfuturum:purple_glazed_terracotta"
+    },
+    "紫色幕布.png": {
+      "key": "malisisdoors:curtain_purple"
+    },
+    "紫色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_xpl0S28uZ8XRrDy"
+    },
+    "紫色混凝土.png": {
+      "key": "etfuturum:concrete:10"
+    },
+    "紫色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:10"
+    },
+    "紫色灯.png": {
+      "key": "sciencenotleisure:meta_block:28"
+    },
+    "紫色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:5"
+    },
+    "紫色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab2:2"
+    },
+    "紫色荧光菇.png": {
+      "key": "Natura:Glowshroom:1"
+    },
+    "紫色遮光玻璃.png": {
+      "key": "witchery:shadedglass:10"
+    },
+    "红丝绒蛋糕.png": {
+      "key": "harvestcraft:pamredvelvetCake"
+    },
+    "红宝石手里剑.png": {
+      "key": "TConstruct:Shuriken_sbKc2kx0ws0IH3L"
+    },
+    "红宝石铲.png": {
+      "key": "TConstruct:shovel_FGXsqeSG3ZE2Aao"
+    },
+    "红宝石镐.png": {
+      "key": "TConstruct:pickaxe_mhF1YHV9pFqvhv8"
+    },
+    "红宝石镰刀.png": {
+      "key": "TConstruct:scythe_dQ28CJ8lTHWy6HH"
+    },
+    "红木.png": {
+      "key": "Natura:redwood:1"
+    },
+    "红木书架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodBookcase:11"
+    },
+    "红木书桌.png": {
+      "key": "BiblioWoodsBoP:BiblioWooddesk:11"
+    },
+    "红木压力板.png": {
+      "key": "Natura:pressureplate.redwood"
+    },
+    "红木台阶.png": {
+      "key": "Natura:plankSlab1Double:3"
+    },
+    "红木地图框架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodMapFrame:11"
+    },
+    "红木展示盒.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodcase:11"
+    },
+    "红木工具架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodrack:11"
+    },
+    "红木座椅.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodSeat:11"
+    },
+    "红木座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:11"
+    },
+    "红木抽屉.png": {
+      "key": "StorageDrawersBop:fullDrawers1:8"
+    },
+    "红木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers2:8"
+    },
+    "红木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers4:8"
+    },
+    "红木按钮.png": {
+      "key": "Natura:button.redwood"
+    },
+    "红木时钟.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodClock:11"
+    },
+    "红木木板.png": {
+      "key": "Natura:planks:3"
+    },
+    "红木架子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodshelf:11"
+    },
+    "红木栅栏.png": {
+      "key": "Natura:Natura.fence:3"
+    },
+    "红木栅栏门.png": {
+      "key": "Natura:fenceGate.redwood"
+    },
+    "红木标签.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodlabel:11"
+    },
+    "红木树叶.png": {
+      "key": "Natura:floraleaves"
+    },
+    "红木树皮门.png": {
+      "key": "Natura:door.redwoodbark"
+    },
+    "红木树苗.png": {
+      "key": "Natura:florasapling"
+    },
+    "红木桌子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodtable:11"
+    },
+    "红木桥接方块.png": {
+      "key": "StorageDrawersBop:trim:8"
+    },
+    "红木楼梯.png": {
+      "key": "Natura:stair.redwood"
+    },
+    "红木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:11"
+    },
+    "红木精致工作台.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancyWorkbench:11"
+    },
+    "红木精致木牌.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancySign:11"
+    },
+    "红木药水架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodpotshelf:11"
+    },
+    "红木门.png": {
+      "key": "Natura:door.redwood"
+    },
+    "红杉台阶.png": {
+      "key": "Forestry:slabs:7"
+    },
+    "红杉座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:19"
+    },
+    "红杉画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0b:3"
+    },
+    "红树原木.png": {
+      "key": "BiomesOPlenty:logs2:2"
+    },
+    "红树木台阶.png": {
+      "key": "BiomesOPlenty:woodenSingleSlab1:6"
+    },
+    "红树木板.png": {
+      "key": "BiomesOPlenty:planks:6"
+    },
+    "红树木椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:8"
+    },
+    "红树木楼梯.png": {
+      "key": "BiomesOPlenty:mangroveStairs"
+    },
+    "红树木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:8"
+    },
+    "红树树叶.png": {
+      "key": "BiomesOPlenty:colorizedLeaves1:1"
+    },
+    "红树树苗.png": {
+      "key": "BiomesOPlenty:colorizedSaplings:1"
+    },
+    "红沙石台阶.png": {
+      "key": "etfuturum:red_sandstone_slab"
+    },
+    "红石升级.png": {
+      "key": "JABBA:upgradeCore:2"
+    },
+    "红石榴石手里剑.png": {
+      "key": "TConstruct:Shuriken_EvAim1YHWEYQq2d"
+    },
+    "红石转换火把.png": {
+      "key": "Automagy:blockTorchInversion"
+    },
+    "红色十字路口地面标识.png": {
+      "key": "modernmarkings:tile.floor_marking_red_t_crossing"
+    },
+    "红色带釉陶瓦.png": {
+      "key": "etfuturum:red_glazed_terracotta"
+    },
+    "红色幕布.png": {
+      "key": "malisisdoors:curtain_red"
+    },
+    "红色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_M28DHqcQILOSCbk"
+    },
+    "红色混凝土.png": {
+      "key": "etfuturum:concrete:14"
+    },
+    "红色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:14"
+    },
+    "红色灯.png": {
+      "key": "sciencenotleisure:meta_block:8"
+    },
+    "红色石英台阶.png": {
+      "key": "Botania:quartzSlabRedHalf"
+    },
+    "红色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:1"
+    },
+    "红色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab2:6"
+    },
+    "红色葡萄牙台阶.png": {
+      "key": "Botania:pavement3Slab"
+    },
+    "红色遮光玻璃.png": {
+      "key": "witchery:shadedglass:14"
+    },
+    "红色颜料.png": {
+      "key": "ExtraBees:misc:19"
+    },
+    "红薯派.png": {
+      "key": "harvestcraft:sweetpotatopieItem"
+    },
+    "红蛺蝶.png": {
+      "key": "Forestry:butterflyGE_KHcoJAVPOQNaZ6Z"
+    },
+    "红豆杉台阶.png": {
+      "key": "ExtraTrees:slab:15"
+    },
+    "红钒铅锌矿石.png": {
+      "key": "bartworks:bw.blockores.01:26"
+    },
+    "红钢手里剑.png": {
+      "key": "TConstruct:Shuriken_TnPJjfJSbqGAq8y"
+    },
+    "红铬云母矿石.png": {
+      "key": "bartworks:bw.blockores.01:29"
+    },
+    "红锆石矿石.png": {
+      "key": "bartworks:bw.blockores.01:19"
+    },
+    "纸手里剑.png": {
+      "key": "TConstruct:ShurikenPart:9"
+    },
+    "纹黄蝶.png": {
+      "key": "Forestry:butterflyGE_4oF3j6HXwORWJl8"
+    },
+    "终末手里剑.png": {
+      "key": "TConstruct:Shuriken_XCnoVXpjAUWTvYp"
+    },
+    "终极审判护符.png": {
+      "key": "HardcoreEnderExpansion:charm:77"
+    },
+    "绢斑蝶.png": {
+      "key": "Forestry:butterflyGE_4vtYqHLaYtdGxEp"
+    },
+    "继承私人维度传送门（UtilityWorlds迁移）.png": {
+      "key": "personalspace:personalPortal_migration2"
+    },
+    "绯红玫瑰蝶.png": {
+      "key": "Forestry:butterflyGE_5VznjWSM0Q294Tq"
+    },
+    "维里格台阶.png": {
+      "key": "GalacticraftAmunRa:tile.woodDoubleslab:1"
+    },
+    "绿宝石手里剑.png": {
+      "key": "TConstruct:Shuriken_GBD5W0dlDLp5USy"
+    },
+    "绿宝石残片.png": {
+      "key": "ExtraBees:misc:2"
+    },
+    "绿宝石碎片.png": {
+      "key": "MagicBees:beeNugget:6"
+    },
+    "绿樟树台阶.png": {
+      "key": "Forestry:slabs:14"
+    },
+    "绿橄榄石.png": {
+      "key": "BiomesOPlenty:gems:2"
+    },
+    "绿橄榄石块.png": {
+      "key": "BiomesOPlenty:gemOre:5"
+    },
+    "绿橄榄石矿石.png": {
+      "key": "BiomesOPlenty:gemOre:4"
+    },
+    "绿色带釉陶瓦.png": {
+      "key": "etfuturum:green_glazed_terracotta"
+    },
+    "绿色幕布.png": {
+      "key": "malisisdoors:curtain_green"
+    },
+    "绿色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_II4OH7LKnHGkktp"
+    },
+    "绿色混凝土.png": {
+      "key": "etfuturum:concrete:13"
+    },
+    "绿色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:13"
+    },
+    "绿色灯.png": {
+      "key": "sciencenotleisure:meta_block:13"
+    },
+    "绿色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:2"
+    },
+    "绿色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab2:5"
+    },
+    "绿色荧光菇.png": {
+      "key": "Natura:Glowshroom"
+    },
+    "绿色葡萄牙台阶.png": {
+      "key": "Botania:pavement5Slab"
+    },
+    "绿色蓝宝石手里剑.png": {
+      "key": "TConstruct:Shuriken_vcQd8vErpxi58iu"
+    },
+    "绿色遮光玻璃.png": {
+      "key": "witchery:shadedglass:13"
+    },
+    "绿色颜料.png": {
+      "key": "ExtraBees:misc:22"
+    },
+    "绿铬云母矿石.png": {
+      "key": "bartworks:bw.blockores.01:28"
+    },
+    "缓慢诅咒.png": {
+      "key": "HardcoreEnderExpansion:curse:3"
+    },
+    "缸中节点.png": {
+      "key": "gadomancy:BlockExtendedNodeJar"
+    },
+    "罐.png": {
+      "key": "Forestry:canEmpty"
+    },
+    "罐装食物.png": {
+      "key": "GalacticraftCore:item.basicItem:15"
+    },
+    "羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab1"
+    },
+    "翡翠孔雀蝶.png": {
+      "key": "Forestry:butterflyGE_ufb9W6XixITYRwz"
+    },
+    "耐火乙醇胶囊.png": {
+      "key": "Forestry:waxCapsuleEthanol"
+    },
+    "耐火冰胶囊.png": {
+      "key": "Forestry:waxCapsuleIce"
+    },
+    "耐火果汁胶囊.png": {
+      "key": "Forestry:waxCapsuleJuice"
+    },
+    "耐火水胶囊.png": {
+      "key": "Forestry:waxCapsuleWater"
+    },
+    "耐火燃料胶囊.png": {
+      "key": "Forestry:waxCapsuleFuel"
+    },
+    "耐火生物质胶囊.png": {
+      "key": "Forestry:waxCapsuleBiomass"
+    },
+    "肉块.png": {
+      "key": "BiomesOPlenty:flesh"
+    },
+    "肉桂原木.png": {
+      "key": "ExtraTrees:log:38"
+    },
+    "肉桂树苗.png": {
+      "key": "harvestcraft:pamcinnamonSapling"
+    },
+    "肉豆蔻.png": {
+      "key": "harvestcraft:pamNutmeg"
+    },
+    "肉豆蔻树苗.png": {
+      "key": "harvestcraft:pamnutmegSapling"
+    },
+    "肥沃花土.png": {
+      "key": "Botany:loam"
+    },
+    "胡椒.png": {
+      "key": "harvestcraft:pamPeppercorn"
+    },
+    "胡萝卜.png": {
+      "key": "minecraft:carrots"
+    },
+    "胡萝卜蛋糕.png": {
+      "key": "harvestcraft:pamcarrotCake"
+    },
+    "胶木手里剑.png": {
+      "key": "TConstruct:Shuriken_yQOvWGoMcpLnpPJ"
+    },
+    "能源接收器.png": {
+      "key": "appliedenergistics2:tile.BlockEnergyAcceptor"
+    },
+    "能量分配器.png": {
+      "key": "OpenComputers:powerDistributor"
+    },
+    "能量注入仪.png": {
+      "key": "gregtech:gt.blockmachines:15350"
+    },
+    "能量碎片.png": {
+      "key": "HardcoreEnderExpansion:auricion"
+    },
+    "脉冲合金手里剑.png": {
+      "key": "TConstruct:Shuriken_ELB2WMRPPrfaqsV"
+    },
+    "脉冲铁手里剑.png": {
+      "key": "TConstruct:Shuriken_y2ZcDxLNQmADqx4"
+    },
+    "腐化草地.png": {
+      "key": "Thaumcraft:blockTaintFibres:1"
+    },
+    "腐化魔晶台阶.png": {
+      "key": "thaumicbases:crystalSlab:7"
+    },
+    "腰果.png": {
+      "key": "harvestcraft:pamCashew"
+    },
+    "腰果树苗.png": {
+      "key": "harvestcraft:pamcashewSapling"
+    },
+    "膨润土.png": {
+      "key": "gregtech:gt.blockores2:927"
+    },
+    "自然荒芜之斧.png": {
+      "key": "Avaritia:Infinity_Axe"
+    },
+    "艾萨研磨机.png": {
+      "key": "gregtech:gt.blockmachines:21070"
+    },
+    "节日蛋糕.png": {
+      "key": "harvestcraft:pamholidayCake"
+    },
+    "芒果.png": {
+      "key": "harvestcraft:pamMango"
+    },
+    "芒果树苗.png": {
+      "key": "harvestcraft:pammangoSapling"
+    },
+    "芜菁.png": {
+      "key": "BiomesOPlenty:turnip"
+    },
+    "芜菁种子.png": {
+      "key": "BiomesOPlenty:turnipSeeds"
+    },
+    "芥末种子.png": {
+      "key": "harvestcraft:mustardseedItem"
+    },
+    "花岗岩.png": {
+      "key": "Botania:stone:3"
+    },
+    "花岗岩台阶.png": {
+      "key": "Botania:stone3Slab"
+    },
+    "花岗岩矿砂.png": {
+      "key": "gregtech:gt.blockores2:936"
+    },
+    "花岗岩砖台阶.png": {
+      "key": "Botania:stone11Slab"
+    },
+    "花床.png": {
+      "key": "Botany:flowerbed"
+    },
+    "苍穹木台阶.png": {
+      "key": "TwilightForest:tile.TFWoodSlab:1"
+    },
+    "苏格兰百眼蝶.png": {
+      "key": "Forestry:butterflyGE_bQDQgySbo8gagem"
+    },
+    "苔石台阶.png": {
+      "key": "etfuturum:stone_slab:1"
+    },
+    "苔石砖台阶.png": {
+      "key": "etfuturum:stone_slab:2"
+    },
+    "苔石砖墙.png": {
+      "key": "Railcraft:wall.alpha:6"
+    },
+    "苔藓.png": {
+      "key": "BiomesOPlenty:moss"
+    },
+    "苔藓球.png": {
+      "key": "TConstruct:materials:6"
+    },
+    "苦艾.png": {
+      "key": "witchery:wormwood"
+    },
+    "苹果树台阶.png": {
+      "key": "ExtraTrees:slab:14"
+    },
+    "苹果树苗.png": {
+      "key": "BiomesOPlenty:saplings"
+    },
+    "茅草台阶.png": {
+      "key": "Botania:thatch0Slab"
+    },
+    "茶种子.png": {
+      "key": "harvestcraft:teaseedItem"
+    },
+    "荆棘.png": {
+      "key": "BiomesOPlenty:plants:5"
+    },
+    "荆棘玫瑰.png": {
+      "key": "TwilightForest:tile.TFThornRose"
+    },
+    "荆棘诅咒.png": {
+      "key": "HardcoreEnderExpansion:curse:9"
+    },
+    "草地棕眼蝶.png": {
+      "key": "Forestry:butterflyGE_tIIqMKLPa6vmMag"
+    },
+    "草莓种子.png": {
+      "key": "harvestcraft:strawberryseedItem"
+    },
+    "荧光蘑菇炖.png": {
+      "key": "Natura:natura.stewbowl:14"
+    },
+    "药水发电机.png": {
+      "key": "ExtraUtilities:generator:6"
+    },
+    "菌泥.png": {
+      "key": "fluid.sludge"
+    },
+    "菜粉蝶.png": {
+      "key": "Forestry:butterflyGE_ylvJBtGKF02eHB0"
+    },
+    "萤火虫.png": {
+      "key": "TwilightForest:item.critter"
+    },
+    "落叶松座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:9"
+    },
+    "落叶松画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:9"
+    },
+    "落叶树台阶.png": {
+      "key": "Forestry:slabs"
+    },
+    "葡萄种子.png": {
+      "key": "harvestcraft:grapeseedItem"
+    },
+    "蒸汽.png": {
+      "key": "fluid.ic2steam"
+    },
+    "蒸馏器.png": {
+      "key": "Forestry:factory:6"
+    },
+    "蓝冰台阶.png": {
+      "key": "Railcraft:slab:5"
+    },
+    "蓝宝石手里剑.png": {
+      "key": "TConstruct:Shuriken_ONnmKest1be6leM"
+    },
+    "蓝宝石铲.png": {
+      "key": "TConstruct:shovel_Jwajr86VZ8Mp5Zz"
+    },
+    "蓝宝石镐.png": {
+      "key": "TConstruct:pickaxe_D5S9YbMOgVOzYZ9"
+    },
+    "蓝宝石镰刀.png": {
+      "key": "TConstruct:scythe_egrkRMJMD9Nm9pc"
+    },
+    "蓝爵蝶.png": {
+      "key": "Forestry:butterflyGE_B54wwE7a0spCF9U"
+    },
+    "蓝色十字路口地面标识.png": {
+      "key": "modernmarkings:tile.floor_marking_blue_t_crossing"
+    },
+    "蓝色城堡门.png": {
+      "key": "TwilightForest:tile.CastleDoor"
+    },
+    "蓝色带釉陶瓦.png": {
+      "key": "etfuturum:blue_glazed_terracotta"
+    },
+    "蓝色幕布.png": {
+      "key": "malisisdoors:curtain_blue"
+    },
+    "蓝色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_zRvkqGqS15CP2Th"
+    },
+    "蓝色混凝土.png": {
+      "key": "etfuturum:concrete:11"
+    },
+    "蓝色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:11"
+    },
+    "蓝色灯.png": {
+      "key": "sciencenotleisure:meta_block:18"
+    },
+    "蓝色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:4"
+    },
+    "蓝色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab2:3"
+    },
+    "蓝色草地台阶.png": {
+      "key": "Natura:GrassSlab:1"
+    },
+    "蓝色荧光菇.png": {
+      "key": "Natura:Glowshroom:2"
+    },
+    "蓝色葡萄牙台阶.png": {
+      "key": "Botania:pavement2Slab"
+    },
+    "蓝色遮光玻璃.png": {
+      "key": "witchery:shadedglass:11"
+    },
+    "蓝色颜料.png": {
+      "key": "Natura:barleyFood:8"
+    },
+    "蓝花楹原木.png": {
+      "key": "BiomesOPlenty:logs4:2"
+    },
+    "蓝花楹座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:6"
+    },
+    "蓝花楹木台阶.png": {
+      "key": "BiomesOPlenty:woodenSingleSlab2:4"
+    },
+    "蓝花楹木板.png": {
+      "key": "BiomesOPlenty:planks:13"
+    },
+    "蓝花楹画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:6"
+    },
+    "蓝莓.png": {
+      "key": "Natura:berry:1"
+    },
+    "蓝莓种子.png": {
+      "key": "harvestcraft:blueberryseedItem"
+    },
+    "蓝蝶.png": {
+      "key": "Forestry:butterflyGE_90yIQkkoXAIo7LB"
+    },
+    "蓝钢手里剑.png": {
+      "key": "TConstruct:Shuriken_oKuHQkT8nUshu8Q"
+    },
+    "蓝黄玉手里剑.png": {
+      "key": "TConstruct:Shuriken_f7ucO3IMJviStzG"
+    },
+    "蔓越莓.png": {
+      "key": "ExtraTrees:food:46"
+    },
+    "蔓越莓酱.png": {
+      "key": "harvestcraft:cranberrysauceItem"
+    },
+    "蔬菜沙拉.png": {
+      "key": "BiomesOPlenty:food:5"
+    },
+    "蕴魔谷物.png": {
+      "key": "ThaumicTinkerer:infusedGrainBlock"
+    },
+    "薯条.png": {
+      "key": "gregtech:gt.metaitem.02:32203"
+    },
+    "薰衣草.png": {
+      "key": "BiomesOPlenty:flowers2:3"
+    },
+    "蘑菇.png": {
+      "key": "minecraft:brown_mushroom"
+    },
+    "蘑菇粉.png": {
+      "key": "BiomesOPlenty:food:1"
+    },
+    "虎斑木台阶.png": {
+      "key": "Natura:plankSlab2Double:1"
+    },
+    "虚弱之箭.png": {
+      "key": "etfuturum:tipped_arrow:8232"
+    },
+    "虚弱药水.png": {
+      "key": "minecraft:potion:8232"
+    },
+    "虚弱诅咒.png": {
+      "key": "HardcoreEnderExpansion:curse:4"
+    },
+    "虚空升级.png": {
+      "key": "JABBA:upgradeCore:7"
+    },
+    "虚空杖端银树手杖.png": {
+      "key": "Thaumcraft:WandCasting:270_TJ6lQ9tEx3QOqOm"
+    },
+    "虚空石.png": {
+      "key": "chisel:voidstone"
+    },
+    "虚空石柱.png": {
+      "key": "chisel:voidstonePillar"
+    },
+    "虚空种子.png": {
+      "key": "Thaumcraft:ItemResource:17"
+    },
+    "虚空箱子.png": {
+      "key": "Railcraft:machine.beta:11"
+    },
+    "虚空金属块.png": {
+      "key": "thaumicbases:voidBlock"
+    },
+    "虚空金属手里剑.png": {
+      "key": "TConstruct:Shuriken_jexg1VS5w9AMROb"
+    },
+    "蛇纹沙石.png": {
+      "key": "chisel:sand_snakestone:1"
+    },
+    "蛇纹石头.png": {
+      "key": "chisel:stone_snakestone:1"
+    },
+    "蛇纹黑曜石.png": {
+      "key": "chisel:obsidian_snakestone:1"
+    },
+    "蛋白石手里剑.png": {
+      "key": "TConstruct:Shuriken_VkWaRLpbaS56Lxa"
+    },
+    "蛭石.png": {
+      "key": "gregtech:gt.blockores2:932"
+    },
+    "蜂后.png": {
+      "key": "harvestcraft:queenbeeItem"
+    },
+    "蜂王浆.png": {
+      "key": "Forestry:royalJelly"
+    },
+    "蜂箱.png": {
+      "key": "Forestry:apiculture"
+    },
+    "蜂蜜.png": {
+      "key": "fluid.honey"
+    },
+    "蜂蜜块.png": {
+      "key": "BiomesOPlenty:honeyBlock"
+    },
+    "蜂蜜桶.png": {
+      "key": "BiomesOPlenty:bopBucket_YNkpRIR9gmYFt9C"
+    },
+    "蜂蜜胶囊.png": {
+      "key": "Forestry:waxCapsuleHoney"
+    },
+    "蜂蜜酒胶囊.png": {
+      "key": "Forestry:waxCapsuleShortMead"
+    },
+    "蜂蜜陈酿胶囊.png": {
+      "key": "Forestry:waxCapsuleMead"
+    },
+    "蜂蜡.png": {
+      "key": "Forestry:beeswax"
+    },
+    "蜜罐.png": {
+      "key": "Forestry:canHoney"
+    },
+    "血之蛋糕.png": {
+      "key": "BloodArsenal:blood_cake"
+    },
+    "血木台阶.png": {
+      "key": "Natura:plankSlab1Double:4"
+    },
+    "血木座椅背.png": {
+      "key": "BiblioWoodsNatura:seatBack1"
+    },
+    "血木画框.png": {
+      "key": "BiblioWoodsNatura:BiblioWoodPaintingT0"
+    },
+    "血木门.png": {
+      "key": "Natura:door.bloodwood"
+    },
+    "血灼之线.png": {
+      "key": "BloodArsenal:block_burned_string"
+    },
+    "血腥布匹.png": {
+      "key": "TaintedMagic:ItemMaterial:2"
+    },
+    "血腥布匹杖端.png": {
+      "key": "dreamcraft:CrimsonStainedClothCap"
+    },
+    "血黏土桶.png": {
+      "key": "IguanaTweaksTConstruct:clayBucketBlood"
+    },
+    "衰变药水.png": {
+      "key": "minecraft:potion:8235"
+    },
+    "衰变诅咒.png": {
+      "key": "HardcoreEnderExpansion:curse:7"
+    },
+    "裂纹焦黑砖块.png": {
+      "key": "TConstruct:Smeltery:7"
+    },
+    "装饰锡制楼梯.png": {
+      "key": "GalacticraftCore:tile.tinStairs1"
+    },
+    "装饰锡块.png": {
+      "key": "GalacticraftCore:tile.gcBlockCore:3"
+    },
+    "褐岩台阶.png": {
+      "key": "TConstruct:SpeedSlab:2"
+    },
+    "褐岩砖块台阶.png": {
+      "key": "TConstruct:SpeedSlab:3"
+    },
+    "褐岩铺路石.png": {
+      "key": "TConstruct:SpeedBlock:1"
+    },
+    "褐岩铺路石台阶.png": {
+      "key": "TConstruct:SpeedSlab:1"
+    },
+    "西柚.png": {
+      "key": "harvestcraft:pamGrapefruit"
+    },
+    "西柚树苗.png": {
+      "key": "harvestcraft:pamgrapefruitSapling"
+    },
+    "西班牙豹纹女王蝶.png": {
+      "key": "Forestry:butterflyGE_siQZdSUrHDBYBP7"
+    },
+    "觉醒龙手里剑.png": {
+      "key": "TConstruct:Shuriken_ahoYLtYFvJL2T2c"
+    },
+    "调律源金手里剑.png": {
+      "key": "TConstruct:Shuriken_m4vcF0btkmTIY4Z"
+    },
+    "调律源金锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1735"
+    },
+    "豹纹蛱蝶.png": {
+      "key": "Forestry:butterflyGE_nXuFdAEunZ3l2er"
+    },
+    "货运火箭.png": {
+      "key": "GalacticraftMars:item.spaceshipTier2:11"
+    },
+    "贫瘠BArTiMaEuSNeK矿石.png": {
+      "key": "bartworks:bw.blockores.02:43"
+    },
+    "贫瘠久辉铜矿石.png": {
+      "key": "bartworks:bw.blockores.02:16"
+    },
+    "贫瘠合成玉矿石.png": {
+      "key": "bartworks:bw.blockores.02:10023"
+    },
+    "贫瘠堇云石矿石.png": {
+      "key": "bartworks:bw.blockores.02:35"
+    },
+    "贫瘠斑铜矿石.png": {
+      "key": "bartworks:bw.blockores.02:14"
+    },
+    "贫瘠斜方砷铁矿石.png": {
+      "key": "bartworks:bw.blockores.02:12"
+    },
+    "贫瘠方钍石矿石.png": {
+      "key": "bartworks:bw.blockores.02:18"
+    },
+    "贫瘠橙钒铅铜矿石.png": {
+      "key": "bartworks:bw.blockores.02:27"
+    },
+    "贫瘠氟石矿石.png": {
+      "key": "bartworks:bw.blockores.02:91"
+    },
+    "贫瘠氟铁电气石矿石.png": {
+      "key": "bartworks:bw.blockores.02:5"
+    },
+    "贫瘠氧化富集硅岩混合物矿石.png": {
+      "key": "bartworks:bw.blockores.02:10067"
+    },
+    "贫瘠氧化硅岩混合物矿石.png": {
+      "key": "bartworks:bw.blockores.02:10054"
+    },
+    "贫瘠氧化超能硅岩混合物矿石.png": {
+      "key": "bartworks:bw.blockores.02:10072"
+    },
+    "贫瘠泡铋矿石.png": {
+      "key": "bartworks:bw.blockores.02:1"
+    },
+    "贫瘠泰伯利亚矿石.png": {
+      "key": "bartworks:bw.blockores.02:89"
+    },
+    "贫瘠浸出渣矿石.png": {
+      "key": "bartworks:bw.blockores.02:60"
+    },
+    "贫瘠砷汞钯矿石.png": {
+      "key": "bartworks:bw.blockores.02:93"
+    },
+    "贫瘠砷黄铁矿石.png": {
+      "key": "bartworks:bw.blockores.02:10"
+    },
+    "贫瘠硫铋铜矿石.png": {
+      "key": "bartworks:bw.blockores.02:15"
+    },
+    "贫瘠硫铟铜矿石.png": {
+      "key": "bartworks:bw.blockores.02:13"
+    },
+    "贫瘠碲汞钯矿石.png": {
+      "key": "bartworks:bw.blockores.02:94"
+    },
+    "贫瘠稀有金属渣矿石.png": {
+      "key": "bartworks:bw.blockores.02:69"
+    },
+    "贫瘠粗制铑金属矿石.png": {
+      "key": "bartworks:bw.blockores.02:79"
+    },
+    "贫瘠红钒铅锌矿石.png": {
+      "key": "bartworks:bw.blockores.02:26"
+    },
+    "贫瘠红铬云母矿石.png": {
+      "key": "bartworks:bw.blockores.02:29"
+    },
+    "贫瘠红锆石矿石.png": {
+      "key": "bartworks:bw.blockores.02:19"
+    },
+    "贫瘠绿铬云母矿石.png": {
+      "key": "bartworks:bw.blockores.02:28"
+    },
+    "贫瘠辉铋矿石.png": {
+      "key": "bartworks:bw.blockores.02:2"
+    },
+    "贫瘠钒镁电气石矿石.png": {
+      "key": "bartworks:bw.blockores.02:8"
+    },
+    "贫瘠钙铁辉石矿石.png": {
+      "key": "bartworks:bw.blockores.02:25"
+    },
+    "贫瘠钨酸锰矿石.png": {
+      "key": "bartworks:bw.blockores.02:17"
+    },
+    "贫瘠钨铁矿石.png": {
+      "key": "bartworks:bw.blockores.02:11"
+    },
+    "贫瘠钯金属矿石.png": {
+      "key": "bartworks:bw.blockores.02:53"
+    },
+    "贫瘠铁橄榄石矿石.png": {
+      "key": "bartworks:bw.blockores.02:23"
+    },
+    "贫瘠铂金属矿石.png": {
+      "key": "bartworks:bw.blockores.02:47"
+    },
+    "贫瘠铝电气石矿石.png": {
+      "key": "bartworks:bw.blockores.02:9"
+    },
+    "贫瘠铬铝电气石矿石.png": {
+      "key": "bartworks:bw.blockores.02:7"
+    },
+    "贫瘠铱金属渣矿石.png": {
+      "key": "bartworks:bw.blockores.02:70"
+    },
+    "贫瘠镁橄榄石矿石.png": {
+      "key": "bartworks:bw.blockores.02:24"
+    },
+    "贫瘠黄氯汞矿石.png": {
+      "key": "bartworks:bw.blockores.02:95"
+    },
+    "贸易站.png": {
+      "key": "ExtraUtilities:trading_post"
+    },
+    "赛特斯石英台阶.png": {
+      "key": "appliedenergistics2:tile.QuartzSlabBlock"
+    },
+    "赛特斯石英手里剑.png": {
+      "key": "TConstruct:Shuriken_UAAp0dHGwQf5qRT"
+    },
+    "赛特斯石英镐.png": {
+      "key": "TConstruct:pickaxe_Jcd8IoOFy4K48tM"
+    },
+    "赤杨木台阶.png": {
+      "key": "witchery:witchwoodslab:1"
+    },
+    "赤杨木门.png": {
+      "key": "witchery:alderwooddoor"
+    },
+    "超级ME接口.png": {
+      "key": "sciencenotleisure:super_interface"
+    },
+    "超级二合一ME接口.png": {
+      "key": "sciencenotleisure:super_dual_interface"
+    },
+    "超级存储输入仓(ME).png": {
+      "key": "gregtech:gt.blockmachines:18852"
+    },
+    "超级存储输入总线(ME).png": {
+      "key": "gregtech:gt.blockmachines:18851"
+    },
+    "跳跃药水.png": {
+      "key": "minecraft:potion:8203"
+    },
+    "车桑子木台阶.png": {
+      "key": "Natura:plankSlab1Double:5"
+    },
+    "车桑子木座椅背.png": {
+      "key": "BiblioWoodsNatura:seatBack1:5"
+    },
+    "车桑子木画框.png": {
+      "key": "BiblioWoodsNatura:BiblioWoodPaintingT0:5"
+    },
+    "车桑子木门.png": {
+      "key": "Natura:door.hopseed"
+    },
+    "软盘.png": {
+      "key": "OpenComputers:item:4"
+    },
+    "辉铋矿石.png": {
+      "key": "bartworks:bw.blockores.01:2"
+    },
+    "辐射蜂窝.png": {
+      "key": "ExtraBees:honeyComb:20"
+    },
+    "输入总成 (IV).png": {
+      "key": "gregtech:gt.blockmachines:18980"
+    },
+    "输入总成 (LuV).png": {
+      "key": "gregtech:gt.blockmachines:18981"
+    },
+    "输入总成 (UV).png": {
+      "key": "gregtech:gt.blockmachines:18983"
+    },
+    "输入总成 (ZPM).png": {
+      "key": "gregtech:gt.blockmachines:18982"
+    },
+    "辣椒.png": {
+      "key": "ExtraTrees:food:55"
+    },
+    "辣椒种子.png": {
+      "key": "harvestcraft:chilipepperseedItem"
+    },
+    "迅捷之箭.png": {
+      "key": "etfuturum:tipped_arrow:8194"
+    },
+    "迅捷药水.png": {
+      "key": "minecraft:potion:8194"
+    },
+    "运输竹筏.png": {
+      "key": "etfuturum:bamboo_chest_raft"
+    },
+    "进阶内燃发电机.png": {
+      "key": "gregtech:gt.blockmachines:1111"
+    },
+    "进阶燃气轮机.png": {
+      "key": "gregtech:gt.blockmachines:1116"
+    },
+    "进阶特斯拉收发器.png": {
+      "key": "gregtech:gt.blockmachines:16001"
+    },
+    "进阶蒸汽轮机.png": {
+      "key": "gregtech:gt.blockmachines:1121"
+    },
+    "进阶质量发生器.png": {
+      "key": "gregtech:gt.blockmachines:462"
+    },
+    "远古圆石台阶.png": {
+      "key": "thaumicbases:genericSlab:2"
+    },
+    "远古石砖台阶.png": {
+      "key": "thaumicbases:genericSlab:1"
+    },
+    "远古苔石台阶.png": {
+      "key": "thaumicbases:genericSlab:3"
+    },
+    "远古金台阶.png": {
+      "key": "thaumicbases:genericSlab:5"
+    },
+    "远古钻石台阶.png": {
+      "key": "thaumicbases:genericSlab:4"
+    },
+    "远古铁台阶.png": {
+      "key": "thaumicbases:genericSlab:6"
+    },
+    "远古镶金黑曜石台阶.png": {
+      "key": "thaumicbases:genericSlab"
+    },
+    "远古青金石台阶.png": {
+      "key": "thaumicbases:genericSlab:7"
+    },
+    "迟缓之箭.png": {
+      "key": "etfuturum:tipped_arrow:8234"
+    },
+    "迟缓药水.png": {
+      "key": "minecraft:potion:8234"
+    },
+    "透翅蝶.png": {
+      "key": "Forestry:butterflyGE_TuTt0wJEpGph1ND"
+    },
+    "通流琥珀金手里剑.png": {
+      "key": "TConstruct:Shuriken_nXhTHliT8NH0m8G"
+    },
+    "通道.png": {
+      "key": "GalacticraftMars:tile.walkway"
+    },
+    "道路方块.png": {
+      "key": "chisel:road2"
+    },
+    "邪术传送门.png": {
+      "key": "Thaumcraft:blockPortalEldritch"
+    },
+    "邮差蝶.png": {
+      "key": "Forestry:butterflyGE_RNE7m14D6wlZnPU"
+    },
+    "部件加工台.png": {
+      "key": "TConstruct:ToolStationBlock:1"
+    },
+    "部件箱.png": {
+      "key": "TConstruct:ToolStationBlock:6"
+    },
+    "酒馆门.png": {
+      "key": "malisisdoors:saloon"
+    },
+    "酸橙.png": {
+      "key": "harvestcraft:pamLime"
+    },
+    "酸橙树台阶.png": {
+      "key": "Forestry:slabs:3"
+    },
+    "酸橙树苗.png": {
+      "key": "harvestcraft:pamlimeSapling"
+    },
+    "酸液胶囊.png": {
+      "key": "BinnieCore:containerCapsule:64"
+    },
+    "醋栗.png": {
+      "key": "harvestcraft:pamGooseberry"
+    },
+    "醋栗树苗.png": {
+      "key": "harvestcraft:pamgooseberrySapling"
+    },
+    "采掘圆石台阶.png": {
+      "key": "Railcraft:slab:33"
+    },
+    "采掘砖台阶.png": {
+      "key": "Railcraft:slab:10"
+    },
+    "采矿管道.png": {
+      "key": "IC2:blockMiningPipe"
+    },
+    "重型板.png": {
+      "key": "GalaxySpace:item.HeavyDutyPlate4"
+    },
+    "重型装甲板.png": {
+      "key": "GalacticraftCore:item.heavyPlating"
+    },
+    "量子手里剑.png": {
+      "key": "TConstruct:Shuriken_9sAc0LRsX3O9fxJ"
+    },
+    "量子计算机.png": {
+      "key": "gregtech:gt.blockmachines:15311"
+    },
+    "金匕首.png": {
+      "key": "battlegear2:dagger.gold"
+    },
+    "金合欢时钟.png": {
+      "key": "BiblioCraft:BiblioClock:4"
+    },
+    "金合欢木书架.png": {
+      "key": "BiblioCraft:Bibliotheca:4"
+    },
+    "金合欢木书桌.png": {
+      "key": "BiblioCraft:BiblioDesk:4"
+    },
+    "金合欢木地图框架.png": {
+      "key": "BiblioCraft:BiblioMapFrames:4"
+    },
+    "金合欢木展示盒.png": {
+      "key": "BiblioCraft:BiblioCase:4"
+    },
+    "金合欢木工具架.png": {
+      "key": "BiblioCraft:BiblioRack:4"
+    },
+    "金合欢木座椅.png": {
+      "key": "BiblioCraft:BiblioSeats:4"
+    },
+    "金合欢木座椅背.png": {
+      "key": "BiblioCraft:item.seatBack:4"
+    },
+    "金合欢木抽屉.png": {
+      "key": "StorageDrawers:fullDrawers1:4"
+    },
+    "金合欢木抽屉（1x2）.png": {
+      "key": "StorageDrawers:fullDrawers2:4"
+    },
+    "金合欢木抽屉（2x2）.png": {
+      "key": "StorageDrawers:fullDrawers4:4"
+    },
+    "金合欢木架子.png": {
+      "key": "BiblioCraft:BiblioShelf:4"
+    },
+    "金合欢木标签.png": {
+      "key": "BiblioCraft:BiblioLabel:4"
+    },
+    "金合欢木桌子.png": {
+      "key": "BiblioCraft:BiblioTable:4"
+    },
+    "金合欢木桥接方块.png": {
+      "key": "StorageDrawers:trim:4"
+    },
+    "金合欢木画框.png": {
+      "key": "BiblioCraft:BiblioFlatPainting:4"
+    },
+    "金合欢木精致工作台.png": {
+      "key": "BiblioCraft:BiblioWorkbench:4"
+    },
+    "金合欢木精致木牌.png": {
+      "key": "BiblioCraft:BiblioFancySign:4"
+    },
+    "金合欢木药水架.png": {
+      "key": "BiblioCraft:BiblioPotionShelf:4"
+    },
+    "金合欢木门.png": {
+      "key": "ExtraTrees:door:4"
+    },
+    "金战斧.png": {
+      "key": "battlegear2:waraxe.gold"
+    },
+    "金手里剑.png": {
+      "key": "TConstruct:Shuriken_xFqwvdFGSzLwJHd"
+    },
+    "金杖端.png": {
+      "key": "Thaumcraft:WandCap:1"
+    },
+    "金杖端宏伟之木手杖.png": {
+      "key": "Thaumcraft:WandCasting:105_BX62SeuMZ5aMbya"
+    },
+    "金杖端宏伟之木法杖.png": {
+      "key": "Thaumcraft:WandCasting:9_4Cjze4YatO1sa97"
+    },
+    "金蛋.png": {
+      "key": "OpenBlocks:goldenegg"
+    },
+    "金裳凤蝶.png": {
+      "key": "Forestry:butterflyGE_QVet27HHoVftWxq"
+    },
+    "金镰刀.png": {
+      "key": "TConstruct:scythe_Ew2FJLO4Ok2p8wi"
+    },
+    "金黄石英台阶.png": {
+      "key": "Botania:quartzSlabSunnyHalf"
+    },
+    "錾制焦黑砖块.png": {
+      "key": "TConstruct:Smeltery:10"
+    },
+    "錾制焦黑砖块台阶.png": {
+      "key": "TConstruct:SearedSlab:6"
+    },
+    "錾制褐岩砖块.png": {
+      "key": "TConstruct:SpeedBlock:6"
+    },
+    "錾制褐岩砖块台阶.png": {
+      "key": "TConstruct:SpeedSlab:6"
+    },
+    "錾制赛特斯石英台阶.png": {
+      "key": "appliedenergistics2:tile.ChiseledQuartzSlabBlock"
+    },
+    "钅杜手里剑.png": {
+      "key": "TConstruct:Shuriken_WUitzurcplXhoHT"
+    },
+    "钅杜板金属.png": {
+      "key": "gregtech:gt.sheetmetal:263"
+    },
+    "钅杜框架.png": {
+      "key": "gregtech:gt.blockframes:263"
+    },
+    "钌手里剑.png": {
+      "key": "TConstruct:Shuriken_syv26eAXrbtW2ug"
+    },
+    "钌铱合金手里剑.png": {
+      "key": "TConstruct:Shuriken_Y3rx7eG6OXjCmqs"
+    },
+    "钌铱合金锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1710"
+    },
+    "钌锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1706"
+    },
+    "钍-232手里剑.png": {
+      "key": "TConstruct:Shuriken_Ng5U7nwd7xsbSoD"
+    },
+    "钍-232锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1701"
+    },
+    "钍手里剑.png": {
+      "key": "TConstruct:Shuriken_9leZ1iPKe6pwTj4"
+    },
+    "钒钢手里剑.png": {
+      "key": "TConstruct:Shuriken_ijrukgJd36SO2SD"
+    },
+    "钒镁电气石矿石.png": {
+      "key": "bartworks:bw.blockores.01:8"
+    },
+    "钕手里剑.png": {
+      "key": "TConstruct:Shuriken_dK3jdTBcSIni1l4"
+    },
+    "钙铁辉石矿石.png": {
+      "key": "bartworks:bw.blockores.01:25"
+    },
+    "钛手里剑.png": {
+      "key": "TConstruct:Shuriken_0fvghfbXrFVXpIa"
+    },
+    "钛碎片.png": {
+      "key": "GalacticraftMars:item.itemBasicAsteroids:4"
+    },
+    "钛铁矿石.png": {
+      "key": "GalacticraftMars:tile.asteroidsBlock:4"
+    },
+    "钛铂钒合金手里剑.png": {
+      "key": "TConstruct:Shuriken_uWIUdlASmmrYM4t"
+    },
+    "钛铲.png": {
+      "key": "TConstruct:shovel_u2uF2A6NPiOVy6e"
+    },
+    "钛镐.png": {
+      "key": "TConstruct:pickaxe_nC3hO6M6svnGr9t"
+    },
+    "钢叶手里剑.png": {
+      "key": "TConstruct:Shuriken_S62jGJaPbfu52NW"
+    },
+    "钢叶铲.png": {
+      "key": "TConstruct:shovel_OeKewgJHb4JL7R4"
+    },
+    "钢叶镐.png": {
+      "key": "TConstruct:pickaxe_8PsxX3laUvmvPyo"
+    },
+    "钢手里剑.png": {
+      "key": "TConstruct:ShurikenPart:16"
+    },
+    "钢铲.png": {
+      "key": "TConstruct:shovel_7qjDfLSbtg0Gxb1"
+    },
+    "钢镐.png": {
+      "key": "TConstruct:pickaxe_UiS83bQ7N0D4qR7"
+    },
+    "钨手里剑.png": {
+      "key": "TConstruct:Shuriken_w7JU8gHMs8lu5KW"
+    },
+    "钨酸锰矿石.png": {
+      "key": "bartworks:bw.blockores.01:17"
+    },
+    "钨钢手里剑.png": {
+      "key": "TConstruct:Shuriken_hAPEOU1EamADkhg"
+    },
+    "钨铁矿石.png": {
+      "key": "bartworks:bw.blockores.01:11"
+    },
+    "钯手里剑.png": {
+      "key": "TConstruct:Shuriken_U3UntzmU6FG9Yx0"
+    },
+    "钯金属矿石.png": {
+      "key": "bartworks:bw.blockores.01:53"
+    },
+    "钴手里剑.png": {
+      "key": "TConstruct:ShurikenPart:10"
+    },
+    "钴黄铜手里剑.png": {
+      "key": "TConstruct:Shuriken_wgLazvuOAlgsLjU"
+    },
+    "钻石凿子.png": {
+      "key": "TConstruct:chisel_irjQjHto9lKzw1o"
+    },
+    "钻石匕首.png": {
+      "key": "battlegear2:dagger.diamond"
+    },
+    "钻石战斧.png": {
+      "key": "battlegear2:waraxe.diamond"
+    },
+    "钻石手里剑.png": {
+      "key": "TConstruct:Shuriken_D8Tmc6gnFkXRFVO"
+    },
+    "钻石碎片.png": {
+      "key": "TGregworks:tGregToolPartChunk:1594_CGOVPZDgQSE8wEh"
+    },
+    "钻石镰刀.png": {
+      "key": "TConstruct:scythe_o5TlpV0t9BFXWfS"
+    },
+    "钼手里剑.png": {
+      "key": "TConstruct:Shuriken_4nX7yMzH8HVdkMf"
+    },
+    "铀锭.png": {
+      "key": "AdvancedSolarPanel:asp_crafting_items:11"
+    },
+    "铁 恒温管.png": {
+      "key": "Botany:insulatedTube:3"
+    },
+    "铁匕首.png": {
+      "key": "battlegear2:dagger.iron"
+    },
+    "铁弩箭.png": {
+      "key": "TConstruct:BoltPart:2_Fyz2DVyIvVbvgp7"
+    },
+    "铁战斧.png": {
+      "key": "battlegear2:waraxe.iron"
+    },
+    "铁手里剑.png": {
+      "key": "TConstruct:ShurikenPart:2"
+    },
+    "铁木手里剑.png": {
+      "key": "TConstruct:Shuriken_n05MtEKVpGj5zhY"
+    },
+    "铁木铲.png": {
+      "key": "TConstruct:shovel_x6uJJscAfyU78fG"
+    },
+    "铁木镐.png": {
+      "key": "TConstruct:pickaxe_XBltRjoqyGS4hnQ"
+    },
+    "铁杉台阶.png": {
+      "key": "ExtraTrees:slab:2"
+    },
+    "铁杖端.png": {
+      "key": "Thaumcraft:WandCap"
+    },
+    "铁杖端渎神木法杖.png": {
+      "key": "Thaumcraft:WandCasting:12_hnzeKVNiPPYMl2p"
+    },
+    "铁框玻璃门.png": {
+      "key": "malisisdoors:iron_sliding_door"
+    },
+    "铁橄榄石矿石.png": {
+      "key": "bartworks:bw.blockores.01:23"
+    },
+    "铁碎片.png": {
+      "key": "GalacticraftMars:item.itemBasicAsteroids:3"
+    },
+    "铁镰刀.png": {
+      "key": "TConstruct:scythe_qmsuXv1yzsK3PEZ"
+    },
+    "铂手里剑.png": {
+      "key": "TConstruct:Shuriken_aatWQYRLAY3zgOs"
+    },
+    "铂金属矿石.png": {
+      "key": "bartworks:bw.blockores.01:47"
+    },
+    "铃兰.png": {
+      "key": "BiomesOPlenty:flowers2:1"
+    },
+    "铋青铜手里剑.png": {
+      "key": "TConstruct:Shuriken_j5KqnliFwdDdMZM"
+    },
+    "铑手里剑.png": {
+      "key": "TConstruct:Shuriken_HOplJlAufKHJNHj"
+    },
+    "铑锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1707"
+    },
+    "铜手里剑.png": {
+      "key": "TConstruct:ShurikenPart:13"
+    },
+    "铜杖端.png": {
+      "key": "Thaumcraft:WandCap:3"
+    },
+    "铝制台阶.png": {
+      "key": "GalacticraftAmunRa:tile.rockDoubleslab:4"
+    },
+    "铝制楼梯.png": {
+      "key": "GalacticraftAmunRa:tile.alucrate.stairs"
+    },
+    "铝手里剑.png": {
+      "key": "TConstruct:Shuriken_e2YEhzBvkYFXNnJ"
+    },
+    "铝电气石矿石.png": {
+      "key": "bartworks:bw.blockores.01:9"
+    },
+    "铬手里剑.png": {
+      "key": "TConstruct:Shuriken_fINZdnA6BTt8pmR"
+    },
+    "铬铝电气石矿石.png": {
+      "key": "bartworks:bw.blockores.01:7"
+    },
+    "铱扇叶.png": {
+      "key": "compactkineticgenerators:IridiumBlade"
+    },
+    "铱手里剑.png": {
+      "key": "TConstruct:Shuriken_zZH0kPTA9YZ74ba"
+    },
+    "铱金属渣矿石.png": {
+      "key": "bartworks:bw.blockores.01:70"
+    },
+    "铱锇合金手里剑.png": {
+      "key": "TConstruct:Shuriken_DyAmbKByAakbI6W"
+    },
+    "银手里剑.png": {
+      "key": "TConstruct:Shuriken_f3UDjnvBP4mCVvT"
+    },
+    "银树原木.png": {
+      "key": "Thaumcraft:blockMagicalLog:1"
+    },
+    "银树木板.png": {
+      "key": "Thaumcraft:blockWoodenDevice:7"
+    },
+    "银树杖柄.png": {
+      "key": "Thaumcraft:WandRod:2"
+    },
+    "银树杖芯.png": {
+      "key": "Thaumcraft:WandRod:52"
+    },
+    "银橙木座椅背.png": {
+      "key": "BiblioWoodsForestry:seatBack1:10"
+    },
+    "银橙木画框.png": {
+      "key": "BiblioWoodsForestry:BiblioWoodPaintingT0:10"
+    },
+    "银色幕布.png": {
+      "key": "malisisdoors:curtain_silver"
+    },
+    "银色遮光玻璃.png": {
+      "key": "witchery:shadedglass:8"
+    },
+    "银铃木台阶.png": {
+      "key": "Natura:plankSlab1Double:7"
+    },
+    "银铃木座椅背.png": {
+      "key": "BiblioWoodsNatura:seatBack1:9"
+    },
+    "银铃木画框.png": {
+      "key": "BiblioWoodsNatura:BiblioWoodPaintingT0:9"
+    },
+    "铸造盆.png": {
+      "key": "TConstruct:SearedBlock:2"
+    },
+    "铸铁手里剑.png": {
+      "key": "TConstruct:Shuriken_Pa3FeSFCa0jN76j"
+    },
+    "链眼蝶.png": {
+      "key": "Forestry:butterflyGE_4ZMYv3MXPnTu6bI"
+    },
+    "铿铀手里剑.png": {
+      "key": "TConstruct:Shuriken_HDIJ6wRQ3zHwsgu"
+    },
+    "锂辉石.png": {
+      "key": "GalacticraftAmunRa:item.baseItem:7"
+    },
+    "锆手里剑.png": {
+      "key": "TConstruct:Shuriken_vucq0zJHSFxqN1F"
+    },
+    "锆锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1737"
+    },
+    "锇手里剑.png": {
+      "key": "TConstruct:Shuriken_9bb9PlwZx80H9r1"
+    },
+    "锈蚀的铜灯.png": {
+      "key": "etfuturum:copper_bulb:2"
+    },
+    "锌曜钢宽护手.png": {
+      "key": "TConstruct:wideGuard:15"
+    },
+    "锌曜钢手里剑.png": {
+      "key": "TConstruct:ShurikenPart:15"
+    },
+    "锌钍合金手里剑.png": {
+      "key": "TConstruct:Shuriken_i3h7DezOXNShiOW"
+    },
+    "锌钍合金锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1717"
+    },
+    "锝块.png": {
+      "key": "miscutils:blockBlockTechnetium"
+    },
+    "锝杆.png": {
+      "key": "miscutils:itemRodTechnetium"
+    },
+    "锝板.png": {
+      "key": "miscutils:itemPlateTechnetium"
+    },
+    "锝粉.png": {
+      "key": "miscutils:itemDustTechnetium"
+    },
+    "锝粒.png": {
+      "key": "miscutils:itemNuggetTechnetium"
+    },
+    "锝锭.png": {
+      "key": "miscutils:itemIngotTechnetium"
+    },
+    "锡 恒温管.png": {
+      "key": "Botany:insulatedTube:1"
+    },
+    "锡石矿砂.png": {
+      "key": "gregtech:gt.blockores2:937"
+    },
+    "锡铁合金手里剑.png": {
+      "key": "TConstruct:Shuriken_prFBC8CxYwwg6SO"
+    },
+    "锰手里剑.png": {
+      "key": "TConstruct:Shuriken_Zy2MSYVjQGubtIQ"
+    },
+    "镀铑钯块.png": {
+      "key": "chisel:rppblock"
+    },
+    "镀铑钯手里剑.png": {
+      "key": "TConstruct:Shuriken_ytQbXtucOEGEf0i"
+    },
+    "镀铑钯锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1708"
+    },
+    "镁橄榄石矿石.png": {
+      "key": "bartworks:bw.blockores.01:24"
+    },
+    "镁铝合金手里剑.png": {
+      "key": "TConstruct:Shuriken_Kcj5f43ddnM4jCR"
+    },
+    "镶框书架.png": {
+      "key": "BiblioCraft:Bibliotheca:6"
+    },
+    "镶框抽屉（1x2）.png": {
+      "key": "StorageDrawers:fullCustom2"
+    },
+    "镶框抽屉（2x2）.png": {
+      "key": "StorageDrawers:fullCustom4"
+    },
+    "镶框椅背.png": {
+      "key": "BiblioCraft:item.seatBack:6"
+    },
+    "镶框画框.png": {
+      "key": "BiblioCraft:BiblioFlatPainting:6"
+    },
+    "长尾玳瑁凤尾蝶.png": {
+      "key": "Forestry:butterflyGE_pQUfeRxBr06o9tq"
+    },
+    "长距离流体管道.png": {
+      "key": "gregtech:gt.blockmachines:2700"
+    },
+    "长距离物品管道.png": {
+      "key": "gregtech:gt.blockmachines:2701"
+    },
+    "长锝杆.png": {
+      "key": "miscutils:itemRodLongTechnetium"
+    },
+    "闪长岩.png": {
+      "key": "Botania:stone:2"
+    },
+    "闪长岩台阶.png": {
+      "key": "Botania:stone2Slab"
+    },
+    "闪长岩砖台阶.png": {
+      "key": "Botania:stone10Slab"
+    },
+    "防御护符.png": {
+      "key": "HardcoreEnderExpansion:charm:9"
+    },
+    "防爆门.png": {
+      "key": "IC2:blockDoorAlloy"
+    },
+    "防盗门.png": {
+      "key": "opensecurity:SecurityDoor"
+    },
+    "阿兹勒赫瓷砖.png": {
+      "key": "Botania:customBrick:4"
+    },
+    "阿岱姆钢手里剑.png": {
+      "key": "TConstruct:Shuriken_KXg7hN9E8tGgcD5"
+    },
+    "阿岱姆钢锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1713"
+    },
+    "阿瑟锡手里剑.png": {
+      "key": "TConstruct:Shuriken_XGZS95oxTU8AtTj"
+    },
+    "阿瑟锡锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1727"
+    },
+    "阿芬眼蝶.png": {
+      "key": "Forestry:butterflyGE_Z2Z27tNCeJZ3ZxK"
+    },
+    "阿迪特手里剑.png": {
+      "key": "TConstruct:ShurikenPart:11"
+    },
+    "附魔书页.png": {
+      "key": "gregtech:gt.metaitem.01:32483"
+    },
+    "陨石.png": {
+      "key": "appliedenergistics2:tile.BlockSkyStone"
+    },
+    "陨石台阶.png": {
+      "key": "appliedenergistics2:tile.SkyStoneSlabBlock"
+    },
+    "陨石块台阶.png": {
+      "key": "appliedenergistics2:tile.SkyStoneBlockSlabBlock"
+    },
+    "陨石石砖台阶.png": {
+      "key": "appliedenergistics2:tile.SkyStoneBrickSlabBlock"
+    },
+    "陨石砖块台阶.png": {
+      "key": "appliedenergistics2:tile.SkyStoneSmallBrickSlabBlock"
+    },
+    "陨钢手里剑.png": {
+      "key": "TConstruct:Shuriken_uGoI8zm677kefpk"
+    },
+    "陨铁手里剑.png": {
+      "key": "TConstruct:Shuriken_TubCnRRaZy3sN2o"
+    },
+    "陶瓷块.png": {
+      "key": "Botany:ceramic"
+    },
+    "隐身之箭.png": {
+      "key": "etfuturum:tipped_arrow:8238"
+    },
+    "隐身药水.png": {
+      "key": "minecraft:potion:8238"
+    },
+    "障子门.png": {
+      "key": "malisisdoors:shoji_door"
+    },
+    "雪.png": {
+      "key": "minecraft:snow_layer"
+    },
+    "雪压力板.png": {
+      "key": "witchery:snowpressureplate"
+    },
+    "雪台阶.png": {
+      "key": "Railcraft:slab:3"
+    },
+    "雪松台阶.png": {
+      "key": "ExtraTrees:slab:1"
+    },
+    "雪楼梯.png": {
+      "key": "Railcraft:stair:3"
+    },
+    "雪铃花种子.png": {
+      "key": "witchery:seedssnowbell"
+    },
+    "霄龙特斯拉收发器.png": {
+      "key": "gregtech:gt.blockmachines:16002"
+    },
+    "霜冻圆石台阶.png": {
+      "key": "Railcraft:slab:32"
+    },
+    "霜冻砖台阶.png": {
+      "key": "Botania:customBrick2Slab"
+    },
+    "霜冻砖楼梯.png": {
+      "key": "Railcraft:stair:9"
+    },
+    "青纹蝶.png": {
+      "key": "Forestry:butterflyGE_jN12uyjAtVikejD"
+    },
+    "青色带釉陶瓦.png": {
+      "key": "etfuturum:cyan_glazed_terracotta"
+    },
+    "青色幕布.png": {
+      "key": "malisisdoors:curtain_cyan"
+    },
+    "青色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_QcVwne2ueRWZ9G5"
+    },
+    "青色混凝土.png": {
+      "key": "etfuturum:concrete:9"
+    },
+    "青色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:9"
+    },
+    "青色灯.png": {
+      "key": "sciencenotleisure:meta_block:22"
+    },
+    "青色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:6"
+    },
+    "青色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab2:1"
+    },
+    "青色遮光玻璃.png": {
+      "key": "witchery:shadedglass:9"
+    },
+    "青钢手里剑.png": {
+      "key": "TConstruct:Shuriken_tc0vmfZ0t0rFpEm"
+    },
+    "青钢锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1753"
+    },
+    "青铁手里剑.png": {
+      "key": "TConstruct:Shuriken_htUVd4N4BBNgBAD"
+    },
+    "青铁锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1754"
+    },
+    "青铜 恒温管.png": {
+      "key": "Botany:insulatedTube:2"
+    },
+    "青铜手里剑.png": {
+      "key": "TConstruct:ShurikenPart:14"
+    },
+    "面团.png": {
+      "key": "gregtech:gt.metaitem.02:32559"
+    },
+    "音乐唱片.png": {
+      "key": "minecraft:record_13"
+    },
+    "音乐方块.png": {
+      "key": "chisel:albumblock2"
+    },
+    "颜料刷.png": {
+      "key": "BuildCraft|Core:paintbrush"
+    },
+    "颠茄种子.png": {
+      "key": "witchery:seedsbelladonna"
+    },
+    "风之魔晶台阶.png": {
+      "key": "thaumicbases:crystalSlab"
+    },
+    "风之魔晶手里剑.png": {
+      "key": "TConstruct:Shuriken_KHrj8hwUfYzsPpj"
+    },
+    "饱食指环.png": {
+      "key": "sciencenotleisure:satiety_ring"
+    },
+    "香蕉.png": {
+      "key": "harvestcraft:pamBanana"
+    },
+    "香蕉树苗.png": {
+      "key": "harvestcraft:pambananaSapling"
+    },
+    "马德拉斑木蝶.png": {
+      "key": "Forestry:butterflyGE_tXwjSdIxLCP5yZ5"
+    },
+    "马铃薯.png": {
+      "key": "minecraft:potatoes"
+    },
+    "骑士头盔.png": {
+      "key": "battlegear2:knights_armour.helmet"
+    },
+    "骑士护腿.png": {
+      "key": "battlegear2:knights_armour.legs"
+    },
+    "骑士胸甲.png": {
+      "key": "battlegear2:knights_armour.plate"
+    },
+    "骑士金属手里剑.png": {
+      "key": "TConstruct:Shuriken_TjkytmEhNugTeqQ"
+    },
+    "骨头手里剑.png": {
+      "key": "TConstruct:ShurikenPart:5"
+    },
+    "高岭石.png": {
+      "key": "gregtech:gt.blockores2:929"
+    },
+    "高温熔炉发电机.png": {
+      "key": "ExtraUtilities:generator:10"
+    },
+    "高热红石发电机.png": {
+      "key": "ExtraUtilities:generator:4"
+    },
+    "高级太阳能板.png": {
+      "key": "GalacticraftCore:tile.solar:4"
+    },
+    "高级物品过滤器.png": {
+      "key": "ExtraUtilities:nodeUpgrade:10"
+    },
+    "高耐久性复合钢手里剑.png": {
+      "key": "TConstruct:Shuriken_5iOnlsix5NqhfdX"
+    },
+    "高耐久性复合钢锤头.png": {
+      "key": "TGregworks:tGregToolPartHammerHead:1712"
+    },
+    "高能机械方块.png": {
+      "key": "tectech:gt.blockcasingsTT"
+    },
+    "高速钢-E手里剑.png": {
+      "key": "TConstruct:Shuriken_whpGgNtBNyvmX5f"
+    },
+    "高速钢-G手里剑.png": {
+      "key": "TConstruct:Shuriken_GalfPBhXzZncTU0"
+    },
+    "高速钢-S手里剑.png": {
+      "key": "TConstruct:Shuriken_9uzOJa3t6zMwtgH"
+    },
+    "魂金手里剑.png": {
+      "key": "TConstruct:Shuriken_TKbbsUdOEhvfyh0"
+    },
+    "魔力手镜.png": {
+      "key": "Thaumcraft:HandMirror"
+    },
+    "魔力石英台阶.png": {
+      "key": "Botania:quartzSlabManaHalf"
+    },
+    "魔力钢手里剑.png": {
+      "key": "TConstruct:Shuriken_7JMevOuVNoSbbL7"
+    },
+    "魔力钢粒.png": {
+      "key": "Botania:manaResource:17"
+    },
+    "魔木手里剑.png": {
+      "key": "TConstruct:ShurikenPart:316"
+    },
+    "魔法原木.png": {
+      "key": "BiomesOPlenty:logs2:1"
+    },
+    "魔法护符.png": {
+      "key": "HardcoreEnderExpansion:charm:12"
+    },
+    "魔法木台阶.png": {
+      "key": "BiomesOPlenty:woodenSingleSlab1:5"
+    },
+    "魔法木座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:7"
+    },
+    "魔法木板.png": {
+      "key": "BiomesOPlenty:planks:5"
+    },
+    "魔法木画框.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodPaintingT0:7"
+    },
+    "魔法穿透护符.png": {
+      "key": "HardcoreEnderExpansion:charm:37"
+    },
+    "魔法防御护符.png": {
+      "key": "HardcoreEnderExpansion:charm:74"
+    },
+    "魔豆.png": {
+      "key": "Thaumcraft:ItemManaBean"
+    },
+    "魔钢杖端.png": {
+      "key": "dreamcraft:WandCapManaSteel"
+    },
+    "魔钢缠绕杖端活木法杖.png": {
+      "key": "Thaumcraft:WandCasting:72_XdXJlDQ1P3lRHy2"
+    },
+    "魔镜.png": {
+      "key": "Thaumcraft:blockMirror"
+    },
+    "鳄梨.png": {
+      "key": "harvestcraft:pamAvocado"
+    },
+    "鳄梨树苗.png": {
+      "key": "harvestcraft:pamavocadoSapling"
+    },
+    "鹅耳枥台阶.png": {
+      "key": "ExtraTrees:slab:8"
+    },
+    "黄杨台阶.png": {
+      "key": "ExtraTrees:slab:9"
+    },
+    "黄氯汞矿石.png": {
+      "key": "bartworks:bw.blockores.01:95"
+    },
+    "黄玉手里剑.png": {
+      "key": "TConstruct:Shuriken_rcqPQEOQ3HftT7f"
+    },
+    "黄瓜种子.png": {
+      "key": "harvestcraft:cucumberseedItem"
+    },
+    "黄石榴石手里剑.png": {
+      "key": "TConstruct:Shuriken_Qk13PczFAcauo3F"
+    },
+    "黄绿色带釉陶瓦.png": {
+      "key": "etfuturum:lime_glazed_terracotta"
+    },
+    "黄绿色幕布.png": {
+      "key": "malisisdoors:curtain_lime"
+    },
+    "黄绿色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_hEVSAwEv3ttU3jO"
+    },
+    "黄绿色混凝土.png": {
+      "key": "etfuturum:concrete:5"
+    },
+    "黄绿色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:5"
+    },
+    "黄绿色灯.png": {
+      "key": "sciencenotleisure:meta_block:16"
+    },
+    "黄绿色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:10"
+    },
+    "黄绿色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab1:5"
+    },
+    "黄绿遮光玻璃.png": {
+      "key": "witchery:shadedglass:5"
+    },
+    "黄色城堡门.png": {
+      "key": "TwilightForest:tile.CastleDoor:1"
+    },
+    "黄色带釉陶瓦.png": {
+      "key": "etfuturum:yellow_glazed_terracotta"
+    },
+    "黄色幕布.png": {
+      "key": "malisisdoors:curtain_yellow"
+    },
+    "黄色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_bXVBO7gzkJ1XEzJ"
+    },
+    "黄色混凝土.png": {
+      "key": "etfuturum:concrete:4"
+    },
+    "黄色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:4"
+    },
+    "黄色灯.png": {
+      "key": "sciencenotleisure:meta_block:12"
+    },
+    "黄色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal:11"
+    },
+    "黄色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab1:4"
+    },
+    "黄色葡萄牙台阶.png": {
+      "key": "Botania:pavement4Slab"
+    },
+    "黄色遮光玻璃.png": {
+      "key": "witchery:shadedglass:4"
+    },
+    "黄蛾.png": {
+      "key": "Forestry:butterflyGE_5rDmb8lMKT2vqQy"
+    },
+    "黏土罐.png": {
+      "key": "harvestcraft:sink:2"
+    },
+    "黑暗木书架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodBookcase:2"
+    },
+    "黑暗木书桌.png": {
+      "key": "BiblioWoodsBoP:BiblioWooddesk:2"
+    },
+    "黑暗木压力板.png": {
+      "key": "Natura:pressureplate.darkwood"
+    },
+    "黑暗木台阶.png": {
+      "key": "Natura:plankSlab2Double:3"
+    },
+    "黑暗木展示盒.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodcase:2"
+    },
+    "黑暗木工具架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodrack:2"
+    },
+    "黑暗木座椅.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodSeat:2"
+    },
+    "黑暗木座椅背.png": {
+      "key": "BiblioWoodsBoP:seatBack1:2"
+    },
+    "黑暗木抽屉.png": {
+      "key": "StorageDrawersBop:fullDrawers1:2"
+    },
+    "黑暗木抽屉（1x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers2:2"
+    },
+    "黑暗木抽屉（2x2）.png": {
+      "key": "StorageDrawersBop:fullDrawers4:2"
+    },
+    "黑暗木按钮.png": {
+      "key": "Natura:button.darkwood"
+    },
+    "黑暗木板.png": {
+      "key": "BiomesOPlenty:planks:2"
+    },
+    "黑暗木架子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodshelf:2"
+    },
+    "黑暗木栅栏.png": {
+      "key": "Natura:Natura.fence:11"
+    },
+    "黑暗木栅栏门.png": {
+      "key": "Natura:fenceGate.darkwood"
+    },
+    "黑暗木标签.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodlabel:2"
+    },
+    "黑暗木桌子.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodtable:2"
+    },
+    "黑暗木桥接方块.png": {
+      "key": "StorageDrawersBop:trim:2"
+    },
+    "黑暗木楼梯.png": {
+      "key": "Natura:stair.darkwood"
+    },
+    "黑暗木画框.png": {
+      "key": "BiblioWoodsNatura:BiblioWoodPaintingT0:1"
+    },
+    "黑暗木精致工作台.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancyWorkbench:2"
+    },
+    "黑暗木精致木牌.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodFancySign:2"
+    },
+    "黑暗木药水架.png": {
+      "key": "BiblioWoodsBoP:BiblioWoodpotshelf:2"
+    },
+    "黑暗树树苗.png": {
+      "key": "Natura:florasapling:6"
+    },
+    "黑曜石凿子.png": {
+      "key": "TConstruct:chisel_mARGpjDxTTakqhc"
+    },
+    "黑曜石台阶.png": {
+      "key": "Railcraft:slab:39"
+    },
+    "黑曜石手柄.png": {
+      "key": "TConstruct:toolRod:6"
+    },
+    "黑曜石手里剑.png": {
+      "key": "TConstruct:ShurikenPart:6"
+    },
+    "黑曜石杖柄.png": {
+      "key": "Thaumcraft:WandRod:1"
+    },
+    "黑曜石杖芯.png": {
+      "key": "Thaumcraft:WandRod:51"
+    },
+    "黑曜石柱.png": {
+      "key": "HardcoreEnderExpansion:obsidian_special:2"
+    },
+    "黑曜石楼梯.png": {
+      "key": "HardcoreEnderExpansion:obsidian_stairs"
+    },
+    "黑曜石砖块.png": {
+      "key": "TConstruct:decoration.multibrick"
+    },
+    "黑曜石砖块台阶.png": {
+      "key": "GalacticraftAmunRa:tile.rockDoubleslab:3"
+    },
+    "黑曜石碎片.png": {
+      "key": "TConstruct:toolShard:6"
+    },
+    "黑木台阶.png": {
+      "key": "TwilightForest:tile.TFWoodSlab:3"
+    },
+    "黑框蓝闪蝶·百利芷.png": {
+      "key": "Forestry:butterflyGE_u8BZ2uWRgrwwg9m"
+    },
+    "黑石台阶.png": {
+      "key": "etfuturum:blackstone_slab"
+    },
+    "黑缘豆粉蝶.png": {
+      "key": "Forestry:butterflyGE_dWUhm25cjfJQzpf"
+    },
+    "黑脉金斑蝶.png": {
+      "key": "Forestry:butterflyGE_fDXEw82kjU3aJuA"
+    },
+    "黑色凤尾蝶.png": {
+      "key": "Forestry:butterflyGE_ilOKkbCK2fxsP7W"
+    },
+    "黑色带釉陶瓦.png": {
+      "key": "etfuturum:black_glazed_terracotta"
+    },
+    "黑色幕布.png": {
+      "key": "malisisdoors:curtain_black"
+    },
+    "黑色旗帜.png": {
+      "key": "Thaumcraft:blockWoodenDevice:8_O688tr4OcbiHBb9"
+    },
+    "黑色混凝土.png": {
+      "key": "etfuturum:concrete:15"
+    },
+    "黑色混凝土粉末.png": {
+      "key": "etfuturum:concrete_powder:15"
+    },
+    "黑色灯.png": {
+      "key": "sciencenotleisure:meta_block:4"
+    },
+    "黑色箱子封蜡.png": {
+      "key": "ThaumicExploration:chestSeal"
+    },
+    "黑色羊毛台阶.png": {
+      "key": "TConstruct:WoolSlab2:7"
+    },
+    "黑色葡萄牙台阶.png": {
+      "key": "Botania:pavement1Slab"
+    },
+    "黑色遮光玻璃.png": {
+      "key": "witchery:shadedglass:15"
+    },
+    "黑莓.png": {
+      "key": "Natura:berry:2"
+    },
+    "黑莓种子.png": {
+      "key": "harvestcraft:blackberryseedItem"
+    },
+    "黑钚手里剑.png": {
+      "key": "TConstruct:Shuriken_hZPCrQHIhCWy0fG"
+    },
+    "黑钢手里剑.png": {
+      "key": "TConstruct:Shuriken_IBBg80e5QTzR7zP"
+    },
+    "黑青铜手里剑.png": {
+      "key": "TConstruct:Shuriken_77ZXR4SdD5wmYgX"
+    },
+    "龙手里剑.png": {
+      "key": "TConstruct:Shuriken_kscnNWw28o9GUx2"
+    }
+  }
+}

@@ -21,7 +21,10 @@ import threading
 import urllib.request
 import urllib.parse
 import http.cookiejar
-from image_version import image_paths, redirect_map, require_source
+from image_version import image_paths, require_source
+from image_state import pending_redirects
+from image_state import update_state
+from image_plan import prepare_plan
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(line_buffering=True)
@@ -71,25 +74,20 @@ def sanitize_title(title: str) -> str:
 
 # ── Task DB ────────────────────────────────────────────────────
 
-def get_pending_redirects() -> list[tuple[str, str]]:
+def get_pending_redirects(plan=None) -> list[tuple[str, str]]:
     """读取当前 CSV 中有效且图片已上传的待更新重定向。"""
-    if not os.path.isfile(INVENTORY_DB):
-        return []
-    current_redirects = redirect_map(NEW_CSV)
-    with closing(sqlite3.connect(INVENTORY_DB)) as conn:
-        rows = conn.execute(
-            "SELECT redirect_from, icon_name FROM images "
-            "WHERE redirect_state='待更新' AND redirect_from != '' AND icon_state='已上传' "
-            "ORDER BY redirect_from"
-        ).fetchall()
-    return [(title, icon) for title, icon in rows if current_redirects.get(title) == icon]
+    if plan is None:
+        plan = prepare_plan(DUMPS_DIR, NEW_CSV)
+    current_redirects = plan['redirects']
+    update_state(INVENTORY_DB, set(plan['uploadIcons']), current_redirects)
+    return pending_redirects(INVENTORY_DB, current_redirects)
 
 
 def mark_redirect_done(redirect_from: str, icon_name: str):
     """重定向创建成功 → redirect_state = 已上传"""
     with closing(sqlite3.connect(INVENTORY_DB)) as conn:
         conn.execute(
-            "UPDATE images SET redirect_state='已上传' WHERE redirect_from=? AND icon_name=?",
+            "UPDATE redirects SET redirect_state='已上传' WHERE redirect_from=? AND icon_name=?",
             (redirect_from, icon_name)
         )
         conn.commit()
@@ -227,7 +225,8 @@ def main():
         if a == "-t" and i + 1 < len(args):
             threads = int(args[i + 1])
 
-    tasks = get_pending_redirects()
+    plan = prepare_plan(DUMPS_DIR, NEW_CSV)
+    tasks = get_pending_redirects(plan)
     if not tasks:
         print("No pending redirects. Run image_inventory.py first.")
         return
@@ -278,7 +277,7 @@ def main():
         for t in workers:
             t.join(timeout=2)
 
-    remaining = len(get_pending_redirects())
+    remaining = len(get_pending_redirects(plan))
     print(f"Done! OK: {counters['OK']}, SKIP: {counters['SKIP']}, FAIL: {counters['FAIL']}")
     if remaining:
         print(f"{remaining} redirects still pending (re-run to retry failures)")

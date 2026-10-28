@@ -1,7 +1,14 @@
 """数据页的模组名与版本配置（调用方先加载 .env）。"""
 
+import json
 import os
 from pathlib import Path
+
+
+def addon_mods() -> set[str]:
+    """额外附属的注册 Mod ID；用于从基础整合包数据中划分附属范围。"""
+    path = Path(__file__).parent / "config" / "addon-mods.json"
+    return {mod.casefold() for mod in json.loads(path.read_text(encoding="utf-8"))}
 
 
 def title_part(value: str) -> str:
@@ -53,6 +60,13 @@ def require_scope(prefix: str) -> None:
         raise ValueError("请在 .env 设置 MOD_REMOTE_NAME和 MOD_VERSION")
     title_part(parts[1])
     title_part(parts[2])
+
+
+def version_module_title(data_prefix: str) -> str:
+    """数据版本对应的通用配置模块；沿用远端模组名与版本号。"""
+    require_scope(data_prefix)
+    version = data_prefix.rstrip("/").removeprefix("Data:Versions/")
+    return "Module:Database/Versions/" + version
 
 
 def source_directory(dumps_dir: str, mod: str, check_exists: bool = True) -> Path:

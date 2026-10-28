@@ -2,6 +2,7 @@
 data_upload.py
 多线程批量上传 — 从 wiki_inventory.db 读取 pending_upload 任务，
 上传成功后标记为 done，同步更新文件指纹。
+当前版本的数据页全部完成后，再上传对应的版本配置模块。
 
 用法:
     python data_upload.py                   # 全部上传（8 线程）
@@ -22,7 +23,7 @@ import urllib.request
 import urllib.parse
 import http.cookiejar
 
-from data_version import in_scope, require_scope, version_tag
+from data_version import in_scope, require_scope, version_module_title, version_tag
 
 if hasattr(sys.stdout, "reconfigure"):
     sys.stdout.reconfigure(line_buffering=True)
@@ -73,11 +74,12 @@ def get_pending_uploads() -> list[tuple[str, str]]:
             "SELECT path, title FROM tasks WHERE status='pending_upload' AND path IS NOT NULL ORDER BY path"
         ).fetchall()
     # 已停用 Index/*.tabx，避免本地旧文件或旧任务重新创建已删除的页面。
-    # return [(path, title) for path, title in rows if in_scope(title, WIKI_PREFIX)]
+    config_title = version_module_title(WIKI_PREFIX).replace(" ", "_")
     return [
         (path, title) for path, title in rows
-        if in_scope(title, WIKI_PREFIX)
-        and not (in_scope(title, WIKI_PREFIX + "Index/") and title.endswith(".tabx"))
+        if title.replace(" ", "_") == config_title
+        or (in_scope(title, WIKI_PREFIX)
+            and not (in_scope(title, WIKI_PREFIX + "Index/") and title.endswith(".tabx")))
     ]
 
 
@@ -293,7 +295,9 @@ def main(argv=None):
     signal.signal(signal.SIGINT, on_interrupt)
 
     # ── Upload ──
-    upload_tasks = get_pending_uploads()
+    pending = get_pending_uploads()
+    upload_tasks = [(path, title) for path, title in pending if in_scope(title, WIKI_PREFIX)]
+    config_tasks = [(path, title) for path, title in pending if not in_scope(title, WIKI_PREFIX)]
     if upload_tasks:
         if debug:
             upload_tasks = upload_tasks[:20]
@@ -328,13 +332,24 @@ def main(argv=None):
             while t.is_alive():
                 t.join(timeout=0.5)
 
-        remaining = len(get_pending_uploads())
+        remaining = sum(in_scope(title, WIKI_PREFIX) for _, title in get_pending_uploads())
         print(f"Upload done! OK: {counters['OK']}, SKIP: {counters['SKIP']}, FAIL: {counters['FAIL']}")
         failures += counters['FAIL']
         if remaining:
             print(f"{remaining} uploads still pending (re-run to retry failures)")
     else:
-        print("No pending uploads.")
+        print("No pending data uploads.")
+
+    # 配置中的桶数对应完整的数据集；调试上传、失败和中断均留待下次发布。
+    if config_tasks and not _stop.is_set():
+        data_pending = any(in_scope(title, WIKI_PREFIX) for _, title in get_pending_uploads())
+        if debug or failures or data_pending:
+            print("Version config pending: run a complete successful data upload to publish it.")
+        else:
+            print("Uploading version config...")
+            counters = {"OK": 0, "SKIP": 0, "FAIL": 0, "done": 0}
+            worker(config_tasks, len(config_tasks), counters, threading.Lock(), master_jar)
+            failures += counters["FAIL"]
 
     # ── Delete ──
     # delete_titles = get_pending_deletes()

@@ -17,7 +17,7 @@
 
 ## 数据文件
 
-仓库里保留的是工具脚本和必要的任务数据库，不包含庞大的原始 `dumps/` 内容。
+仓库保存工具脚本和必要的任务数据库；原始 `dumps/` 数据存放在本地。
 
 - `databaseDump/image_inventory.db` 会保留在仓库中，用于记录图片上传与重定向状态。
 - `databaseDump/wiki_inventory.db` 每次都可以重新生成，不提交到仓库。
@@ -52,3 +52,22 @@ python databaseDump/data_upload.py
 python databaseDump/image_upload.py
 python databaseDump/image_redirect.py
 ```
+
+`MOD_LOCAL_NAME` 选择本地导出来源，`MOD_REMOTE_NAME` 与 `MOD_VERSION` 决定 Wiki 页面名称。
+例如本地模组名为 `sciencenotleisure`、远端名为 `GTNotLeisure`、版本为 `0.2.7-rc2` 时：
+
+- 数据页位于 `Data:Versions/GTNotLeisure/0.2.7-rc2/`。
+- 版本配置模块为 `Module:Database/Versions/GTNotLeisure/0.2.7-rc2`，Wiki 标题不带 `.lua` 后缀。
+- 本地模块文件为 `wikitext/Module/Database/Versions/GTNotLeisure/0.2.7-rc2.lua`。
+
+拆分物品、矿物词典或配方后，`split_all.py` 会按最终数据生成这个模块，返回的通用版本配置中，
+`storage` 保存 Items、ItemNames 和配方的实际桶数。`wiki_inventory.py` 将它与当前版本的数据页
+一起纳入任务清单，沿用文件修改时间、大小与上传状态判断是否需要更新。
+
+`data_upload.py` 先上传数据页，全部成功后再上传版本配置。失败或中断时保留待上传任务，
+重跑即可继续；`--debug` 只试传数据页，版本配置留待完整上传。旧的预处理目录需用当前脚本
+重新生成模块并重建任务清单。
+
+首次启用新版本时，在 `Module:Database/Versions` 的 `versionModules` 中登记上述模块路径，
+再按发布安排更新版本别名；同一路径的旧数据换成新格式后，从 `legacyVersions` 移除对应版本。
+这些公共版本入口由维护者管理，自动上传只更新当前版本的配置模块。
