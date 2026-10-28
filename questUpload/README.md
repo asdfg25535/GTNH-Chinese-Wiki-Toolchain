@@ -37,9 +37,10 @@ wikitext/Data/Versions/<MOD_REMOTE_NAME>/<MOD_VERSION>/
 - 所有 `…IDHigh:4` / `…IDLow:4` 对合并为 `…ID` 字符串：两个有符号 long
   以大端排列，URL-safe Base64 编码并去掉 `=`。任务 ID、任务线 ID、前置引用和布局引用使用相同格式，
   不会经过浮点数；其他 NBT long 也保存为十进制字符串，避免 Wiki/JavaScript 丢失精度。
-- `properties.betterquesting.name` / `desc` 分别通过
+- `properties.betterquesting.name` / `desc` 保留源文件中的英文，
+  `localizedName` / `localizedDesc` 分别通过
   `betterquesting.quest.<ID>.name/desc` 或 `betterquesting.questline.<ID>.name/desc` 汉化。
-  `%n` 转为真正换行；保留 `§` 格式码及 `[url]`、`[note]` 等任务书标签供展示端处理。
+  汉化字段中的 `%n` 转为真正换行；保留 `§` 格式码及 `[url]`、`[note]` 等任务书标签供展示端处理。
 - 任务保留 `preRequisites`、`tasks`、`rewards` 和全部属性，物品及其 NBT 不裁剪。
 - 任务线增加 `quests` 数组，包含 `questID`、`x`、`y`、`sizeX`、`sizeY` 等原布局字段；
   增加从 0 开始的 `order`，按 `QuestLinesOrder.txt` 顺序输出。
