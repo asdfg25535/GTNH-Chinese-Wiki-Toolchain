@@ -8,10 +8,11 @@ from pathlib import Path
 import re
 import struct
 import sys
+import textwrap
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_ROOT))
-from databaseDump.bounded_json import DEFAULT_MAX_BYTES, array_pages
+from databaseDump.bounded_json import DEFAULT_MAX_BYTES, validate_limit
 from databaseDump.data_version import title_part
 
 TYPE_SUFFIX = re.compile(r"^(.*):(\d+)$")
@@ -194,6 +195,31 @@ def build_records(source, translations):
     return ordered_lines, [quests[key] for key in sorted(quests)], missing, warnings
 
 
+def pretty_array_pages(records, field, max_bytes=DEFAULT_MAX_BYTES):
+    """两空格缩进的 JSON 分页；缩进、分隔符和末尾换行均计入 UTF-8 字节数。"""
+    validate_limit(max_bytes)
+    prefix = ('{\n  ' + json.dumps(field, ensure_ascii=False) + ': [\n').encode("utf-8")
+    suffix = b"\n  ]\n}\n"
+    separator = b",\n"
+    shell_size = len(prefix) + len(suffix)
+    if shell_size > max_bytes:
+        raise ValueError(f"JSON 外层结构超过分页上限: {shell_size} > {max_bytes}")
+    batch, size = [], shell_size
+    for record in records:
+        text = json.dumps(record, ensure_ascii=False, indent=2, allow_nan=False)
+        data = textwrap.indent(text, "    ").encode("utf-8")
+        if shell_size + len(data) > max_bytes:
+            raise ValueError(f"单条 {field} 记录含缩进后超过分页上限: {shell_size + len(data)} > {max_bytes}")
+        cost = len(data) + (len(separator) if batch else 0)
+        if batch and size + cost > max_bytes:
+            yield prefix + separator.join(batch) + suffix
+            batch, size = [], shell_size
+        size += len(data) + (len(separator) if batch else 0)
+        batch.append(data)
+    if batch:
+        yield prefix + separator.join(batch) + suffix
+
+
 def export_quests(source, lang, destination, *, max_bytes=DEFAULT_MAX_BYTES,
                   strict_translations=False, dry_run=False):
     lines, quests, missing, warnings = build_records(source, read_lang(lang))
@@ -201,8 +227,8 @@ def export_quests(source, lang, destination, *, max_bytes=DEFAULT_MAX_BYTES,
         raise ValueError(f"缺少 {len(missing)} 项汉化，例如 {missing[0]}")
     # 两类页面全部完成解析、引用校验和字节限制检查后再写入。
     pages = {
-        "QuestLines": list(array_pages(lines, {}, "questLines", max_bytes)),
-        "Quests": list(array_pages(quests, {}, "quests", max_bytes)),
+        "QuestLines": list(pretty_array_pages(lines, "questLines", max_bytes)),
+        "Quests": list(pretty_array_pages(quests, "quests", max_bytes)),
     }
     destination = destination.resolve()
     stale = []

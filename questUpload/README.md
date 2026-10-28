@@ -55,7 +55,8 @@ wikitext/Data/Versions/<MOD_REMOTE_NAME>/<MOD_VERSION>/
 .\.venv\Scripts\python.exe -m unittest discover -s questUpload -p "test_*.py"
 ```
 
-每页默认最多 1,800,000 个 UTF-8 字节，可用 `--max-bytes` 调小，最大为 2,000,000。
+输出采用两空格缩进、LF 换行和末尾换行的 JSON，保留中文原文；描述字符串内部的换行使用合法的 `\n` 转义。
+每页默认最多 1,800,000 个 UTF-8 字节（包含缩进和换行），可用 `--max-bytes` 调小，最大为 2,000,000。
 单条记录无法装入一页时会报错，不拆散记录。所有数据解析和分页通过后才开始写文件。
 重新生成只更新这两个输出目录内的数字 JSON 页，移除已不需要的数字页；其他文件保留。
 内容相同的页面不重写，以保留修改时间。`--dry-run` 完成同样的校验但不写文件。
