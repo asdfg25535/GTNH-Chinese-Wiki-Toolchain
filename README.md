@@ -1,8 +1,8 @@
 # GTNH Chinese Wiki Toolchain
 
-这是 GTNH 中文维基的本地工具链仓库。主要用于数据库导出后的上传，也用于维基日常编辑。如果用于日常编辑，通常仅仅需要查看 `AGENS.md` 与 `wiki.py` 的内容。
+这是 [GTNH 中文维基](https://gtnh.huijiwiki.com/) 的本地工具链仓库。主要用于数据库导出后的上传，也用于维基日常编辑。如果用于日常编辑，通常仅仅需要查看 `AGENS.md` 与 `wiki.py` 的内容。
 
-如果运行了一次大规模的 版本更新/功能更新/重构 任务，切实影响到了维基的`Data:` 页面，需要同步维护线上的 `Project:Database` 作出必要的说明。
+如果运行了一次大规模的 版本更新/数据库功能更新/重构 任务，切实影响到了维基的`Data:` 页面，需要同步维护线上的 [Project:Database](https://gtnh.huijiwiki.com/wiki/Project:Database) 页面 作出必要的说明。
 
 ## 目录结构
 
