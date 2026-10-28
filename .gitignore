@@ -3,6 +3,7 @@ __pycache__/
 .env
 databaseDump/temp/
 databaseDump/wiki_inventory.db
+questUpload/upload_state.db*
 databaseDump/nbt_missing.csv
 databaseDump/nbt_regress_cache.json
 wikitext/
